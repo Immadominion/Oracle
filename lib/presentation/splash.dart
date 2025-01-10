@@ -8,7 +8,7 @@ import 'package:reown_appkit/reown_appkit.dart';
 
 class OracleSplash extends StatefulWidget {
   final ReownAppKitModal appKitModal;
-  const OracleSplash({super.key, required this.appKitModal}  );
+  const OracleSplash({super.key, required this.appKitModal});
 
   @override
   OracleSplashState createState() => OracleSplashState();
@@ -19,24 +19,30 @@ class OracleSplashState extends State<OracleSplash> {
   void initState() {
     super.initState();
 
-    Timer(const Duration(seconds: 2), () {
-      setState(() {
-        Navigator.of(context).pushReplacement(
-          PageTransition(
-            type: PageTransitionType.bottomToTop,
-            // child: const DashBoard(),
-            child: LoginPage(
-              appKitModal: widget.appKitModal,
-            ),
-          ),
-        );
-      });
-    });
+    // Delay for splash screen display
+    Timer(const Duration(seconds: 2), _navigateBasedOnConnection);
   }
 
-  @override
-  void dispose() {
-    super.dispose();
+  /// Navigates to the appropriate screen based on wallet connection
+  void _navigateBasedOnConnection() {
+    // Check if the appKitModal is connected
+    if (widget.appKitModal.isConnected) {
+      // Navigate to Dashboard if connected
+      Navigator.of(context).pushReplacement(
+        PageTransition(
+          type: PageTransitionType.bottomToTop,
+          child: DashBoard(appKitModal),
+        ),
+      );
+    } else {
+      // Navigate to LoginPage if not connected
+      Navigator.of(context).pushReplacement(
+        PageTransition(
+          type: PageTransitionType.bottomToTop,
+          child: LoginPage(appKitModal: widget.appKitModal),
+        ),
+      );
+    }
   }
 
   @override

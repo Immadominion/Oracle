@@ -1,3 +1,4 @@
+import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:oracle/core/extensions/widget_extension.dart';
@@ -5,10 +6,12 @@ import 'package:oracle/presentation/general_components/top_bar.dart';
 import 'package:oracle/presentation/views/wallet/widgets/user_tokens.dart';
 import 'package:oracle/presentation/views/wallet/widgets/wallet_balance.dart';
 import 'package:reown_appkit/reown_appkit.dart';
+import '../../../core/helpers/string_helpers.dart';
 import 'widgets/deposit_et_withdraw.dart';
 
 class Wallet extends StatefulWidget {
-  const Wallet({super.key});
+  final ReownAppKitModal appKitModal;
+  const Wallet({super.key, required this.appKitModal});
 
   @override
   State<StatefulWidget> createState() => _WalletState();
@@ -38,51 +41,15 @@ final List<String> ticker = <String>[
 ];
 
 class _WalletState extends State<Wallet> with WidgetsBindingObserver {
-  late ReownAppKitModal appKitModal;
-
-  void _initializeW3MService() async {
-    // You can add more EVM networks
-    List<ReownAppKitModalNetworkInfo> extraChains = [
-      ReownAppKitModalNetworkInfo(
-        isTestNetwork: true,
-        currency: 'SOL',
-        chainId: '101',
-        name: 'Solana Devnet',
-        rpcUrl: 'https://api.devnet.solana.com',
-        explorerUrl: 'https://explorer.solana.com/clusters/devnet',
-      ),
-      ReownAppKitModalNetworkInfo(
-        isTestNetwork: true,
-        currency: 'SOL',
-        chainId: '102',
-        name: 'Solana Testnet',
-        rpcUrl: 'https://api.testnet.solana.com',
-        explorerUrl: 'https://explorer.solana.com/clusters/testnet',
-      ),
-    ];
-    ReownAppKitModalNetworks.addSupportedNetworks('eip155', extraChains);
-    appKitModal = ReownAppKitModal(
-      context: context,
-      projectId: '2009f3949892128ca51c1d44fd59e939',
-      metadata: const PairingMetadata(
-        name: 'Oracle AI',
-        description: 'Memecoin trading made easy',
-        url: 'https://certifyme.live/',
-        icons: ['assets/images/oracle.png'],
-      ),
-    );
-
-    await appKitModal.init();
-  }
-
-  @override
-  void initState() {
-    super.initState();
-    _initializeW3MService();
-  }
-
   @override
   Widget build(BuildContext context) {
+    print(widget.appKitModal.balanceNotifier.value); //balance
+    print(widget.appKitModal.session?.email); // email
+    print(widget.appKitModal.session?.getAddress('solana')); // address
+
+    String shortenedAddress = StringHelper.shortenWalletAddress(
+        widget.appKitModal.session?.getAddress('solana'));
+
     return SafeArea(
         child: Scaffold(
       appBar: const TopBarWidget(
@@ -91,10 +58,34 @@ class _WalletState extends State<Wallet> with WidgetsBindingObserver {
       body: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
+          // Center(
+          //     child: Row(
+          //   crossAxisAlignment: CrossAxisAlignment.center,
+          //   mainAxisAlignment: MainAxisAlignment.center,
+          //   children: [
+          //     Text(
+          //       shortenedAddress,
+          //       style: TextStyle(
+          //         fontSize: 20.sp,
+          //         fontWeight: FontWeight.w500,
+          //       ),
+          //     ),
+          //     SizedBox(
+          //       width: 5.w,
+          //     ),
+          //     Icon(
+          //       CupertinoIcons.doc_on_doc,
+          //       size: 18.sp,
+          //       weight: 1,
+          //     )
+          //   ],
+          // )),
           const WalletBalance().afmPadding(
             EdgeInsets.symmetric(vertical: 10.h, horizontal: 16.w),
           ),
-          const DepositWithdrawWidget(),
+          DepositWithdrawWidget(
+            appKit: widget.appKitModal,
+          ),
           Expanded(
             child: ListView.builder(
               itemCount: 3,
@@ -108,12 +99,6 @@ class _WalletState extends State<Wallet> with WidgetsBindingObserver {
                   EdgeInsets.symmetric(vertical: 10.h, horizontal: 16.w),
                 );
               },
-            ),
-          ),
-          Center(
-            child: AppKitModalConnectButton(
-              context: context,
-              appKit: appKitModal,
             ),
           ),
         ],

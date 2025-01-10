@@ -47,15 +47,12 @@
 	</array>
 	<key>LSApplicationQueriesSchemes</key>
 	<array>
-  		<string>metamask</string>
-  		<string>trust</string>
-  		<string>rainbow</string>
   		<string>phantom</string>
+  		<string>solflare</string>
+  		<string>backpack</string>
+		<!-- Ton Wallets -->
   		<string>tonkeeper</string>
   		<string>mytonwallet</string>
-  		<string>solflare</string>
-		<string>cbwallet</string>
-  		<!-- Add other wallet schemes names here -->
 	</array>
 </dict>
 </plist>

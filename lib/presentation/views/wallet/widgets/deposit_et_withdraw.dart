@@ -1,9 +1,14 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:oracle/core/extensions/widget_extension.dart';
+import 'package:reown_appkit/reown_appkit.dart';
+
+import 'deposit_bottom_sheet.dart';
+import 'withdraw_bottom_sheet.dart';
 
 class DepositWithdrawWidget extends StatelessWidget {
-  const DepositWithdrawWidget({super.key});
+  final ReownAppKitModal appKit;
+  const DepositWithdrawWidget({super.key, required this.appKit});
 
   @override
   Widget build(BuildContext context) {
@@ -13,7 +18,19 @@ class DepositWithdrawWidget extends StatelessWidget {
         Expanded(
           child: ElevatedButton(
             onPressed: () {
-              debugPrint("Deposit pressed");
+              showModalBottomSheet(
+                shape: RoundedRectangleBorder(
+                  borderRadius: BorderRadius.only(
+                    topLeft: Radius.circular(20.r),
+                    topRight: Radius.circular(20.r),
+                  ),
+                ),
+                context: context,
+                isScrollControlled: true,
+                builder: (BuildContext context) {
+                  return const DepositBottomSheet();
+                },
+              );
             },
             style: ElevatedButton.styleFrom(
               backgroundColor: Theme.of(context).colorScheme.primary,
@@ -36,7 +53,13 @@ class DepositWithdrawWidget extends StatelessWidget {
         Expanded(
           child: ElevatedButton(
             onPressed: () {
-              // Handle withdraw button press
+              showModalBottomSheet(
+                context: context,
+                isScrollControlled: true,
+                builder: (BuildContext context) {
+                  return const WithdrawBottomSheet();
+                },
+              );
             },
             style: ElevatedButton.styleFrom(
               backgroundColor:

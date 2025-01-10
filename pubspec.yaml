@@ -34,7 +34,7 @@ dependencies:
   slimy_card:
     git:
       url: /Users/immadominion/SlimyCard-Animated-Flutter-Package
-  reown_appkit: ^1.3.0-beta02
+  reown_appkit: ^1.2.0-beta01
   flutter_hooks:
     ^0.20.5
     # ref: main

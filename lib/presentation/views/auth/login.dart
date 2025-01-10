@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-// import 'package:google_sign_in/google_sign_in.dart';
 import 'package:oracle/core/extensions/widget_extension.dart';
+import 'package:oracle/presentation/views/dashboard.dart';
 import 'package:reown_appkit/reown_appkit.dart';
 
 class LoginPage extends StatefulWidget {
@@ -13,6 +13,42 @@ class LoginPage extends StatefulWidget {
 }
 
 class _LoginPageState extends State<LoginPage> {
+  bool _isConnected = false;
+
+  @override
+  void initState() {
+    super.initState();
+
+    // Delay listener registration until the widget is fully built
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      widget.appKitModal.addListener(_checkConnectionStatus);
+    });
+  }
+
+  void _checkConnectionStatus() {
+    if (widget.appKitModal.isConnected && !_isConnected) {
+      setState(() {
+        _isConnected = true;
+      });
+
+      // Use `mounted` to ensure the widget is still in the widget tree
+      if (mounted) {
+        Navigator.pushReplacement(
+          context,
+          MaterialPageRoute(
+              builder: (context) => DashBoard(widget.appKitModal)),
+        );
+      }
+    }
+  }
+
+  @override
+  void dispose() {
+    // Clean up the listener to prevent memory leaks
+    widget.appKitModal.removeListener(_checkConnectionStatus);
+    super.dispose();
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -43,11 +79,7 @@ class _LoginPageState extends State<LoginPage> {
               Image.asset(
                 'assets/images/oracle.png',
                 height: 200.h,
-              ).afmBorderRadius(
-                BorderRadius.circular(
-                  15.r,
-                ),
-              ),
+              ).afmBorderRadius(BorderRadius.circular(15.r)),
               const SizedBox(height: 40),
               AppKitModalNetworkSelectButton(
                 context: context,

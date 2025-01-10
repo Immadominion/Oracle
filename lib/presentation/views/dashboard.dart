@@ -7,10 +7,12 @@ import 'package:oracle/data/controllers/dashboard_controller.dart';
 import 'package:oracle/presentation/views/home/home.dart';
 import 'package:oracle/presentation/views/positions/positions.dart';
 import 'package:oracle/presentation/views/terminal/terminal.dart';
-import 'package:oracle/presentation/views/wallet/wallet.dart';
+import 'package:oracle/presentation/views/wallet/wallet.dart' as oracle_wallet;
+import 'package:reown_appkit/reown_appkit.dart';
 
 class DashBoard extends HookConsumerWidget {
-  const DashBoard({super.key});
+  final ReownAppKitModal appKitModal;
+  const DashBoard(this.appKitModal, {super.key});
 
   @override
   Widget build(BuildContext context, WidgetRef ref) {
@@ -28,7 +30,9 @@ class DashBoard extends HookConsumerWidget {
       const Home(),
       const Terminal(),
       const Positions(),
-      const Wallet(),
+      oracle_wallet.Wallet(
+        appKitModal: appKitModal,
+      ),
     ];
 
     return Scaffold(
