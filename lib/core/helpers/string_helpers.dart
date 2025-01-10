@@ -1,7 +1,7 @@
 class StringHelper {
   /// Shortens a wallet address to the format: `start...end`
   static String shortenWalletAddress(String? address,
-      {int start = 6, int end = 3}) {
+      {int start = 6, int end = 4}) {
     if (address == null || address.isEmpty || address.length <= start + end) {
       return "No Wallet";
     } else {

@@ -70,6 +70,7 @@ class _OracleState extends ConsumerState<Oracle> {
     final isDarkMode = ref.watch(themeProvider).isDarkMode;
     debugPrint(
         "The screen is on >> ${isDarkMode ? 'Dark mode' : 'Light mode'}");
+
     return ScreenUtilInit(
       designSize: ScreenUtil.defaultSize,
       minTextAdapt: true,
@@ -110,6 +111,7 @@ class _OracleState extends ConsumerState<Oracle> {
                   // Finally, handle the success case
                   if (snapshot.hasData) {
                     final appKitModal = snapshot.data!;
+                    log("App kit info >> $appKitModal");
                     return Stack(
                       children: [
                         OracleSplash(
