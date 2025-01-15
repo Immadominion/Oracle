@@ -79,7 +79,7 @@ class HomeAppBarState extends State<HomeAppBar> {
                   });
                 },
                 activeColor:
-                    CertifyColors.primaryDark, // Thumb color when active
+                    OracleColors.primaryDark, // Thumb color when active
                 trackColor:
                     Colors.grey.withOpacity(0.5), // Track color when inactive
               ),

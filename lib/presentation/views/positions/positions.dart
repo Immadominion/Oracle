@@ -29,7 +29,7 @@ class _HomeState extends ConsumerState<Positions>
                 text: "Positions",
               ),
               TabBar(
-                indicatorColor: CertifyColors.primary,
+                indicatorColor: OracleColors.primary,
                 controller: TabController(
                   length: 2,
                   vsync: this,

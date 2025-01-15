@@ -7,6 +7,7 @@ import 'package:oracle/data/controllers/dashboard_controller.dart';
 import 'package:oracle/presentation/views/home/home.dart';
 import 'package:oracle/presentation/views/positions/positions.dart';
 import 'package:oracle/presentation/views/terminal/terminal.dart';
+import 'package:oracle/presentation/views/terminal/widgets/web_socket_tests.dart';
 import 'package:oracle/presentation/views/wallet/wallet.dart' as oracle_wallet;
 import 'package:reown_appkit/reown_appkit.dart';
 
@@ -28,7 +29,8 @@ class DashBoard extends HookConsumerWidget {
 
     final List<Widget> tabs = [
       const Home(),
-      const Terminal(),
+      // const Terminal(),
+      WebSocketTest(), // const MemecoinFeed(),
       const Positions(),
       oracle_wallet.Wallet(
         appKitModal: appKitModal,

@@ -4,6 +4,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:oktoast/oktoast.dart';
 
+import '../../core/constants/env_colors.dart';
+
 class ToastService {
   void showSuccessToast(String message) {
     _showToast(message);
@@ -51,11 +53,7 @@ class ToastService {
               ),
             ],
             gradient: LinearGradient(
-              colors: const [
-                Color.fromARGB(221, 95, 19, 167),
-                Color.fromARGB(221, 95, 19, 167),
-                Color.fromARGB(221, 95, 19, 167),
-              ],
+              colors: OracleColors.containerGradient,
               stops: const [0.0, 0.4, 0.8],
               begin: Alignment.topLeft,
               end: Alignment.bottomRight,
@@ -69,10 +67,10 @@ class ToastService {
             child: Text(
               message,
               style: TextStyle(
-                color: Colors.white,
-                fontSize: 14.sp,
-                fontFamily: 'Int',
-              ),
+                  color: Colors.white,
+                  fontSize: 14.sp,
+                  fontFamily: 'Int',
+                  fontWeight: FontWeight.w700),
             ),
           ),
         ),

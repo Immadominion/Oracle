@@ -3,7 +3,6 @@ import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:oracle/core/constants/constants.dart';
 import 'package:oracle/core/extensions/widget_extension.dart';
 
-
 class WalletBalance extends StatelessWidget {
   const WalletBalance({
     super.key,
@@ -17,8 +16,7 @@ class WalletBalance extends StatelessWidget {
         Text(
           "Total Balance",
           style: TextStyle(
-            color:
-                Theme.of(context).colorScheme.onSurface.withOpacity(.5),
+            color: Theme.of(context).colorScheme.onSurface.withOpacity(.5),
             fontSize: 16.sp,
             fontWeight: FontWeight.w500,
             fontFamily: "Int",
@@ -44,7 +42,7 @@ class WalletBalance extends StatelessWidget {
         Text(
           "+1,597,230.00\$",
           style: TextStyle(
-            color: CertifyColors.successColor,
+            color: OracleColors.successColor,
             fontSize: 13.sp,
             fontWeight: FontWeight.bold,
             fontFamily: "Int",

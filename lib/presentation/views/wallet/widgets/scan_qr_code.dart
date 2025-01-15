@@ -61,7 +61,7 @@ class _ScanQRCodeState extends State<ScanQRCode>
     return Container(
       width: double.maxFinite,
       height: screenSize.height * .7,
-      decoration: BoxDecoration(
+      decoration: const BoxDecoration(
           // color: Theme.of(context).colorScheme.onSurface.withOpacity(.7),
           ),
       child: Stack(
@@ -132,19 +132,27 @@ class _ScanQRCodeState extends State<ScanQRCode>
                           border: Border(
                             top: isTop
                                 ? BorderSide(
-                                    color: const Color(0xFF8246F3), width: 4.sp)
+                                    color:
+                                        Theme.of(context).colorScheme.primary,
+                                    width: 3.sp)
                                 : BorderSide.none,
                             bottom: !isTop
                                 ? BorderSide(
-                                    color: const Color(0xFF8246F3), width: 4.sp)
+                                    color:
+                                        Theme.of(context).colorScheme.primary,
+                                    width: 3.sp)
                                 : BorderSide.none,
                             left: isLeft
                                 ? BorderSide(
-                                    color: const Color(0xFF8246F3), width: 4.sp)
+                                    color:
+                                        Theme.of(context).colorScheme.primary,
+                                    width: 3.sp)
                                 : BorderSide.none,
                             right: !isLeft
                                 ? BorderSide(
-                                    color: const Color(0xFF8246F3), width: 4.sp)
+                                    color:
+                                        Theme.of(context).colorScheme.primary,
+                                    width: 3.sp)
                                 : BorderSide.none,
                           ),
                         ),

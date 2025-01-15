@@ -16,8 +16,6 @@ Future<void> setUpLocator() async {
     ),
   );
 
-
-
   locator.registerLazySingleton<ErrorService>(
     () => ErrorService(),
   );

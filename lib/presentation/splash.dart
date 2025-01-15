@@ -48,7 +48,7 @@ class OracleSplashState extends State<OracleSplash> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Theme.of(context).colorScheme.background,
+      backgroundColor: Theme.of(context).colorScheme.surface,
       body: Center(
         child: Image.asset(
           "assets/images/oracle.png",

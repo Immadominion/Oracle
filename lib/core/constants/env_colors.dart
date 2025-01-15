@@ -1,12 +1,13 @@
 import 'package:flutter/material.dart';
 
-class CertifyColors {
+class OracleColors {
   static Color appBackgroundColor = const Color.fromARGB(255, 239, 239, 239);
   static List<Color> containerGradient = const [
-    Color.fromARGB(255, 62, 213, 255),
-    Color.fromARGB(255, 255, 153, 0),
-    Color.fromARGB(255, 244, 67, 54),
+    Color.fromARGB(255, 0, 176, 215), 
+    Color.fromARGB(255, 0, 136, 195), 
+    Color.fromARGB(255, 102, 224, 255), 
   ];
+
   static Color darkBackgroundColor = const Color.fromRGBO(51, 51, 51, 1);
   static Color lightBackgroundColor = const Color.fromRGBO(255, 255, 255, 1);
   static Color dashboardWhiteColor = const Color.fromRGBO(255, 255, 255, 0.1);

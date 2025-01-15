@@ -5,16 +5,17 @@ import 'dart:developer';
 
 import 'package:dio/dio.dart';
 import 'package:flutter/foundation.dart';
-import 'package:flutter/material.dart';
 import 'package:oracle/core/constants/env_strings.dart';
 import 'package:oracle/data/local/toast_service.dart';
 import 'package:oracle/utils/locator.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
+import '../../core/constants/env_api_constants.dart';
+
 mixin DioMixin {
   Dio connect({Map<String, dynamic>? customHeaders}) {
     BaseOptions options = BaseOptions(
-      baseUrl: 'https://certify-h4f.onrender.com/api',
+      baseUrl: 'wss://streaming.bitquery.io/eap?token=$apiKey',
       connectTimeout: const Duration(seconds: 200),
       receiveTimeout: const Duration(seconds: 200),
       responseType: ResponseType.json,

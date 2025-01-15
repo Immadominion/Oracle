@@ -210,7 +210,7 @@ Widget _buildCryptoCard(String ticker, String value, String change, Color color,
         Text(
           change,
           style: const TextStyle(
-            color: CertifyColors.errorColor,
+            color: OracleColors.errorColor,
           ),
         ),
       ],
@@ -269,7 +269,7 @@ Widget _buildCryptoListTile(String ticker, String value, String change,
         Text(
           change,
           style: const TextStyle(
-            color: CertifyColors.errorColor,
+            color: OracleColors.errorColor,
           ),
         ),
       ],

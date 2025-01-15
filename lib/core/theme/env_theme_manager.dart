@@ -9,53 +9,50 @@ class EnvThemeManager {
   static ThemeData lightTheme = themeData(_lightColorScheme);
   static ThemeData darkTheme = themeData(_darkColorScheme);
 
- static final ColorScheme _lightColorScheme = const ColorScheme.light().copyWith(
-  primary: CertifyColors.primary,
-  error: CertifyColors.errorColor,
-  background: CertifyColors.appBackgroundColor,
-  inverseSurface: CertifyColors.darkBackgroundColor,
-  surface: CertifyColors.lightBackgroundColor,
-  onBackground: CertifyColors.darkColor,
-  onPrimary: CertifyColors.darkColor,
-  shadow: CertifyColors.darkColor,
-  onPrimaryContainer: CertifyColors.darkColor,
-  onInverseSurface: CertifyColors.dashboardWhiteColor,
-  onSecondary: CertifyColors.darkColor,
-  onSurface: CertifyColors.darkColor,
-  onSurfaceVariant: CertifyColors.whitePaddingColor,
-  onTertiary: CertifyColors.darkColor.withOpacity(0.5),
-  onErrorContainer: CertifyColors.lightColor,
-  onTertiaryContainer: CertifyColors.darkBackgroundColor,
-  onSecondaryContainer: CertifyColors.whitePaddingColor,
-  brightness: Brightness.light,
-  secondary: CertifyColors.mildLightColor,
-);
+  static final ColorScheme _lightColorScheme =
+      const ColorScheme.light().copyWith(
+    primary: OracleColors.primary,
+    error: OracleColors.errorColor,
+    inverseSurface: OracleColors.darkBackgroundColor,
+    surface: OracleColors.lightBackgroundColor,
+    onPrimary: OracleColors.darkColor,
+    shadow: OracleColors.darkColor,
+    onPrimaryContainer: OracleColors.darkColor,
+    onInverseSurface: OracleColors.dashboardWhiteColor,
+    onSecondary: OracleColors.darkColor,
+    onSurface: OracleColors.darkColor,
+    onSurfaceVariant: OracleColors.whitePaddingColor,
+    onTertiary: OracleColors.darkColor.withOpacity(0.5),
+    onErrorContainer: OracleColors.lightColor,
+    onTertiaryContainer: OracleColors.darkBackgroundColor,
+    onSecondaryContainer: OracleColors.whitePaddingColor,
+    brightness: Brightness.light,
+    secondary: OracleColors.mildLightColor,
+  );
 
- static final ColorScheme _darkColorScheme = const ColorScheme.dark().copyWith(
-  primary: CertifyColors.primary,
-  error: CertifyColors.errorColor,
-  background: CertifyColors.darkBackgroundColor,
-  surface: CertifyColors.darkBackgroundColor,
-  onBackground: CertifyColors.lightColor,
-  onPrimary: CertifyColors.lightColor,
-  shadow: CertifyColors.lightColor,
-  onSurface: CertifyColors.lightColor,
-  onError: CertifyColors.lightColor,
-  onSecondary: CertifyColors.lightColor,
-  onInverseSurface: CertifyColors.darkBackgroundColor.withOpacity(0.5),
-  brightness: Brightness.dark,
-  secondary: CertifyColors.mildGrey,
-  onSecondaryContainer: CertifyColors.darkPaddingColor,
-  onSurfaceVariant: CertifyColors.lightColor,
-  primaryContainer: CertifyColors.darkColor,
-);
+  static final ColorScheme _darkColorScheme = const ColorScheme.dark().copyWith(
+    primary: OracleColors.primary,
+    error: OracleColors.errorColor,
+    surface: OracleColors.darkBackgroundColor,
+    onPrimary: OracleColors.lightColor,
+    shadow: OracleColors.lightColor,
+    onSurface: OracleColors.lightColor,
+    onError: OracleColors.lightColor,
+    onSecondary: OracleColors.lightColor,
+    onInverseSurface: OracleColors.darkBackgroundColor.withOpacity(0.5),
+    brightness: Brightness.dark,
+    secondary: OracleColors.mildGrey,
+    onSecondaryContainer: OracleColors.darkPaddingColor,
+    onSurfaceVariant: OracleColors.lightColor,
+    primaryContainer: OracleColors.darkColor,
+  );
 
   static ThemeData themeData(ColorScheme colorScheme) => ThemeData(
-        scaffoldBackgroundColor: colorScheme.background,
+        scaffoldBackgroundColor: colorScheme.surface,
         colorScheme: colorScheme,
         fontFamily: fontFamily,
         useMaterial3: false,
         iconTheme: IconThemeData(color: colorScheme.onSurface),
-        appBarTheme: AppBarTheme(backgroundColor: colorScheme.background),
+        appBarTheme: AppBarTheme(backgroundColor: colorScheme.surface),
       );
 }

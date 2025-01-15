@@ -1,14 +1,17 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
+import 'package:oktoast/oktoast.dart';
 import 'package:oracle/core/theme/env_theme_manager.dart';
 import 'package:oracle/presentation/splash.dart';
+import 'package:oracle/utils/locator.dart';
 import 'package:reown_appkit/reown_appkit.dart';
 
 import 'data/controllers/theme_notifier.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
+  setUpLocator();
 
   runApp(const ProviderScope(
     child: Oracle(),
@@ -76,7 +79,8 @@ class _OracleState extends ConsumerState<Oracle> {
       minTextAdapt: true,
       splitScreenMode: true,
       builder: (_, __) {
-        return MaterialApp(
+        return OKToast(
+          child: MaterialApp(
             title: "Oracle",
             navigatorKey: navigatorKey,
             debugShowCheckedModeBanner: false,
@@ -84,54 +88,43 @@ class _OracleState extends ConsumerState<Oracle> {
             theme: EnvThemeManager.lightTheme,
             themeMode: isDarkMode ? ThemeMode.dark : ThemeMode.light,
             home: FutureBuilder(
-                future: initializeAppKitModal(),
-                builder: (context, snapshot) {
-                  // First check if still loading
-                  if (snapshot.connectionState == ConnectionState.waiting) {
-                    return const Scaffold(
-                      body: Center(
-                        child: CircularProgressIndicator(),
-                      ),
-                    );
-                  }
-                  // Then check for errors
-                  if (snapshot.hasError) {
-                    return Scaffold(
-                      body: Center(
-                        child: Text(
-                          'Error initializing appKitModal: ${snapshot.error}',
-                          style: TextStyle(
-                            color: Colors.red,
-                            fontSize: 20.sp,
-                          ),
-                        ),
-                      ),
-                    );
-                  }
-                  // Finally, handle the success case
-                  if (snapshot.hasData) {
-                    final appKitModal = snapshot.data!;
-                    log("App kit info >> $appKitModal");
-                    return Stack(
-                      children: [
-                        OracleSplash(
-                          appKitModal: appKitModal,
-                        ),
-                        AppKitModalConnectButton(
-                          appKit: appKitModal,
-                          custom: const SizedBox.shrink(),
-                        ),
-                      ],
-                    );
-                  }
-
-                  // Fallback case (should rarely happen)
+              future: initializeAppKitModal(),
+              builder: (context, snapshot) {
+                if (snapshot.connectionState == ConnectionState.waiting) {
                   return const Scaffold(
+                    body: Center(child: CircularProgressIndicator()),
+                  );
+                }
+                if (snapshot.hasError) {
+                  return Scaffold(
                     body: Center(
-                      child: Text('Unexpected state: No data available'),
+                      child: Text(
+                        'Error initializing appKitModal: ${snapshot.error}',
+                        style: TextStyle(color: Colors.red, fontSize: 20.sp),
+                      ),
                     ),
                   );
-                }));
+                }
+                if (snapshot.hasData) {
+                  final appKitModal = snapshot.data!;
+                  return Stack(
+                    children: [
+                      OracleSplash(appKitModal: appKitModal),
+                      AppKitModalConnectButton(
+                        appKit: appKitModal,
+                        custom: const SizedBox.shrink(),
+                      ),
+                    ],
+                  );
+                }
+                return const Scaffold(
+                  body: Center(
+                      child: Text('Unexpected state: No data available')),
+                );
+              },
+            ),
+          ),
+        );
       },
     );
   }
