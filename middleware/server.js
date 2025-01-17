@@ -3,13 +3,13 @@ const http = require('http');
 const WebSocket = require('ws');
 const dotenv = require('dotenv');
 const bitqueryService = require('./bitqueryService');
+const routes = require('./src/routes/routes');
 
 dotenv.config();
 
 const app = express();
 const server = http.createServer(app);
 const wss = new WebSocket.Server({ server });
-
 const PORT = process.env.PORT || 8080;
 
 let clients = [];
@@ -39,6 +39,11 @@ function broadcastData(data) {
     }
   });
 }
+
+bitqueryService.startBitqueryStream(broadcastData);
+
+app.use(express.json());
+app.use('/api', routes);
 
 server.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);

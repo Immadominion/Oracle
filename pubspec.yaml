@@ -44,6 +44,8 @@ dependencies:
   web_socket_channel: ^3.0.1
   socket_io_client: ^3.0.2
   logger: ^2.5.0
+  connectivity_plus: ^6.1.2
+  http: ^1.2.2
 
     # ref: main
 

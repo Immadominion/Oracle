@@ -1,4 +1,5 @@
 const { WebSocket } = require('ws');
+const batchHandler = require('../utils/batchHandler');
 require('dotenv').config();
 
 let recentUpdates = [];
@@ -78,6 +79,7 @@ function startBitqueryStream(broadcastData) {
           }
 
           broadcastData(formattedUpdate);
+          batchHandler.handleNewToken(formattedUpdate);
         });
       }
     } catch (err) {
