@@ -1,6 +1,6 @@
-import {tokenData} from '../utils/testTokenData.js';
+const fetch = require('node-fetch');
 
-async function askOracleAI(tokenData) {
+async function askOracleAI(batch) {
     const controller = new AbortController();
     const timeout = setTimeout(() => controller.abort(), 10000); // 10 seconds timeout
   
@@ -80,7 +80,7 @@ async function askOracleAI(tokenData) {
       }
   
     } catch (error) {
-      console.error('Fetch error:', error);
+      console.error('AI Analysis Error:', error);
     }
   }
 

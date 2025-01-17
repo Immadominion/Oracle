@@ -27,7 +27,7 @@ async function handleNewToken(tokenData) {
     storeBatch([...currentBatch]);
 
     // Send batch to Oracle AI
-    const aiResponse = await llmService.analyzeBatch(currentBatch);
+    const aiResponse = await llmService.askOracleAI(currentBatch);
     storeAIResponse(aiResponse);
 
     currentBatch = []; // Reset batch
