@@ -1,6 +1,9 @@
-const { WebSocket } = require('ws');
-const batchHandler = require('../utils/batchHandler');
-require('dotenv').config();
+import { WebSocket } from 'ws';
+import { handleNewToken } from '../utils/batchHandler.js';
+import dotenv from 'dotenv';
+import { json } from 'express';
+
+dotenv.config();
 
 let recentUpdates = [];
 const MAX_STORED_UPDATES = 100;
@@ -39,18 +42,22 @@ function startBitqueryStream(broadcastData) {
             query: `
               subscription {
                 Solana {
-                  TokenSupplyUpdates(
-                    where: {Instruction: {Program: {Address: {is: "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P"}, Method: {is: "create"}}}}
-                  ) {
+                  TokenSupplyUpdates {
                     TokenSupplyUpdate {
-                      Amount
                       Currency {
                         Symbol
                         Name
-                        MintAddress
                         Uri
+                        Decimals
+                        MintAddress
+                        MetadataAddress
+                        ProgramAddress
+                        UpdateAuthority
+                        VerifiedCollection
+                        Wrapped
                       }
                       PostBalance
+                      Amount
                     }
                   }
                 }
@@ -60,18 +67,23 @@ function startBitqueryStream(broadcastData) {
         }));
       } else if (response.type === 'data') {
         const updates = response.payload.data.Solana.TokenSupplyUpdates;
-        updates.forEach(update => {
+
+        console.log('--- New Bitquery Data ---');
+        updates.forEach((update) => {
+          // Log the complete update object
+          console.log('Full Update Object:', JSON.stringify(update, null, 2));
+
           const formattedUpdate = {
-            amount: update.TokenSupplyUpdate.Amount,
+            amount: update.TokenSupplyUpdate.PostBalance,
             symbol: update.TokenSupplyUpdate.Currency.Symbol,
             name: update.TokenSupplyUpdate.Currency.Name,
-            mintAddress: update.TokenSupplyUpdate.Currency.MintAddress,
-            uri: update.TokenSupplyUpdate.Currency.Uri,
-            postBalance: update.TokenSupplyUpdate.PostBalance,
+            uri: update.TokenSupplyUpdate.Currency.Uri || 'N/A',
+            postBalance: update.TokenSupplyUpdate.PostBalance || 0,
             timestamp: new Date().toISOString()
           };
 
-          console.log('New token update:', formattedUpdate);
+          // console.log('Formatted Update:', formattedUpdate); // Log the formatted version as well
+          console.log('--- End of Update ---')
 
           recentUpdates.unshift(formattedUpdate);
           if (recentUpdates.length > MAX_STORED_UPDATES) {
@@ -79,7 +91,8 @@ function startBitqueryStream(broadcastData) {
           }
 
           broadcastData(formattedUpdate);
-          batchHandler.handleNewToken(formattedUpdate);
+          handleNewToken(formattedUpdate);
+          // handleNewToken(JSON.stringify(update, null, 2));
         });
       }
     } catch (err) {
@@ -99,4 +112,4 @@ function stopBitqueryStream() {
   }
 }
 
-module.exports = { startBitqueryStream, stopBitqueryStream, getRecentUpdates };
+export default { startBitqueryStream, stopBitqueryStream, getRecentUpdates };

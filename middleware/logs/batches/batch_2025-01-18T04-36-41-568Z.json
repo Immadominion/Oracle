@@ -1,0 +1,1641 @@
+{
+  "timestamp": "2025-01-18T04-36-41-568Z",
+  "tokens": [
+    {
+      "amount": "1",
+      "symbol": "LOA",
+      "name": "LOA",
+      "uri": "https://arweave.net/MocVwJw9ZKx81g2r7Lz3l_B6QbG7EvL_DYNqiEoTVww",
+      "postBalance": "1",
+      "timestamp": "2025-01-18T04:36:40.695Z",
+      "processed_timestamp": "2025-01-18T04:36:40.695Z",
+      "metadata": {
+        "animation_url": "",
+        "attributes": [],
+        "description": "A single drop of blood, with veins extending from it, symbolizes the brotherhood of Drip. This artwork represents the powerful bonds and shared life we nurture together",
+        "external_url": "https://drip.haus/loa",
+        "image": "https://arweave.net/PKYPrZSl6m5njOKR0NqN3vrZ9c3A-37EkuN3Rw3b7L4?ext=png",
+        "name": "LOA",
+        "properties": {
+          "category": "image",
+          "files": [
+            {
+              "type": "image/png",
+              "uri": "https://arweave.net/PKYPrZSl6m5njOKR0NqN3vrZ9c3A-37EkuN3Rw3b7L4?ext=png"
+            }
+          ]
+        },
+        "symbol": "LOA"
+      }
+    },
+    {
+      "amount": "1",
+      "symbol": "",
+      "name": "SKEZZING",
+      "uri": "https://arweave.net/Sb9s4CHuPIsDMAnskbjfszp1j49h-ypC4qKZ37ncNr0",
+      "postBalance": "1",
+      "timestamp": "2025-01-18T04:36:40.695Z",
+      "processed_timestamp": "2025-01-18T04:36:40.695Z",
+      "metadata": {
+        "animation_url": "",
+        "attributes": [],
+        "description": "This collection will feature my tradional art / manual sketch.\nhope you all liked it and please enjoy my werk",
+        "external_url": "",
+        "image": "https://arweave.net/yxYqBubR1JgThQVZ_ljHkuXojQ7W-NXu9OLL7W3iNXk?ext=jpg",
+        "name": "SKEZZING",
+        "properties": {
+          "category": "image",
+          "files": [
+            {
+              "type": "image/jpeg",
+              "uri": "https://arweave.net/yxYqBubR1JgThQVZ_ljHkuXojQ7W-NXu9OLL7W3iNXk?ext=jpg"
+            }
+          ]
+        },
+        "symbol": ""
+      }
+    },
+    {
+      "amount": "1",
+      "symbol": "",
+      "name": "Cute Dragon",
+      "uri": "https://arweave.net/SxW5ZgHkLAQmGm6KJEmTHWBz-FHuIe4DuMJCchN80Ow",
+      "postBalance": "1",
+      "timestamp": "2025-01-18T04:36:40.695Z",
+      "processed_timestamp": "2025-01-18T04:36:40.695Z",
+      "metadata": {
+        "animation_url": "",
+        "attributes": [],
+        "description": "AI collection",
+        "external_url": "",
+        "image": "https://arweave.net/pS0atjlPqHnDXfI2sGcePztILeZUNMCR2KRwiJmLpJQ?ext=png",
+        "name": "Cute Dragon",
+        "properties": {
+          "category": "image",
+          "files": [
+            {
+              "type": "image/png",
+              "uri": "https://arweave.net/pS0atjlPqHnDXfI2sGcePztILeZUNMCR2KRwiJmLpJQ?ext=png"
+            }
+          ]
+        },
+        "symbol": ""
+      }
+    },
+    {
+      "amount": "1",
+      "symbol": "",
+      "name": "INKZZ",
+      "uri": "https://arweave.net/EllbzCD5H_9ESVb4jAbJds7mkuBhUU9Ogkc7WIVUezs",
+      "postBalance": "1",
+      "timestamp": "2025-01-18T04:36:40.695Z",
+      "processed_timestamp": "2025-01-18T04:36:40.695Z",
+      "metadata": {
+        "animation_url": "",
+        "attributes": [],
+        "description": "This collection will feature my tradional work wich i using ink or drawing pen to draw it.\nTake a look and enjoy!\nReally apreciate it for all your support and kindness!",
+        "external_url": "",
+        "image": "https://arweave.net/o3_SNREdWPUtj1o_tx6kVrdW_BM4iMKV130UQ-ViqiU?ext=jpg",
+        "name": "INKZZ",
+        "properties": {
+          "category": "image",
+          "files": [
+            {
+              "type": "image/jpeg",
+              "uri": "https://arweave.net/o3_SNREdWPUtj1o_tx6kVrdW_BM4iMKV130UQ-ViqiU?ext=jpg"
+            }
+          ]
+        },
+        "symbol": ""
+      }
+    },
+    {
+      "amount": "1",
+      "symbol": "",
+      "name": "Cute Dragon",
+      "uri": "https://arweave.net/SxW5ZgHkLAQmGm6KJEmTHWBz-FHuIe4DuMJCchN80Ow",
+      "postBalance": "1",
+      "timestamp": "2025-01-18T04:36:40.695Z",
+      "processed_timestamp": "2025-01-18T04:36:40.695Z",
+      "metadata": {
+        "animation_url": "",
+        "attributes": [],
+        "description": "AI collection",
+        "external_url": "",
+        "image": "https://arweave.net/pS0atjlPqHnDXfI2sGcePztILeZUNMCR2KRwiJmLpJQ?ext=png",
+        "name": "Cute Dragon",
+        "properties": {
+          "category": "image",
+          "files": [
+            {
+              "type": "image/png",
+              "uri": "https://arweave.net/pS0atjlPqHnDXfI2sGcePztILeZUNMCR2KRwiJmLpJQ?ext=png"
+            }
+          ]
+        },
+        "symbol": ""
+      }
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.345Z",
+      "processed_timestamp": "2025-01-18T04:36:41.345Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.346Z",
+      "processed_timestamp": "2025-01-18T04:36:41.346Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.347Z",
+      "processed_timestamp": "2025-01-18T04:36:41.347Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.347Z",
+      "processed_timestamp": "2025-01-18T04:36:41.347Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.347Z",
+      "processed_timestamp": "2025-01-18T04:36:41.347Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.347Z",
+      "processed_timestamp": "2025-01-18T04:36:41.347Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.347Z",
+      "processed_timestamp": "2025-01-18T04:36:41.347Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.347Z",
+      "processed_timestamp": "2025-01-18T04:36:41.347Z",
+      "metadata": null
+    },
+    {
+      "amount": "11046.927110361",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "11046.927110361",
+      "timestamp": "2025-01-18T04:36:41.347Z",
+      "processed_timestamp": "2025-01-18T04:36:41.347Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.347Z",
+      "processed_timestamp": "2025-01-18T04:36:41.347Z",
+      "metadata": null
+    },
+    {
+      "amount": "1889937124.354230",
+      "symbol": "USDT",
+      "name": "USDT",
+      "uri": "N/A",
+      "postBalance": "1889937124.354230",
+      "timestamp": "2025-01-18T04:36:41.348Z",
+      "processed_timestamp": "2025-01-18T04:36:41.348Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.348Z",
+      "processed_timestamp": "2025-01-18T04:36:41.348Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.348Z",
+      "processed_timestamp": "2025-01-18T04:36:41.348Z",
+      "metadata": null
+    },
+    {
+      "amount": "4308554.756773701",
+      "symbol": "mSOL",
+      "name": "Marinade staked SOL (mSOL)",
+      "uri": "N/A",
+      "postBalance": "4308554.756773701",
+      "timestamp": "2025-01-18T04:36:41.348Z",
+      "processed_timestamp": "2025-01-18T04:36:41.348Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.348Z",
+      "processed_timestamp": "2025-01-18T04:36:41.348Z",
+      "metadata": null
+    },
+    {
+      "amount": "1889937124.354230",
+      "symbol": "USDT",
+      "name": "USDT",
+      "uri": "N/A",
+      "postBalance": "1889937124.354230",
+      "timestamp": "2025-01-18T04:36:41.348Z",
+      "processed_timestamp": "2025-01-18T04:36:41.348Z",
+      "metadata": null
+    },
+    {
+      "amount": "12928.953004131",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "12928.953004131",
+      "timestamp": "2025-01-18T04:36:41.348Z",
+      "processed_timestamp": "2025-01-18T04:36:41.348Z",
+      "metadata": null
+    },
+    {
+      "amount": "1889937124.354230",
+      "symbol": "USDT",
+      "name": "USDT",
+      "uri": "N/A",
+      "postBalance": "1889937124.354230",
+      "timestamp": "2025-01-18T04:36:41.348Z",
+      "processed_timestamp": "2025-01-18T04:36:41.348Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.349Z",
+      "processed_timestamp": "2025-01-18T04:36:41.349Z",
+      "metadata": null
+    },
+    {
+      "amount": "1889937124.354230",
+      "symbol": "USDT",
+      "name": "USDT",
+      "uri": "N/A",
+      "postBalance": "1889937124.354230",
+      "timestamp": "2025-01-18T04:36:41.349Z",
+      "processed_timestamp": "2025-01-18T04:36:41.349Z",
+      "metadata": null
+    },
+    {
+      "amount": "4308554.756773701",
+      "symbol": "mSOL",
+      "name": "Marinade staked SOL (mSOL)",
+      "uri": "N/A",
+      "postBalance": "4308554.756773701",
+      "timestamp": "2025-01-18T04:36:41.349Z",
+      "processed_timestamp": "2025-01-18T04:36:41.349Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.349Z",
+      "processed_timestamp": "2025-01-18T04:36:41.349Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.349Z",
+      "processed_timestamp": "2025-01-18T04:36:41.349Z",
+      "metadata": null
+    },
+    {
+      "amount": "1889937124.354230",
+      "symbol": "USDT",
+      "name": "USDT",
+      "uri": "N/A",
+      "postBalance": "1889937124.354230",
+      "timestamp": "2025-01-18T04:36:41.349Z",
+      "processed_timestamp": "2025-01-18T04:36:41.349Z",
+      "metadata": null
+    },
+    {
+      "amount": "1889937124.354230",
+      "symbol": "USDT",
+      "name": "USDT",
+      "uri": "N/A",
+      "postBalance": "1889937124.354230",
+      "timestamp": "2025-01-18T04:36:41.349Z",
+      "processed_timestamp": "2025-01-18T04:36:41.349Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.349Z",
+      "processed_timestamp": "2025-01-18T04:36:41.349Z",
+      "metadata": null
+    },
+    {
+      "amount": "1889937124.354230",
+      "symbol": "USDT",
+      "name": "USDT",
+      "uri": "N/A",
+      "postBalance": "1889937124.354230",
+      "timestamp": "2025-01-18T04:36:41.349Z",
+      "processed_timestamp": "2025-01-18T04:36:41.349Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.349Z",
+      "processed_timestamp": "2025-01-18T04:36:41.349Z",
+      "metadata": null
+    },
+    {
+      "amount": "3717.493098243",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "3717.493098243",
+      "timestamp": "2025-01-18T04:36:41.349Z",
+      "processed_timestamp": "2025-01-18T04:36:41.349Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.349Z",
+      "processed_timestamp": "2025-01-18T04:36:41.349Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.349Z",
+      "processed_timestamp": "2025-01-18T04:36:41.350Z",
+      "metadata": null
+    },
+    {
+      "amount": "2626883.45166217",
+      "symbol": "TRUMP",
+      "name": "MAGA (Wormhole)",
+      "uri": "N/A",
+      "postBalance": "2626883.45166217",
+      "timestamp": "2025-01-18T04:36:41.350Z",
+      "processed_timestamp": "2025-01-18T04:36:41.350Z",
+      "metadata": null
+    },
+    {
+      "amount": "1026.140966074",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "1026.140966074",
+      "timestamp": "2025-01-18T04:36:41.350Z",
+      "processed_timestamp": "2025-01-18T04:36:41.350Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.350Z",
+      "processed_timestamp": "2025-01-18T04:36:41.350Z",
+      "metadata": null
+    },
+    {
+      "amount": "1889937124.354230",
+      "symbol": "USDT",
+      "name": "USDT",
+      "uri": "N/A",
+      "postBalance": "1889937124.354230",
+      "timestamp": "2025-01-18T04:36:41.350Z",
+      "processed_timestamp": "2025-01-18T04:36:41.350Z",
+      "metadata": null
+    },
+    {
+      "amount": "3005069.189057982",
+      "symbol": "Anon",
+      "name": "HeyAnon",
+      "uri": "N/A",
+      "postBalance": "3005069.189057982",
+      "timestamp": "2025-01-18T04:36:41.351Z",
+      "processed_timestamp": "2025-01-18T04:36:41.351Z",
+      "metadata": null
+    },
+    {
+      "amount": "1026.141219117",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "1026.141219117",
+      "timestamp": "2025-01-18T04:36:41.353Z",
+      "processed_timestamp": "2025-01-18T04:36:41.353Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.353Z",
+      "processed_timestamp": "2025-01-18T04:36:41.353Z",
+      "metadata": null
+    },
+    {
+      "amount": "2626883.45166217",
+      "symbol": "TRUMP",
+      "name": "MAGA (Wormhole)",
+      "uri": "N/A",
+      "postBalance": "2626883.45166217",
+      "timestamp": "2025-01-18T04:36:41.355Z",
+      "processed_timestamp": "2025-01-18T04:36:41.355Z",
+      "metadata": null
+    },
+    {
+      "amount": "2626883.45166217",
+      "symbol": "TRUMP",
+      "name": "MAGA (Wormhole)",
+      "uri": "N/A",
+      "postBalance": "2626883.45166217",
+      "timestamp": "2025-01-18T04:36:41.355Z",
+      "processed_timestamp": "2025-01-18T04:36:41.355Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.355Z",
+      "processed_timestamp": "2025-01-18T04:36:41.355Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.356Z",
+      "processed_timestamp": "2025-01-18T04:36:41.356Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.359Z",
+      "processed_timestamp": "2025-01-18T04:36:41.359Z",
+      "metadata": null
+    },
+    {
+      "amount": "1889937124.354230",
+      "symbol": "USDT",
+      "name": "USDT",
+      "uri": "N/A",
+      "postBalance": "1889937124.354230",
+      "timestamp": "2025-01-18T04:36:41.359Z",
+      "processed_timestamp": "2025-01-18T04:36:41.359Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.359Z",
+      "processed_timestamp": "2025-01-18T04:36:41.359Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.360Z",
+      "processed_timestamp": "2025-01-18T04:36:41.360Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.361Z",
+      "processed_timestamp": "2025-01-18T04:36:41.361Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.361Z",
+      "processed_timestamp": "2025-01-18T04:36:41.361Z",
+      "metadata": null
+    },
+    {
+      "amount": "2499.435392540",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "2499.435392540",
+      "timestamp": "2025-01-18T04:36:41.362Z",
+      "processed_timestamp": "2025-01-18T04:36:41.362Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.363Z",
+      "processed_timestamp": "2025-01-18T04:36:41.363Z",
+      "metadata": null
+    },
+    {
+      "amount": "19933",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "19933",
+      "timestamp": "2025-01-18T04:36:41.363Z",
+      "processed_timestamp": "2025-01-18T04:36:41.363Z",
+      "metadata": null
+    },
+    {
+      "amount": "2129477432.278600",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "2129477432.278600",
+      "timestamp": "2025-01-18T04:36:41.363Z",
+      "processed_timestamp": "2025-01-18T04:36:41.363Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.363Z",
+      "processed_timestamp": "2025-01-18T04:36:41.363Z",
+      "metadata": null
+    },
+    {
+      "amount": "540915000",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "540915000",
+      "timestamp": "2025-01-18T04:36:41.364Z",
+      "processed_timestamp": "2025-01-18T04:36:41.364Z",
+      "metadata": null
+    },
+    {
+      "amount": "496659794.400000",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "496659794.400000",
+      "timestamp": "2025-01-18T04:36:41.364Z",
+      "processed_timestamp": "2025-01-18T04:36:41.364Z",
+      "metadata": null
+    },
+    {
+      "amount": "1333568000",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "1333568000",
+      "timestamp": "2025-01-18T04:36:41.364Z",
+      "processed_timestamp": "2025-01-18T04:36:41.364Z",
+      "metadata": null
+    },
+    {
+      "amount": "438440875.400000",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "438440875.400000",
+      "timestamp": "2025-01-18T04:36:41.364Z",
+      "processed_timestamp": "2025-01-18T04:36:41.364Z",
+      "metadata": null
+    },
+    {
+      "amount": "1401376000",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "1401376000",
+      "timestamp": "2025-01-18T04:36:41.364Z",
+      "processed_timestamp": "2025-01-18T04:36:41.364Z",
+      "metadata": null
+    },
+    {
+      "amount": "540990056.000000",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "540990056.000000",
+      "timestamp": "2025-01-18T04:36:41.364Z",
+      "processed_timestamp": "2025-01-18T04:36:41.364Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.364Z",
+      "processed_timestamp": "2025-01-18T04:36:41.364Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.364Z",
+      "processed_timestamp": "2025-01-18T04:36:41.364Z",
+      "metadata": null
+    },
+    {
+      "amount": "1889937124.354230",
+      "symbol": "USDT",
+      "name": "USDT",
+      "uri": "N/A",
+      "postBalance": "1889937124.354230",
+      "timestamp": "2025-01-18T04:36:41.364Z",
+      "processed_timestamp": "2025-01-18T04:36:41.364Z",
+      "metadata": null
+    },
+    {
+      "amount": "1889937124.354230",
+      "symbol": "USDT",
+      "name": "USDT",
+      "uri": "N/A",
+      "postBalance": "1889937124.354230",
+      "timestamp": "2025-01-18T04:36:41.366Z",
+      "processed_timestamp": "2025-01-18T04:36:41.366Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.367Z",
+      "processed_timestamp": "2025-01-18T04:36:41.367Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.367Z",
+      "processed_timestamp": "2025-01-18T04:36:41.367Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.367Z",
+      "processed_timestamp": "2025-01-18T04:36:41.367Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.367Z",
+      "processed_timestamp": "2025-01-18T04:36:41.367Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.367Z",
+      "processed_timestamp": "2025-01-18T04:36:41.367Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.368Z",
+      "processed_timestamp": "2025-01-18T04:36:41.368Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.368Z",
+      "processed_timestamp": "2025-01-18T04:36:41.368Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.368Z",
+      "processed_timestamp": "2025-01-18T04:36:41.368Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.369Z",
+      "processed_timestamp": "2025-01-18T04:36:41.369Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.369Z",
+      "processed_timestamp": "2025-01-18T04:36:41.369Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.369Z",
+      "processed_timestamp": "2025-01-18T04:36:41.369Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.369Z",
+      "processed_timestamp": "2025-01-18T04:36:41.369Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.369Z",
+      "processed_timestamp": "2025-01-18T04:36:41.369Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.369Z",
+      "processed_timestamp": "2025-01-18T04:36:41.369Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.369Z",
+      "processed_timestamp": "2025-01-18T04:36:41.369Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.370Z",
+      "processed_timestamp": "2025-01-18T04:36:41.370Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.370Z",
+      "processed_timestamp": "2025-01-18T04:36:41.370Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.371Z",
+      "processed_timestamp": "2025-01-18T04:36:41.371Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.374Z",
+      "processed_timestamp": "2025-01-18T04:36:41.374Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.374Z",
+      "processed_timestamp": "2025-01-18T04:36:41.374Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.374Z",
+      "processed_timestamp": "2025-01-18T04:36:41.374Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.375Z",
+      "processed_timestamp": "2025-01-18T04:36:41.375Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.375Z",
+      "processed_timestamp": "2025-01-18T04:36:41.375Z",
+      "metadata": null
+    },
+    {
+      "amount": "14989180000",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "14989180000",
+      "timestamp": "2025-01-18T04:36:41.375Z",
+      "processed_timestamp": "2025-01-18T04:36:41.375Z",
+      "metadata": null
+    },
+    {
+      "amount": "397461109.500000",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "397461109.500000",
+      "timestamp": "2025-01-18T04:36:41.375Z",
+      "processed_timestamp": "2025-01-18T04:36:41.375Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.375Z",
+      "processed_timestamp": "2025-01-18T04:36:41.375Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.375Z",
+      "processed_timestamp": "2025-01-18T04:36:41.375Z",
+      "metadata": null
+    },
+    {
+      "amount": "1000000000.000000",
+      "symbol": "TCAT",
+      "name": "Official Trump Cat",
+      "uri": "https://cf-ipfs.com/ipfs/QmRwYQxb6vdxGarb6xjGrqbC1v5zdJdFa8zKLchWLuNzWq",
+      "postBalance": "1000000000.000000",
+      "timestamp": "2025-01-18T04:36:41.346Z",
+      "processed_timestamp": "2025-01-18T04:36:41.346Z",
+      "metadata": null
+    },
+    {
+      "amount": "999995624.820325",
+      "symbol": "Beenz",
+      "name": "Beenz",
+      "uri": "https://cf-ipfs.com/ipfs/QmVg3grgb57UUFaqP2xTbgCwP1cYRi6LwXkWEjocin9cAD",
+      "postBalance": "999995624.820325",
+      "timestamp": "2025-01-18T04:36:41.354Z",
+      "processed_timestamp": "2025-01-18T04:36:41.354Z",
+      "metadata": null
+    },
+    {
+      "amount": "999530620.955294",
+      "symbol": "ECASH",
+      "name": "DigiCash",
+      "uri": "https://cf-ipfs.com/ipfs/QmbBMFMYLjxH9pDVsiwHbCUfdsniVdi3x3PbuJZd1HGfc8",
+      "postBalance": "999530620.955294",
+      "timestamp": "2025-01-18T04:36:41.355Z",
+      "processed_timestamp": "2025-01-18T04:36:41.355Z",
+      "metadata": null
+    },
+    {
+      "amount": "599665341.527588",
+      "symbol": "DADDY",
+      "name": "DADDY TATE",
+      "uri": "https://cf-ipfs.com/ipfs/QmTY3L4rGs7Cu5aVsQSDaxcMMmwGk1AfeQRqi22vUBbUcE",
+      "postBalance": "599665341.527588",
+      "timestamp": "2025-01-18T04:36:41.358Z",
+      "processed_timestamp": "2025-01-18T04:36:41.358Z",
+      "metadata": null
+    },
+    {
+      "amount": "1",
+      "symbol": "SENSE",
+      "name": "SENSITIVE ANIME",
+      "uri": "https://arweave.net/YQYWjd49nl0FlLbSzdXMRBzYQj8HgVd-xqSY99yjt90",
+      "postBalance": "1",
+      "timestamp": "2025-01-18T04:36:40.695Z",
+      "processed_timestamp": "2025-01-18T04:36:40.695Z",
+      "metadata": {
+        "animation_url": "",
+        "attributes": [],
+        "description": "The “Sensitive Anime” collection is a carefully crafted AI series exclusively for adults. The collection explores deep and often overlooked aspects of the anime world, offering an experience filled with powerful themes, complex characters, and dark aesthetics. Each piece in this collection features themes that push the boundaries of anime culture, supported by stunning visuals. Fans will experience not only details unique to the world of anime, but also emotional intensity and artistic daring in this unique AI series.",
+        "external_url": "https://drip.haus/sensitiveanime",
+        "image": "https://arweave.net/qs4jdRypWoWtgGVZgvX3t0ZQhrHtDBt1NCf7z2hm3XA?ext=png",
+        "name": "SENSITIVE ANIME",
+        "properties": {
+          "category": "image",
+          "files": [
+            {
+              "type": "image/png",
+              "uri": "https://arweave.net/qs4jdRypWoWtgGVZgvX3t0ZQhrHtDBt1NCf7z2hm3XA?ext=png"
+            }
+          ]
+        },
+        "symbol": "SENSE"
+      }
+    },
+    {
+      "amount": "1",
+      "symbol": "SENSE",
+      "name": "SENSITIVE ANIME",
+      "uri": "https://arweave.net/YQYWjd49nl0FlLbSzdXMRBzYQj8HgVd-xqSY99yjt90",
+      "postBalance": "1",
+      "timestamp": "2025-01-18T04:36:40.695Z",
+      "processed_timestamp": "2025-01-18T04:36:40.695Z",
+      "metadata": {
+        "animation_url": "",
+        "attributes": [],
+        "description": "The “Sensitive Anime” collection is a carefully crafted AI series exclusively for adults. The collection explores deep and often overlooked aspects of the anime world, offering an experience filled with powerful themes, complex characters, and dark aesthetics. Each piece in this collection features themes that push the boundaries of anime culture, supported by stunning visuals. Fans will experience not only details unique to the world of anime, but also emotional intensity and artistic daring in this unique AI series.",
+        "external_url": "https://drip.haus/sensitiveanime",
+        "image": "https://arweave.net/qs4jdRypWoWtgGVZgvX3t0ZQhrHtDBt1NCf7z2hm3XA?ext=png",
+        "name": "SENSITIVE ANIME",
+        "properties": {
+          "category": "image",
+          "files": [
+            {
+              "type": "image/png",
+              "uri": "https://arweave.net/qs4jdRypWoWtgGVZgvX3t0ZQhrHtDBt1NCf7z2hm3XA?ext=png"
+            }
+          ]
+        },
+        "symbol": "SENSE"
+      }
+    },
+    {
+      "amount": "1",
+      "symbol": "MAQUIN",
+      "name": "Maquin DRiP Season 2",
+      "uri": "https://arweave.net/CJjl_ZOuKvpkCyADA4hHPl5bOrvaoaELYORoKJyf6i0",
+      "postBalance": "1",
+      "timestamp": "2025-01-18T04:36:40.695Z",
+      "processed_timestamp": "2025-01-18T04:36:40.695Z",
+      "metadata": {
+        "animation_url": "",
+        "attributes": [],
+        "description": "Maquin DRiP Season 2",
+        "external_url": "https://drip.haus/maquin",
+        "image": "https://arweave.net/9gsRQ_zqwQ8lG9l840WMAKZ-UNEigTZ_dsHy8jS3A0Y?ext=jpg",
+        "name": "Maquin DRiP Season 2",
+        "properties": {
+          "category": "image",
+          "files": [
+            {
+              "type": "image/jpeg",
+              "uri": "https://arweave.net/9gsRQ_zqwQ8lG9l840WMAKZ-UNEigTZ_dsHy8jS3A0Y?ext=jpg"
+            }
+          ]
+        },
+        "symbol": "MAQUIN"
+      }
+    },
+    {
+      "amount": "43411160647.45",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "43411160647.45",
+      "timestamp": "2025-01-18T04:36:41.491Z",
+      "processed_timestamp": "2025-01-18T04:36:41.491Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.491Z",
+      "processed_timestamp": "2025-01-18T04:36:41.491Z",
+      "metadata": null
+    },
+    {
+      "amount": "400.578409106",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "400.578409106",
+      "timestamp": "2025-01-18T04:36:41.491Z",
+      "processed_timestamp": "2025-01-18T04:36:41.491Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.492Z",
+      "processed_timestamp": "2025-01-18T04:36:41.492Z",
+      "metadata": null
+    },
+    {
+      "amount": "39198.427238",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "39198.427238",
+      "timestamp": "2025-01-18T04:36:41.492Z",
+      "processed_timestamp": "2025-01-18T04:36:41.492Z",
+      "metadata": null
+    },
+    {
+      "amount": "12928.954207008",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "12928.954207008",
+      "timestamp": "2025-01-18T04:36:41.492Z",
+      "processed_timestamp": "2025-01-18T04:36:41.492Z",
+      "metadata": null
+    },
+    {
+      "amount": "1889937124.354230",
+      "symbol": "USDT",
+      "name": "USDT",
+      "uri": "N/A",
+      "postBalance": "1889937124.354230",
+      "timestamp": "2025-01-18T04:36:41.492Z",
+      "processed_timestamp": "2025-01-18T04:36:41.492Z",
+      "metadata": null
+    },
+    {
+      "amount": "1889937124.354230",
+      "symbol": "USDT",
+      "name": "USDT",
+      "uri": "N/A",
+      "postBalance": "1889937124.354230",
+      "timestamp": "2025-01-18T04:36:41.493Z",
+      "processed_timestamp": "2025-01-18T04:36:41.493Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.493Z",
+      "processed_timestamp": "2025-01-18T04:36:41.493Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.493Z",
+      "processed_timestamp": "2025-01-18T04:36:41.493Z",
+      "metadata": null
+    },
+    {
+      "amount": "12928.954391635",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "12928.954391635",
+      "timestamp": "2025-01-18T04:36:41.493Z",
+      "processed_timestamp": "2025-01-18T04:36:41.493Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.493Z",
+      "processed_timestamp": "2025-01-18T04:36:41.493Z",
+      "metadata": null
+    },
+    {
+      "amount": "135.274489442",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "135.274489442",
+      "timestamp": "2025-01-18T04:36:41.494Z",
+      "processed_timestamp": "2025-01-18T04:36:41.494Z",
+      "metadata": null
+    },
+    {
+      "amount": "1889937124.354230",
+      "symbol": "USDT",
+      "name": "USDT",
+      "uri": "N/A",
+      "postBalance": "1889937124.354230",
+      "timestamp": "2025-01-18T04:36:41.494Z",
+      "processed_timestamp": "2025-01-18T04:36:41.494Z",
+      "metadata": null
+    },
+    {
+      "amount": "1023775.015156023",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "1023775.015156023",
+      "timestamp": "2025-01-18T04:36:41.494Z",
+      "processed_timestamp": "2025-01-18T04:36:41.494Z",
+      "metadata": null
+    },
+    {
+      "amount": "2878.693895056",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "2878.693895056",
+      "timestamp": "2025-01-18T04:36:41.494Z",
+      "processed_timestamp": "2025-01-18T04:36:41.494Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.494Z",
+      "processed_timestamp": "2025-01-18T04:36:41.494Z",
+      "metadata": null
+    },
+    {
+      "amount": "1297.90778566",
+      "symbol": "WBNB",
+      "name": "Wrapped BNB (Wormhole)",
+      "uri": "N/A",
+      "postBalance": "1297.90778566",
+      "timestamp": "2025-01-18T04:36:41.494Z",
+      "processed_timestamp": "2025-01-18T04:36:41.494Z",
+      "metadata": null
+    },
+    {
+      "amount": "24033.383228258",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "24033.383228258",
+      "timestamp": "2025-01-18T04:36:41.495Z",
+      "processed_timestamp": "2025-01-18T04:36:41.495Z",
+      "metadata": null
+    },
+    {
+      "amount": "242193.719696355",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "242193.719696355",
+      "timestamp": "2025-01-18T04:36:41.495Z",
+      "processed_timestamp": "2025-01-18T04:36:41.495Z",
+      "metadata": null
+    },
+    {
+      "amount": "121179206.04430339",
+      "symbol": "SPX",
+      "name": "SPX6900 (Wormhole)",
+      "uri": "N/A",
+      "postBalance": "121179206.04430339",
+      "timestamp": "2025-01-18T04:36:41.495Z",
+      "processed_timestamp": "2025-01-18T04:36:41.495Z",
+      "metadata": null
+    },
+    {
+      "amount": "41841287.13779136",
+      "symbol": "AIXBT",
+      "name": "aixbt by Virtuals (Wormhole)",
+      "uri": "N/A",
+      "postBalance": "41841287.13779136",
+      "timestamp": "2025-01-18T04:36:41.500Z",
+      "processed_timestamp": "2025-01-18T04:36:41.500Z",
+      "metadata": null
+    },
+    {
+      "amount": "12950408.082645",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "12950408.082645",
+      "timestamp": "2025-01-18T04:36:41.501Z",
+      "processed_timestamp": "2025-01-18T04:36:41.501Z",
+      "metadata": null
+    },
+    {
+      "amount": "4712117.574088",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "4712117.574088",
+      "timestamp": "2025-01-18T04:36:41.501Z",
+      "processed_timestamp": "2025-01-18T04:36:41.501Z",
+      "metadata": null
+    },
+    {
+      "amount": "24033.383228258",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "24033.383228258",
+      "timestamp": "2025-01-18T04:36:41.507Z",
+      "processed_timestamp": "2025-01-18T04:36:41.507Z",
+      "metadata": null
+    },
+    {
+      "amount": "242193.719696355",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "242193.719696355",
+      "timestamp": "2025-01-18T04:36:41.507Z",
+      "processed_timestamp": "2025-01-18T04:36:41.507Z",
+      "metadata": null
+    },
+    {
+      "amount": "1889937124.354230",
+      "symbol": "USDT",
+      "name": "USDT",
+      "uri": "N/A",
+      "postBalance": "1889937124.354230",
+      "timestamp": "2025-01-18T04:36:41.508Z",
+      "processed_timestamp": "2025-01-18T04:36:41.508Z",
+      "metadata": null
+    },
+    {
+      "amount": "74631.24927693",
+      "symbol": "WETH",
+      "name": "Wrapped Ether (Wormhole)",
+      "uri": "N/A",
+      "postBalance": "74631.24927693",
+      "timestamp": "2025-01-18T04:36:41.509Z",
+      "processed_timestamp": "2025-01-18T04:36:41.509Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.509Z",
+      "processed_timestamp": "2025-01-18T04:36:41.509Z",
+      "metadata": null
+    },
+    {
+      "amount": "3189688633.491016",
+      "symbol": "SBR",
+      "name": "Saber Protocol Token",
+      "uri": "N/A",
+      "postBalance": "3189688633.491016",
+      "timestamp": "2025-01-18T04:36:41.511Z",
+      "processed_timestamp": "2025-01-18T04:36:41.511Z",
+      "metadata": null
+    },
+    {
+      "amount": "184745.698101",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "184745.698101",
+      "timestamp": "2025-01-18T04:36:41.511Z",
+      "processed_timestamp": "2025-01-18T04:36:41.511Z",
+      "metadata": null
+    },
+    {
+      "amount": "12728.907130",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "12728.907130",
+      "timestamp": "2025-01-18T04:36:41.512Z",
+      "processed_timestamp": "2025-01-18T04:36:41.512Z",
+      "metadata": null
+    },
+    {
+      "amount": "3717.493120182",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "3717.493120182",
+      "timestamp": "2025-01-18T04:36:41.512Z",
+      "processed_timestamp": "2025-01-18T04:36:41.512Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.512Z",
+      "processed_timestamp": "2025-01-18T04:36:41.512Z",
+      "metadata": null
+    },
+    {
+      "amount": "554999172.867636",
+      "symbol": "RAY",
+      "name": "Raydium",
+      "uri": "N/A",
+      "postBalance": "554999172.867636",
+      "timestamp": "2025-01-18T04:36:41.513Z",
+      "processed_timestamp": "2025-01-18T04:36:41.513Z",
+      "metadata": null
+    },
+    {
+      "amount": "47070.120735",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "47070.120735",
+      "timestamp": "2025-01-18T04:36:41.513Z",
+      "processed_timestamp": "2025-01-18T04:36:41.513Z",
+      "metadata": null
+    },
+    {
+      "amount": "3645804.19112",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "3645804.19112",
+      "timestamp": "2025-01-18T04:36:41.516Z",
+      "processed_timestamp": "2025-01-18T04:36:41.516Z",
+      "metadata": null
+    },
+    {
+      "amount": "234119.141617",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "234119.141617",
+      "timestamp": "2025-01-18T04:36:41.516Z",
+      "processed_timestamp": "2025-01-18T04:36:41.516Z",
+      "metadata": null
+    },
+    {
+      "amount": "2499.428088119",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "2499.428088119",
+      "timestamp": "2025-01-18T04:36:41.517Z",
+      "processed_timestamp": "2025-01-18T04:36:41.517Z",
+      "metadata": null
+    },
+    {
+      "amount": "3515.68207803",
+      "symbol": "WBTC",
+      "name": "Wrapped BTC (Wormhole)",
+      "uri": "N/A",
+      "postBalance": "3515.68207803",
+      "timestamp": "2025-01-18T04:36:41.517Z",
+      "processed_timestamp": "2025-01-18T04:36:41.517Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.517Z",
+      "processed_timestamp": "2025-01-18T04:36:41.517Z",
+      "metadata": null
+    },
+    {
+      "amount": "1889937124.354230",
+      "symbol": "USDT",
+      "name": "USDT",
+      "uri": "N/A",
+      "postBalance": "1889937124.354230",
+      "timestamp": "2025-01-18T04:36:41.517Z",
+      "processed_timestamp": "2025-01-18T04:36:41.517Z",
+      "metadata": null
+    },
+    {
+      "amount": "554999172.867636",
+      "symbol": "RAY",
+      "name": "Raydium",
+      "uri": "N/A",
+      "postBalance": "554999172.867636",
+      "timestamp": "2025-01-18T04:36:41.518Z",
+      "processed_timestamp": "2025-01-18T04:36:41.518Z",
+      "metadata": null
+    },
+    {
+      "amount": "2499.428088119",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "2499.428088119",
+      "timestamp": "2025-01-18T04:36:41.519Z",
+      "processed_timestamp": "2025-01-18T04:36:41.519Z",
+      "metadata": null
+    },
+    {
+      "amount": "19434.313361",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "19434.313361",
+      "timestamp": "2025-01-18T04:36:41.519Z",
+      "processed_timestamp": "2025-01-18T04:36:41.519Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:41.521Z",
+      "processed_timestamp": "2025-01-18T04:36:41.521Z",
+      "metadata": null
+    },
+    {
+      "amount": "1889937124.354230",
+      "symbol": "USDT",
+      "name": "USDT",
+      "uri": "N/A",
+      "postBalance": "1889937124.354230",
+      "timestamp": "2025-01-18T04:36:41.522Z",
+      "processed_timestamp": "2025-01-18T04:36:41.522Z",
+      "metadata": null
+    },
+    {
+      "amount": "74631.24927693",
+      "symbol": "WETH",
+      "name": "Wrapped Ether (Wormhole)",
+      "uri": "N/A",
+      "postBalance": "74631.24927693",
+      "timestamp": "2025-01-18T04:36:41.522Z",
+      "processed_timestamp": "2025-01-18T04:36:41.522Z",
+      "metadata": null
+    }
+  ]
+}

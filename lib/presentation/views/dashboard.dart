@@ -6,7 +6,6 @@ import 'package:oracle/core/extensions/widget_extension.dart';
 import 'package:oracle/data/controllers/dashboard_controller.dart';
 import 'package:oracle/presentation/views/home/home.dart';
 import 'package:oracle/presentation/views/positions/positions.dart';
-import 'package:oracle/presentation/views/terminal/terminal.dart';
 import 'package:oracle/presentation/views/terminal/widgets/web_socket_tests.dart';
 import 'package:oracle/presentation/views/wallet/wallet.dart' as oracle_wallet;
 import 'package:reown_appkit/reown_appkit.dart';

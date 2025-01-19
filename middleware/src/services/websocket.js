@@ -1,6 +1,6 @@
 const { WebSocketServer } = require('ws');
 const { Server } = require('socket.io');
-const { getRecentUpdates } = require('./bitqueryService');
+const { getRecentUpdates } = require('./src/services/bitqueryService');
 
 let io;
 

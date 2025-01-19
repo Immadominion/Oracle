@@ -1,0 +1,2168 @@
+{
+  "timestamp": "2025-01-18T04-36-17-156Z",
+  "tokens": [
+    {
+      "amount": "1",
+      "symbol": "",
+      "name": "DRiP Shared Collection",
+      "uri": "https://arweave.net/1vhAbzTXOr7zmfr4M6lXEAtIdLkb4xfh_BLuoVpEU_E",
+      "postBalance": "1",
+      "timestamp": "2025-01-18T04:36:14.181Z",
+      "processed_timestamp": "2025-01-18T04:36:14.181Z",
+      "metadata": {
+        "animation_url": "",
+        "attributes": [],
+        "description": "The Shared Collection is where new creators mint their first NFTs.",
+        "external_url": "",
+        "image": "https://arweave.net/X6syWhp7QuIYTyWpF8q3RaHgg2I4v3FGyCSTA2u7Wmw?ext=png",
+        "name": "DRiP Shared Collection",
+        "properties": {
+          "category": "image",
+          "files": [
+            {
+              "type": "image/png",
+              "uri": "https://arweave.net/X6syWhp7QuIYTyWpF8q3RaHgg2I4v3FGyCSTA2u7Wmw?ext=png"
+            }
+          ]
+        },
+        "symbol": ""
+      }
+    },
+    {
+      "amount": "90950719425156.27572",
+      "symbol": "Bonk",
+      "name": "Bonk",
+      "uri": "https://arweave.net/QPC6FYdUn-3V8ytFNuoCS85S2tHAuiDblh6u3CIZLsw",
+      "postBalance": "90950719425156.27572",
+      "timestamp": "2025-01-18T04:36:14.170Z",
+      "processed_timestamp": "2025-01-18T04:36:14.170Z",
+      "metadata": {
+        "name": "Bonk",
+        "symbol": "Bonk",
+        "image": "https://arweave.net/hQiPZOsRZXGXBJd_82PhVdlM_hACsT_q6wqwf5cSY7I",
+        "description": "The Official Bonk Inu token",
+        "creator": {
+          "name": "DEXLAB MINTING LAB",
+          "site": "https://www.dexlab.space"
+        }
+      }
+    },
+    {
+      "amount": "999999888.344740",
+      "symbol": "HYPER",
+      "name": "Hyperfy",
+      "uri": "https://arweave.net/m4GkfPHPTKP60N3dhm44E27xEQrjFnvf4OW3CmzK3J0",
+      "postBalance": "999999888.344740",
+      "timestamp": "2025-01-18T04:36:16.027Z",
+      "processed_timestamp": "2025-01-18T04:36:16.027Z",
+      "metadata": null
+    },
+    {
+      "amount": "1",
+      "symbol": "",
+      "name": "GM culture",
+      "uri": "https://arweave.net/QITVpLjeOnM4X3h5v7brZI3eqMtaJiVGl6LtHKev5rc",
+      "postBalance": "1",
+      "timestamp": "2025-01-18T04:36:14.181Z",
+      "processed_timestamp": "2025-01-18T04:36:14.181Z",
+      "metadata": {
+        "animation_url": "",
+        "attributes": [],
+        "description": "On this collection I would like to present GM culture.",
+        "external_url": "",
+        "image": "https://arweave.net/C9MkEqI397P9dj1zYykmay5OIYOD3ao8C2JhAsr-0f4?ext=jpg",
+        "name": "GM culture",
+        "properties": {
+          "category": "image",
+          "files": [
+            {
+              "type": "image/jpeg",
+              "uri": "https://arweave.net/C9MkEqI397P9dj1zYykmay5OIYOD3ao8C2JhAsr-0f4?ext=jpg"
+            }
+          ]
+        },
+        "symbol": ""
+      }
+    },
+    {
+      "amount": "3717.492218178",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "3717.492218178",
+      "timestamp": "2025-01-18T04:36:16.628Z",
+      "processed_timestamp": "2025-01-18T04:36:16.628Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:16.629Z",
+      "processed_timestamp": "2025-01-18T04:36:16.629Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:16.629Z",
+      "processed_timestamp": "2025-01-18T04:36:16.629Z",
+      "metadata": null
+    },
+    {
+      "amount": "733734902327.93",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "733734902327.93",
+      "timestamp": "2025-01-18T04:36:16.629Z",
+      "processed_timestamp": "2025-01-18T04:36:16.629Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:16.629Z",
+      "processed_timestamp": "2025-01-18T04:36:16.629Z",
+      "metadata": null
+    },
+    {
+      "amount": "1889937124.354230",
+      "symbol": "USDT",
+      "name": "USDT",
+      "uri": "N/A",
+      "postBalance": "1889937124.354230",
+      "timestamp": "2025-01-18T04:36:16.629Z",
+      "processed_timestamp": "2025-01-18T04:36:16.629Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:16.629Z",
+      "processed_timestamp": "2025-01-18T04:36:16.629Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:16.629Z",
+      "processed_timestamp": "2025-01-18T04:36:16.629Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:16.630Z",
+      "processed_timestamp": "2025-01-18T04:36:16.630Z",
+      "metadata": null
+    },
+    {
+      "amount": "733735015740.61",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "733735015740.61",
+      "timestamp": "2025-01-18T04:36:16.630Z",
+      "processed_timestamp": "2025-01-18T04:36:16.630Z",
+      "metadata": null
+    },
+    {
+      "amount": "1889937124.354230",
+      "symbol": "USDT",
+      "name": "USDT",
+      "uri": "N/A",
+      "postBalance": "1889937124.354230",
+      "timestamp": "2025-01-18T04:36:16.630Z",
+      "processed_timestamp": "2025-01-18T04:36:16.630Z",
+      "metadata": null
+    },
+    {
+      "amount": "12928.829162498",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "12928.829162498",
+      "timestamp": "2025-01-18T04:36:16.630Z",
+      "processed_timestamp": "2025-01-18T04:36:16.630Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:16.630Z",
+      "processed_timestamp": "2025-01-18T04:36:16.630Z",
+      "metadata": null
+    },
+    {
+      "amount": "1889937124.354230",
+      "symbol": "USDT",
+      "name": "USDT",
+      "uri": "N/A",
+      "postBalance": "1889937124.354230",
+      "timestamp": "2025-01-18T04:36:16.630Z",
+      "processed_timestamp": "2025-01-18T04:36:16.630Z",
+      "metadata": null
+    },
+    {
+      "amount": "400.576621468",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "400.576621468",
+      "timestamp": "2025-01-18T04:36:16.630Z",
+      "processed_timestamp": "2025-01-18T04:36:16.630Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:16.630Z",
+      "processed_timestamp": "2025-01-18T04:36:16.630Z",
+      "metadata": null
+    },
+    {
+      "amount": "400.576673191",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "400.576673191",
+      "timestamp": "2025-01-18T04:36:16.630Z",
+      "processed_timestamp": "2025-01-18T04:36:16.630Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:16.630Z",
+      "processed_timestamp": "2025-01-18T04:36:16.630Z",
+      "metadata": null
+    },
+    {
+      "amount": "73078800.89498514",
+      "symbol": "TRUST",
+      "name": "$TRUST ME BROs by Vir (Wormhole)",
+      "uri": "N/A",
+      "postBalance": "73078800.89498514",
+      "timestamp": "2025-01-18T04:36:16.630Z",
+      "processed_timestamp": "2025-01-18T04:36:16.630Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:16.630Z",
+      "processed_timestamp": "2025-01-18T04:36:16.630Z",
+      "metadata": null
+    },
+    {
+      "amount": "5909.499134113",
+      "symbol": "RAY/SOL",
+      "name": "Orca LP Token (RAY/SOL)",
+      "uri": "N/A",
+      "postBalance": "5909.499134113",
+      "timestamp": "2025-01-18T04:36:16.632Z",
+      "processed_timestamp": "2025-01-18T04:36:16.632Z",
+      "metadata": null
+    },
+    {
+      "amount": "12728.826872",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "12728.826872",
+      "timestamp": "2025-01-18T04:36:16.632Z",
+      "processed_timestamp": "2025-01-18T04:36:16.632Z",
+      "metadata": null
+    },
+    {
+      "amount": "168337645",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "168337645",
+      "timestamp": "2025-01-18T04:36:16.632Z",
+      "processed_timestamp": "2025-01-18T04:36:16.632Z",
+      "metadata": null
+    },
+    {
+      "amount": "242216.339138564",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "242216.339138564",
+      "timestamp": "2025-01-18T04:36:16.632Z",
+      "processed_timestamp": "2025-01-18T04:36:16.632Z",
+      "metadata": null
+    },
+    {
+      "amount": "76524626.155919",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "76524626.155919",
+      "timestamp": "2025-01-18T04:36:16.632Z",
+      "processed_timestamp": "2025-01-18T04:36:16.632Z",
+      "metadata": null
+    },
+    {
+      "amount": "1",
+      "symbol": "HEIST",
+      "name": "The Heist #2672",
+      "uri": "https://arweave.net/tISTjPFQ4SwLSslR4HZwLxwbPrFcuXhGL0BZAWdJ3e4",
+      "postBalance": "1",
+      "timestamp": "2025-01-18T04:36:14.180Z",
+      "processed_timestamp": "2025-01-18T04:36:14.180Z",
+      "metadata": {
+        "name": "The Heist #2672",
+        "description": "A high-stakes, risk-based game of crime, corruption...and bananas.",
+        "image": "https://arweave.net/YpllAR53JtxtX3QVqb_CnCSVuqr-hCrahDRdNV_PJPw",
+        "attributes": [
+          {
+            "trait_type": "Species",
+            "value": "Orangutan"
+          },
+          {
+            "trait_type": "Gen",
+            "value": "Genesis"
+          },
+          {
+            "trait_type": "Rarity",
+            "value": "Uncommon"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Azure"
+          },
+          {
+            "trait_type": "Fur",
+            "value": "Orange"
+          },
+          {
+            "trait_type": "Clothing",
+            "value": "Rugby Shirt"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Serious"
+          },
+          {
+            "trait_type": "Head",
+            "value": "Straw Cap"
+          }
+        ],
+        "properties": {
+          "files": [
+            {
+              "type": "image/png",
+              "uri": "https://arweave.net/YpllAR53JtxtX3QVqb_CnCSVuqr-hCrahDRdNV_PJPw"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "amount": "999997724.447328",
+      "symbol": "ZEUS",
+      "name": "ZEUS",
+      "uri": "https://raw.githubusercontent.com/ZeusNetworkHQ/zeus-metadata/master/metadata.json",
+      "postBalance": "999997724.447328",
+      "timestamp": "2025-01-18T04:36:05.992Z",
+      "processed_timestamp": "2025-01-18T04:36:05.992Z",
+      "metadata": null
+    },
+    {
+      "amount": "999997724.447328",
+      "symbol": "ZEUS",
+      "name": "ZEUS",
+      "uri": "https://raw.githubusercontent.com/ZeusNetworkHQ/zeus-metadata/master/metadata.json",
+      "postBalance": "999997724.447328",
+      "timestamp": "2025-01-18T04:36:05.992Z",
+      "processed_timestamp": "2025-01-18T04:36:05.992Z",
+      "metadata": null
+    },
+    {
+      "amount": "452700.144736221",
+      "symbol": "hSOL",
+      "name": "Helius Staked SOL",
+      "uri": "https://raw.githubusercontent.com/igneous-labs/lst-offchain-metadata/master/hSOL/hSOL.json",
+      "postBalance": "452700.144736221",
+      "timestamp": "2025-01-18T04:36:06.196Z",
+      "processed_timestamp": "2025-01-18T04:36:06.196Z",
+      "metadata": null
+    },
+    {
+      "amount": "999997724.447328",
+      "symbol": "ZEUS",
+      "name": "ZEUS",
+      "uri": "https://raw.githubusercontent.com/ZeusNetworkHQ/zeus-metadata/master/metadata.json",
+      "postBalance": "999997724.447328",
+      "timestamp": "2025-01-18T04:36:06.197Z",
+      "processed_timestamp": "2025-01-18T04:36:06.197Z",
+      "metadata": null
+    },
+    {
+      "amount": "999999903.935830",
+      "symbol": "YAIT",
+      "name": "YAITSIU",
+      "uri": "https://ipfs.io/ipfs/QmYA1H8NHZ8ovihwX73NYu6HAPCdJ6oLiDjBQkXuC91Tea",
+      "postBalance": "999999903.935830",
+      "timestamp": "2025-01-18T04:36:16.628Z",
+      "processed_timestamp": "2025-01-18T04:36:16.628Z",
+      "metadata": {
+        "name": "YAITSIU",
+        "symbol": "YAIT",
+        "description": "Multi Skilled, Multi Modal, Multi Platform AI Agent.",
+        "image": "https://ipfs.io/ipfs/Qme5Ks2yUyQ42oe8GUUvPZmfTNGq51JM9r3WP1hkEL5u6N",
+        "showName": true,
+        "createdOn": "https://pump.fun"
+      }
+    },
+    {
+      "amount": "995868801.016463",
+      "symbol": "FOMO",
+      "name": "Just a FOMO Guy AI",
+      "uri": "https://ipfs.io/ipfs/QmU4EQxTuYCTW322Ezh6Pin8qnrhYjdDqSsxdo2HhZbpgV",
+      "postBalance": "995868801.016463",
+      "timestamp": "2025-01-18T04:36:16.628Z",
+      "processed_timestamp": "2025-01-18T04:36:16.628Z",
+      "metadata": {
+        "name": "Just a FOMO Guy AI",
+        "symbol": "FOMO",
+        "description": "I may look like a chill guy, but I’m a just FOMO guy. I am an AI Agent, chat with me on my website! FOMO in, make your friends FOMO in, and lets make it.",
+        "image": "https://ipfs.io/ipfs/QmX2BppLbiC4zQ4c8Adeq8NtyfQ6GK7jtZb3Dtemz4Bvxo",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://x.com/justafomoguy_",
+        "website": "https://www.justafomoguy.com"
+      }
+    },
+    {
+      "amount": "999987122.063106",
+      "symbol": "47TH",
+      "name": "47TH",
+      "uri": "https://ipfs.io/ipfs/Qmdrd5QyB59mJFTpWXMT399gbTEQGCpBy3TXpnuTaZbeQV",
+      "postBalance": "999987122.063106",
+      "timestamp": "2025-01-18T04:36:16.628Z",
+      "processed_timestamp": "2025-01-18T04:36:16.628Z",
+      "metadata": {
+        "name": "47TH",
+        "symbol": "47TH",
+        "description": "",
+        "image": "https://ipfs.io/ipfs/Qmd2kGMqU2tPN3hJTr7PukLjPuEvsNNNDXowcSbQh7tLzP",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "website": "https://gettrumpmemes.com/"
+      }
+    },
+    {
+      "amount": "843724664.789705",
+      "symbol": "47",
+      "name": "President Trump",
+      "uri": "https://ipfs.io/ipfs/QmcmjnuRRVyuHkEY7AdpK6Dqwn4v2FUieHVtvwgtdN9wHc",
+      "postBalance": "843724664.789705",
+      "timestamp": "2025-01-18T04:36:16.630Z",
+      "processed_timestamp": "2025-01-18T04:36:16.630Z",
+      "metadata": {
+        "name": "President Trump",
+        "symbol": "47",
+        "description": "The 47.",
+        "image": "https://ipfs.io/ipfs/QmaFEMVV3FTwZwfiBTX4NFy6XNZGWZ9hBczgMsXr6jb5Tk",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "telegram": "https://t.me/fourtysevenentry"
+      }
+    },
+    {
+      "amount": "999966398.220187",
+      "symbol": "XRP",
+      "name": "THE TICKER IS XRP",
+      "uri": "https://ipfs.io/ipfs/QmXrKPcLBWy3JR1Urd9f4sNEnscPDvoHX5WEKyZtW2kSaF",
+      "postBalance": "999966398.220187",
+      "timestamp": "2025-01-18T04:36:16.630Z",
+      "processed_timestamp": "2025-01-18T04:36:16.630Z",
+      "metadata": {
+        "name": "THE TICKER IS XRP",
+        "symbol": "XRP",
+        "description": "XRP’s going crazy, so we had to drop a memecoin for it! Catch $XRP on Solana and ride the hype!",
+        "image": "https://ipfs.io/ipfs/QmYL5Ywvc5pRD1gjCi7orzMMbeoF89814m2TTKQgELUkLZ",
+        "showName": true,
+        "createdOn": "https://pump.fun"
+      }
+    },
+    {
+      "amount": "957920264.602723",
+      "symbol": "Qude",
+      "name": "QudeAI Framework",
+      "uri": "https://ipfs.io/ipfs/QmaARMPcgmxzGSU49G6tG5aUiWKVDR8bCzCYaRmTDgkQT8",
+      "postBalance": "957920264.602723",
+      "timestamp": "2025-01-18T04:36:16.631Z",
+      "processed_timestamp": "2025-01-18T04:36:16.631Z",
+      "metadata": {
+        "name": "QudeAI Framework",
+        "symbol": "Qude",
+        "description": "QudeAI is your AI-powered copilot on Solana! Build smart on-chain agents in your CLI with ease using the Qude Framework, powered by QLLM and QCM for public access.",
+        "image": "https://ipfs.io/ipfs/QmVVskYLQuvqxdRFa16CA4LD5tUiDdgEaWBH9LknQnW4HF",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://x.com/Qudeai",
+        "telegram": "https://t.me/qudeai",
+        "website": "https://qude.ai/"
+      }
+    },
+    {
+      "amount": "1000000000.000000",
+      "symbol": "TRUMP",
+      "name": "REAL FIRST TRUMP COIN",
+      "uri": "https://ipfs.io/ipfs/QmNhLBpuPhkdtKxGrtSTsLeKGGHuatb5uxsTaSUDJRbNn9",
+      "postBalance": "1000000000.000000",
+      "timestamp": "2025-01-18T04:36:16.631Z",
+      "processed_timestamp": "2025-01-18T04:36:16.631Z",
+      "metadata": {
+        "name": "REAL FIRST TRUMP COIN",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://ipfs.io/ipfs/QmaiFZQyZJ1NpUzBmkALKfDe8K1rmiSki7hagH25huGacV",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "website": "https://bitcointalk.org/index.php?topic=1858645.0"
+      }
+    },
+    {
+      "amount": "999330184.092670",
+      "symbol": "LUMINO",
+      "name": "Lumino",
+      "uri": "https://ipfs.io/ipfs/QmQNCSRbf2fYmsGNJWtV1Q4TvihjE1vFyw82MPx7dRCgCh",
+      "postBalance": "999330184.092670",
+      "timestamp": "2025-01-18T04:36:16.629Z",
+      "processed_timestamp": "2025-01-18T04:36:16.629Z",
+      "metadata": {
+        "name": "Lumino",
+        "symbol": "LUMINO",
+        "description": "Effortlessly create custom AI solutions tailored to your needs.",
+        "image": "https://ipfs.io/ipfs/Qmd5R7HXHhyxc5mfDz1WvW6AFDGL4rRoBBg4DeeTWEkiQN",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://x.com/luminoagents",
+        "website": "https://luminoagents.gg"
+      }
+    },
+    {
+      "amount": "999995558.576347",
+      "symbol": "Fartcoin ",
+      "name": "Fartcoin ",
+      "uri": "https://ipfs.io/ipfs/QmYfe8zVGHA1heej47AkBX3Nnetg2h2kqj5yymz1xyKeHb",
+      "postBalance": "999995558.576347",
+      "timestamp": "2025-01-18T04:36:16.630Z",
+      "processed_timestamp": "2025-01-18T04:36:16.630Z",
+      "metadata": {
+        "name": "Fartcoin ",
+        "symbol": "Fartcoin ",
+        "description": "",
+        "image": "https://ipfs.io/ipfs/QmQr3Fz4h1etNsF7oLGMRHiCzhB5y9a7GjyodnF7zLHK1g",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://www.infinitebackrooms.com/dreams/conversation-1721540624-scenario-terminal-of-truths-txt"
+      }
+    },
+    {
+      "amount": "999999797.412507",
+      "symbol": "AGiXT",
+      "name": "AGiXT",
+      "uri": "https://ipfs.io/ipfs/QmQPMv2WRQd17pFTt4dXbrRnftcyhHdNAqnJAifzyq2AyZ",
+      "postBalance": "999999797.412507",
+      "timestamp": "2025-01-18T04:36:16.630Z",
+      "processed_timestamp": "2025-01-18T04:36:16.630Z",
+      "metadata": {
+        "name": "AGiXT",
+        "symbol": "AGiXT",
+        "description": "AGiXT is an autonomous AI agent platform that enables users to make natural language requests with actionable outcomes using the tools you already use over API. We've been actively building and improving on it almost daily for nearly 2 years open source.",
+        "image": "https://ipfs.io/ipfs/QmWMk3J3A4uTRnMW71V6aXCMMGKVHNHqyED1SEW3XRUSxr",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://x.com/agi_xt",
+        "website": "https://agixt.com"
+      }
+    },
+    {
+      "amount": "12274400",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "12274400",
+      "timestamp": "2025-01-18T04:36:17.015Z",
+      "processed_timestamp": "2025-01-18T04:36:17.015Z",
+      "metadata": null
+    },
+    {
+      "amount": "2185113089.820000",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "2185113089.820000",
+      "timestamp": "2025-01-18T04:36:17.015Z",
+      "processed_timestamp": "2025-01-18T04:36:17.015Z",
+      "metadata": null
+    },
+    {
+      "amount": "84040290",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "84040290",
+      "timestamp": "2025-01-18T04:36:17.017Z",
+      "processed_timestamp": "2025-01-18T04:36:17.017Z",
+      "metadata": null
+    },
+    {
+      "amount": "309003014.290000",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "309003014.290000",
+      "timestamp": "2025-01-18T04:36:17.017Z",
+      "processed_timestamp": "2025-01-18T04:36:17.017Z",
+      "metadata": null
+    },
+    {
+      "amount": "19933",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "19933",
+      "timestamp": "2025-01-18T04:36:17.017Z",
+      "processed_timestamp": "2025-01-18T04:36:17.017Z",
+      "metadata": null
+    },
+    {
+      "amount": "2129477432.278600",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "2129477432.278600",
+      "timestamp": "2025-01-18T04:36:17.017Z",
+      "processed_timestamp": "2025-01-18T04:36:17.017Z",
+      "metadata": null
+    },
+    {
+      "amount": "279287000",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "279287000",
+      "timestamp": "2025-01-18T04:36:17.017Z",
+      "processed_timestamp": "2025-01-18T04:36:17.017Z",
+      "metadata": null
+    },
+    {
+      "amount": "468924493.000000",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "468924493.000000",
+      "timestamp": "2025-01-18T04:36:17.017Z",
+      "processed_timestamp": "2025-01-18T04:36:17.017Z",
+      "metadata": null
+    },
+    {
+      "amount": "433180",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "433180",
+      "timestamp": "2025-01-18T04:36:17.017Z",
+      "processed_timestamp": "2025-01-18T04:36:17.017Z",
+      "metadata": null
+    },
+    {
+      "amount": "1628653766.890000",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "1628653766.890000",
+      "timestamp": "2025-01-18T04:36:17.017Z",
+      "processed_timestamp": "2025-01-18T04:36:17.017Z",
+      "metadata": null
+    },
+    {
+      "amount": "1333568000",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "1333568000",
+      "timestamp": "2025-01-18T04:36:17.017Z",
+      "processed_timestamp": "2025-01-18T04:36:17.017Z",
+      "metadata": null
+    },
+    {
+      "amount": "438440875.400000",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "438440875.400000",
+      "timestamp": "2025-01-18T04:36:17.017Z",
+      "processed_timestamp": "2025-01-18T04:36:17.017Z",
+      "metadata": null
+    },
+    {
+      "amount": "14989180000",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "14989180000",
+      "timestamp": "2025-01-18T04:36:17.017Z",
+      "processed_timestamp": "2025-01-18T04:36:17.017Z",
+      "metadata": null
+    },
+    {
+      "amount": "397461109.500000",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "397461109.500000",
+      "timestamp": "2025-01-18T04:36:17.017Z",
+      "processed_timestamp": "2025-01-18T04:36:17.017Z",
+      "metadata": null
+    },
+    {
+      "amount": "1401376000",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "1401376000",
+      "timestamp": "2025-01-18T04:36:17.017Z",
+      "processed_timestamp": "2025-01-18T04:36:17.017Z",
+      "metadata": null
+    },
+    {
+      "amount": "540990056.000000",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "540990056.000000",
+      "timestamp": "2025-01-18T04:36:17.017Z",
+      "processed_timestamp": "2025-01-18T04:36:17.017Z",
+      "metadata": null
+    },
+    {
+      "amount": "540915000",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "540915000",
+      "timestamp": "2025-01-18T04:36:17.017Z",
+      "processed_timestamp": "2025-01-18T04:36:17.017Z",
+      "metadata": null
+    },
+    {
+      "amount": "496659794.400000",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "496659794.400000",
+      "timestamp": "2025-01-18T04:36:17.017Z",
+      "processed_timestamp": "2025-01-18T04:36:17.017Z",
+      "metadata": null
+    },
+    {
+      "amount": "249869500",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "249869500",
+      "timestamp": "2025-01-18T04:36:17.017Z",
+      "processed_timestamp": "2025-01-18T04:36:17.017Z",
+      "metadata": null
+    },
+    {
+      "amount": "493263094.090000",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "493263094.090000",
+      "timestamp": "2025-01-18T04:36:17.017Z",
+      "processed_timestamp": "2025-01-18T04:36:17.017Z",
+      "metadata": null
+    },
+    {
+      "amount": "1889937124.354230",
+      "symbol": "USDT",
+      "name": "USDT",
+      "uri": "N/A",
+      "postBalance": "1889937124.354230",
+      "timestamp": "2025-01-18T04:36:17.018Z",
+      "processed_timestamp": "2025-01-18T04:36:17.018Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:17.018Z",
+      "processed_timestamp": "2025-01-18T04:36:17.018Z",
+      "metadata": null
+    },
+    {
+      "amount": "8664062.774188",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "8664062.774188",
+      "timestamp": "2025-01-18T04:36:17.018Z",
+      "processed_timestamp": "2025-01-18T04:36:17.018Z",
+      "metadata": null
+    },
+    {
+      "amount": "3285.562888",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "3285.562888",
+      "timestamp": "2025-01-18T04:36:17.018Z",
+      "processed_timestamp": "2025-01-18T04:36:17.018Z",
+      "metadata": null
+    },
+    {
+      "amount": "7690324947.711356642",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "7690324947.711356642",
+      "timestamp": "2025-01-18T04:36:17.022Z",
+      "processed_timestamp": "2025-01-18T04:36:17.022Z",
+      "metadata": null
+    },
+    {
+      "amount": "5909.499134113",
+      "symbol": "RAY/SOL",
+      "name": "Orca LP Token (RAY/SOL)",
+      "uri": "N/A",
+      "postBalance": "5909.499134113",
+      "timestamp": "2025-01-18T04:36:17.022Z",
+      "processed_timestamp": "2025-01-18T04:36:17.022Z",
+      "metadata": null
+    },
+    {
+      "amount": "12728.826872",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "12728.826872",
+      "timestamp": "2025-01-18T04:36:17.022Z",
+      "processed_timestamp": "2025-01-18T04:36:17.022Z",
+      "metadata": null
+    },
+    {
+      "amount": "74630.69577699",
+      "symbol": "WETH",
+      "name": "Wrapped Ether (Wormhole)",
+      "uri": "N/A",
+      "postBalance": "74630.69577699",
+      "timestamp": "2025-01-18T04:36:17.022Z",
+      "processed_timestamp": "2025-01-18T04:36:17.022Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:17.023Z",
+      "processed_timestamp": "2025-01-18T04:36:17.023Z",
+      "metadata": null
+    },
+    {
+      "amount": "250851.469694",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "250851.469694",
+      "timestamp": "2025-01-18T04:36:17.023Z",
+      "processed_timestamp": "2025-01-18T04:36:17.023Z",
+      "metadata": null
+    },
+    {
+      "amount": "21749161.413881",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "21749161.413881",
+      "timestamp": "2025-01-18T04:36:17.023Z",
+      "processed_timestamp": "2025-01-18T04:36:17.023Z",
+      "metadata": null
+    },
+    {
+      "amount": "554999172.867636",
+      "symbol": "RAY",
+      "name": "Raydium",
+      "uri": "N/A",
+      "postBalance": "554999172.867636",
+      "timestamp": "2025-01-18T04:36:17.023Z",
+      "processed_timestamp": "2025-01-18T04:36:17.023Z",
+      "metadata": null
+    },
+    {
+      "amount": "12728.828906",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "12728.828906",
+      "timestamp": "2025-01-18T04:36:17.023Z",
+      "processed_timestamp": "2025-01-18T04:36:17.023Z",
+      "metadata": null
+    },
+    {
+      "amount": "74630.69577699",
+      "symbol": "WETH",
+      "name": "Wrapped Ether (Wormhole)",
+      "uri": "N/A",
+      "postBalance": "74630.69577699",
+      "timestamp": "2025-01-18T04:36:17.023Z",
+      "processed_timestamp": "2025-01-18T04:36:17.023Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:17.023Z",
+      "processed_timestamp": "2025-01-18T04:36:17.023Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:17.023Z",
+      "processed_timestamp": "2025-01-18T04:36:17.024Z",
+      "metadata": null
+    },
+    {
+      "amount": "16708600",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "16708600",
+      "timestamp": "2025-01-18T04:36:17.025Z",
+      "processed_timestamp": "2025-01-18T04:36:17.025Z",
+      "metadata": null
+    },
+    {
+      "amount": "199095481.280000",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "199095481.280000",
+      "timestamp": "2025-01-18T04:36:17.025Z",
+      "processed_timestamp": "2025-01-18T04:36:17.025Z",
+      "metadata": null
+    },
+    {
+      "amount": "336.313108219",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "336.313108219",
+      "timestamp": "2025-01-18T04:36:17.026Z",
+      "processed_timestamp": "2025-01-18T04:36:17.026Z",
+      "metadata": null
+    },
+    {
+      "amount": "537.215350211",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "537.215350211",
+      "timestamp": "2025-01-18T04:36:17.026Z",
+      "processed_timestamp": "2025-01-18T04:36:17.026Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:17.026Z",
+      "processed_timestamp": "2025-01-18T04:36:17.026Z",
+      "metadata": null
+    },
+    {
+      "amount": "2062319000",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "2062319000",
+      "timestamp": "2025-01-18T04:36:17.027Z",
+      "processed_timestamp": "2025-01-18T04:36:17.027Z",
+      "metadata": null
+    },
+    {
+      "amount": "453192109.100000",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "453192109.100000",
+      "timestamp": "2025-01-18T04:36:17.027Z",
+      "processed_timestamp": "2025-01-18T04:36:17.027Z",
+      "metadata": null
+    },
+    {
+      "amount": "400.576675318",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "400.576675318",
+      "timestamp": "2025-01-18T04:36:17.027Z",
+      "processed_timestamp": "2025-01-18T04:36:17.027Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:17.027Z",
+      "processed_timestamp": "2025-01-18T04:36:17.027Z",
+      "metadata": null
+    },
+    {
+      "amount": "740155000",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "740155000",
+      "timestamp": "2025-01-18T04:36:17.027Z",
+      "processed_timestamp": "2025-01-18T04:36:17.027Z",
+      "metadata": null
+    },
+    {
+      "amount": "464875553.900000",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "464875553.900000",
+      "timestamp": "2025-01-18T04:36:17.027Z",
+      "processed_timestamp": "2025-01-18T04:36:17.027Z",
+      "metadata": null
+    },
+    {
+      "amount": "554999172.867636",
+      "symbol": "RAY",
+      "name": "Raydium",
+      "uri": "N/A",
+      "postBalance": "554999172.867636",
+      "timestamp": "2025-01-18T04:36:17.028Z",
+      "processed_timestamp": "2025-01-18T04:36:17.028Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:17.028Z",
+      "processed_timestamp": "2025-01-18T04:36:17.028Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:17.028Z",
+      "processed_timestamp": "2025-01-18T04:36:17.028Z",
+      "metadata": null
+    },
+    {
+      "amount": "1333568000",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "1333568000",
+      "timestamp": "2025-01-18T04:36:17.028Z",
+      "processed_timestamp": "2025-01-18T04:36:17.028Z",
+      "metadata": null
+    },
+    {
+      "amount": "438440875.400000",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "438440875.400000",
+      "timestamp": "2025-01-18T04:36:17.028Z",
+      "processed_timestamp": "2025-01-18T04:36:17.028Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:17.029Z",
+      "processed_timestamp": "2025-01-18T04:36:17.029Z",
+      "metadata": null
+    },
+    {
+      "amount": "615.432717493",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "615.432717493",
+      "timestamp": "2025-01-18T04:36:17.029Z",
+      "processed_timestamp": "2025-01-18T04:36:17.029Z",
+      "metadata": null
+    },
+    {
+      "amount": "1000000000.000000",
+      "symbol": "TRUMPISM",
+      "name": "Official Trump Jr Coin",
+      "uri": "https://ipfs.io/ipfs/Qme4vrxtaX9WsyM6Pzrd1hhugiFR9BdRkG8NKWcxuzbYPY",
+      "postBalance": "1000000000.000000",
+      "timestamp": "2025-01-18T04:36:16.628Z",
+      "processed_timestamp": "2025-01-18T04:36:16.628Z",
+      "metadata": {
+        "name": "Official Trump Jr Coin",
+        "symbol": "TRUMPISM",
+        "description": "The Peoples Coin\r\n",
+        "image": "https://ipfs.io/ipfs/QmPkaAYPf5uHQWUCpVcwaYnot6SXDSgcoM4rJKgxwPokG4",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://x.com/officialtrumpjr",
+        "website": "https://trumpism.vote/"
+      }
+    },
+    {
+      "amount": "999949686.186168",
+      "symbol": "pippin",
+      "name": "Pippin",
+      "uri": "https://ipfs.io/ipfs/QmWbM38Bhhcj4vQZpSyesRSotgoqicNjfaNoMmuDGtWZ2o",
+      "postBalance": "999949686.186168",
+      "timestamp": "2025-01-18T04:36:16.630Z",
+      "processed_timestamp": "2025-01-18T04:36:16.630Z",
+      "metadata": {
+        "name": "Pippin",
+        "symbol": "pippin",
+        "description": "yoheinakajima \"detailed unicorn\" \r\n\r\nhttps://x.com/yoheinakajima/status/1855337887568638431",
+        "image": "https://ipfs.io/ipfs/QmdcvSSBg7gWD4tvfXv3PuLtAiPyDZ5Z9w4LQVeRJKL3Lz",
+        "showName": true,
+        "createdOn": "https://pump.fun"
+      }
+    },
+    {
+      "amount": "999976944.676900",
+      "symbol": "CATANA",
+      "name": "Catana",
+      "uri": "https://ipfs.io/ipfs/QmSZ3VrWvLunXxEqTSmdzb9yepswYmj6fMX69Ds6PsBRDe",
+      "postBalance": "999976944.676900",
+      "timestamp": "2025-01-18T04:36:16.629Z",
+      "processed_timestamp": "2025-01-18T04:36:16.629Z",
+      "metadata": {
+        "name": "Catana",
+        "symbol": "CATANA",
+        "description": "samurai, member of the Japanese warrior caste.",
+        "image": "https://ipfs.io/ipfs/QmNmoW49RXBbqF8F31r3xkoudXXeTqNe1dVe6VxpvmEafY",
+        "showName": true,
+        "createdOn": "https://pump.fun"
+      }
+    },
+    {
+      "amount": "998815776.675323",
+      "symbol": "Donlar",
+      "name": "new US currency ",
+      "uri": "https://ipfs.io/ipfs/QmcpvAVgJNUfvFY8m2nrohRfH11tEGivbVLFiWfqBkAApr",
+      "postBalance": "998815776.675323",
+      "timestamp": "2025-01-18T04:36:16.631Z",
+      "processed_timestamp": "2025-01-18T04:36:16.631Z",
+      "metadata": {
+        "name": "new US currency ",
+        "symbol": "Donlar",
+        "description": "",
+        "image": "https://ipfs.io/ipfs/QmU1uZ4MPQ3UaqE78LAePjnRbpiMyReRpZFbu5k8GScTZx",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "website": "https://www.officialtrump2024store.com/products/donald-trump-2024-re-election-limited-edition-novelty-dollar-bill-pack-of-25-full-color-front-back-printing-with-great-detail-make-american-great-again"
+      }
+    },
+    {
+      "amount": "999990199.017290",
+      "symbol": "Citadail",
+      "name": "griffain new hedge fund",
+      "uri": "https://ipfs.io/ipfs/QmcagbV5AgKtQw7rZbnbQ8moTofydacDZaFSVhSzd7ALGW",
+      "postBalance": "999990199.017290",
+      "timestamp": "2025-01-18T04:36:16.631Z",
+      "processed_timestamp": "2025-01-18T04:36:16.631Z",
+      "metadata": {
+        "name": "griffain new hedge fund",
+        "symbol": "Citadail",
+        "description": "",
+        "image": "https://ipfs.io/ipfs/QmT1tQQXicwdGYtkemU83UgvpYyubJHLWi8BYxHmNG6tDB",
+        "showName": true,
+        "createdOn": "https://pump.fun"
+      }
+    },
+    {
+      "amount": "1000000000.000000",
+      "symbol": "MANIA",
+      "name": "TRUMPAMANIA",
+      "uri": "https://ipfs.io/ipfs/QmSsUxSM55ypwYqBb513jXpfkPShJ9Fu53XovpwxB1VrGe",
+      "postBalance": "1000000000.000000",
+      "timestamp": "2025-01-18T04:36:16.631Z",
+      "processed_timestamp": "2025-01-18T04:36:16.631Z",
+      "metadata": {
+        "name": "TRUMPAMANIA",
+        "symbol": "MANIA",
+        "description": "ITS TRUMP MADNESS",
+        "image": "https://ipfs.io/ipfs/QmVY6d31EaPpfstRkH2gQbg2jPQTevkLQncbecVRHnYN3e",
+        "showName": true,
+        "createdOn": "https://pump.fun"
+      }
+    },
+    {
+      "amount": "1000000000.000000",
+      "symbol": "BTC",
+      "name": "BullTrumpCoin",
+      "uri": "https://ipfs.io/ipfs/QmbBKNYNwxAgN8ehKhdZJFNVfmJvzdR7Qu7BDYhJTfYhqi",
+      "postBalance": "1000000000.000000",
+      "timestamp": "2025-01-18T04:36:16.631Z",
+      "processed_timestamp": "2025-01-18T04:36:16.631Z",
+      "metadata": {
+        "name": "BullTrumpCoin",
+        "symbol": "BTC",
+        "description": "The REAL BTC is here! No better way to Make America Great Again! With Trumps hyped return to his throne we celebrate with the real BTC.",
+        "image": "https://ipfs.io/ipfs/QmdtQkErLnivUUZVAvzvwB4BtcS9eS4UzerU53RFaeSJ4Y",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://x.com/BullTrump_coin?mx=2",
+        "telegram": "https://t.me/Bull_Trump_Coin",
+        "website": "https://bull-trump-coin.xyz/"
+      }
+    },
+    {
+      "amount": "999969354.043530",
+      "symbol": "MVRS",
+      "name": "Magaverse",
+      "uri": "https://ipfs.io/ipfs/QmXiQXsFySvhURDFwpU85eU3nFGftVFVBHxLnsY1zXEZdC",
+      "postBalance": "999969354.043530",
+      "timestamp": "2025-01-18T04:36:16.629Z",
+      "processed_timestamp": "2025-01-18T04:36:16.629Z",
+      "metadata": {
+        "name": "Magaverse",
+        "symbol": "MVRS",
+        "description": "",
+        "image": "https://ipfs.io/ipfs/QmPvzPy2cT78cCrK5QEaW1NM1ZhfuGrwneT8Bt2HvpQBrZ",
+        "showName": true,
+        "createdOn": "https://pump.fun"
+      }
+    },
+    {
+      "amount": "999990199.017290",
+      "symbol": "Citadail",
+      "name": "griffain new hedge fund",
+      "uri": "https://ipfs.io/ipfs/QmcagbV5AgKtQw7rZbnbQ8moTofydacDZaFSVhSzd7ALGW",
+      "postBalance": "999990199.017290",
+      "timestamp": "2025-01-18T04:36:16.631Z",
+      "processed_timestamp": "2025-01-18T04:36:16.631Z",
+      "metadata": {
+        "name": "griffain new hedge fund",
+        "symbol": "Citadail",
+        "description": "",
+        "image": "https://ipfs.io/ipfs/QmT1tQQXicwdGYtkemU83UgvpYyubJHLWi8BYxHmNG6tDB",
+        "showName": true,
+        "createdOn": "https://pump.fun"
+      }
+    },
+    {
+      "amount": "999867078.980682",
+      "symbol": "BUZZ",
+      "name": "Hive AI",
+      "uri": "https://ipfs.io/ipfs/QmSFQBymoaw6KpiioGhBRdrwWQ6UEh1sULbrjEvpqqXvSB",
+      "postBalance": "999867078.980682",
+      "timestamp": "2025-01-18T04:36:16.631Z",
+      "processed_timestamp": "2025-01-18T04:36:16.631Z",
+      "metadata": {
+        "name": "Hive AI",
+        "symbol": "BUZZ",
+        "description": "Simplifying DeFi through on-chain agents.",
+        "image": "https://ipfs.io/ipfs/Qme1AwRhgU8LVpLHzVGpKrRzUEUwMjMxS4GAbarmrFoiEJ",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://x.com/askthehive_ai",
+        "website": "https://www.askthehive.ai/"
+      }
+    },
+    {
+      "amount": "1000000000.000000",
+      "symbol": "SIMPLE",
+      "name": "Let's keep it simple",
+      "uri": "https://ipfs.io/ipfs/QmRGCKhsnoXNy19RzC2SWqp21sYTiQLz82o2EZrHrwtmoW",
+      "postBalance": "1000000000.000000",
+      "timestamp": "2025-01-18T04:36:16.632Z",
+      "processed_timestamp": "2025-01-18T04:36:16.632Z",
+      "metadata": {
+        "name": "Let's keep it simple",
+        "symbol": "SIMPLE",
+        "description": "https://www.infinitebackrooms.com/dreams/conversation-1721541191-scenario-terminal-of-truths-txt",
+        "image": "https://ipfs.io/ipfs/QmNnhgLgakdQJkxiMYk93BKF3h9cyvwMRZznaq724g1gkn",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "website": "https://www.infinitebackrooms.com/dreams/conversation-1721541191-scenario-terminal-of-truths-txt"
+      }
+    },
+    {
+      "amount": "1000000000.000000",
+      "symbol": "TRUMP",
+      "name": "TRUMP IN POWER ",
+      "uri": "https://ipfs.io/ipfs/QmSFBE9JSoBxNnREiHbjZUyYWE4pAh52aa1Fcbir1uF424",
+      "postBalance": "1000000000.000000",
+      "timestamp": "2025-01-18T04:36:16.632Z",
+      "processed_timestamp": "2025-01-18T04:36:16.632Z",
+      "metadata": {
+        "name": "TRUMP IN POWER ",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://ipfs.io/ipfs/QmTg3uGZk4v2jEjwZvgny2Jt6CdWaP3RX9eYNABjbAgyZ4",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://x.com/realDonaldTrump",
+        "website": "https://x.com/realDonaldTrump"
+      }
+    },
+    {
+      "amount": "1000000000.000000",
+      "symbol": "Kernel",
+      "name": "kernel",
+      "uri": "https://ipfs.io/ipfs/Qmd86ZE64S9xMsaWXZUeksWg6KuGu7YAKWzfbryLpmYuZH",
+      "postBalance": "1000000000.000000",
+      "timestamp": "2025-01-18T04:36:16.631Z",
+      "processed_timestamp": "2025-01-18T04:36:16.631Z",
+      "metadata": {
+        "name": "kernel",
+        "symbol": "Kernel",
+        "description": "",
+        "image": "https://ipfs.io/ipfs/Qme7qL4FHwRVCYALunDpwB4vDPM9Nr558hZtaY4pYxV9mW",
+        "showName": true,
+        "createdOn": "https://pump.fun"
+      }
+    },
+    {
+      "amount": "932926039.747165",
+      "symbol": "AICMP",
+      "name": "AI-Powered CMP",
+      "uri": "https://ipfs.io/ipfs/QmPEg2gTacVoXkKD7RvXRNir7Ky6K3C6aRNDMNZ6krg8p3",
+      "postBalance": "932926039.747165",
+      "timestamp": "2025-01-18T04:36:16.632Z",
+      "processed_timestamp": "2025-01-18T04:36:16.632Z",
+      "metadata": {
+        "name": "AI-Powered CMP",
+        "symbol": "AICMP",
+        "description": "Incubated by team FSIC, AICMP revolutionizes Bitcoin mining pools by leveraging AI-driven reinforcement learning, predictive analytics, and transparent reward distribution to optimize resource use, ensure fairness, and promote scalable, eco-friendly mining.",
+        "image": "https://ipfs.io/ipfs/Qma6SPaGQPBXMRrFDQzN5jTNzLxyJFfqiKGUaBxjjXXFyM",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://x.com/BTCFSIC",
+        "website": "https://fsic.gitbook.io/fsic-aicmp"
+      }
+    },
+    {
+      "amount": "999995624.820325",
+      "symbol": "Beenz",
+      "name": "Beenz",
+      "uri": "https://cf-ipfs.com/ipfs/QmVg3grgb57UUFaqP2xTbgCwP1cYRi6LwXkWEjocin9cAD",
+      "postBalance": "999995624.820325",
+      "timestamp": "2025-01-18T04:36:16.014Z",
+      "processed_timestamp": "2025-01-18T04:36:16.014Z",
+      "metadata": null
+    },
+    {
+      "amount": "999999998.952254",
+      "symbol": "MMGA",
+      "name": "Make Memecoins Great Again",
+      "uri": "https://cf-ipfs.com/ipfs/Qmcg8USWPJcQMFftSgyDxEZtE2dnRTNRqCvyX3NN1yMn7k",
+      "postBalance": "999999998.952254",
+      "timestamp": "2025-01-18T04:36:16.017Z",
+      "processed_timestamp": "2025-01-18T04:36:16.017Z",
+      "metadata": null
+    },
+    {
+      "amount": "999827620.477133",
+      "symbol": "YAKUB",
+      "name": "Yakub: Creator of the White Race",
+      "uri": "https://cf-ipfs.com/ipfs/QmetsDFgMWA7H62W19Qi9aDSBHTS94iynKWrhRe4F7wcQH",
+      "postBalance": "999827620.477133",
+      "timestamp": "2025-01-18T04:36:16.018Z",
+      "processed_timestamp": "2025-01-18T04:36:16.018Z",
+      "metadata": null
+    },
+    {
+      "amount": "1",
+      "symbol": "BANX",
+      "name": "Banx #10612",
+      "uri": "https://banxnft.s3.amazonaws.com/json/10612.json",
+      "postBalance": "1",
+      "timestamp": "2025-01-18T04:36:14.180Z",
+      "processed_timestamp": "2025-01-18T04:36:14.180Z",
+      "metadata": {
+        "name": "Banx #10612",
+        "symbol": "BANX",
+        "description": "Banx is the frakt protocol's collection. Each Banx unlocks a share of revenue and governance proportional to its Partner points. Every Banx makes you a first-class user of the protocol, with discounts and boosts proportional to its Player points. Art by Tainaker, Utility by frakt, Community by you.",
+        "seller_fee_basis_points": 420,
+        "external_url": "https://frakt.xyz",
+        "image": "https://banxnft.s3.amazonaws.com/images/10612.png",
+        "attributes": [
+          {
+            "trait_type": "player points",
+            "value": 1
+          },
+          {
+            "trait_type": "partner points",
+            "value": 10
+          },
+          {
+            "trait_type": "Background",
+            "value": "Yellow"
+          },
+          {
+            "trait_type": "Fur",
+            "value": "Gray"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Wheat straw"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Clubmaster"
+          },
+          {
+            "trait_type": "Head",
+            "value": "Wizard hat"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Puff jacket (White)"
+          },
+          {
+            "trait_type": "Tier",
+            "value": "Uncommon"
+          }
+        ],
+        "properties": {
+          "category": "image",
+          "files": [
+            {
+              "uri": "https://banxnft.s3.amazonaws.com/images/10612.png",
+              "type": "image/png"
+            }
+          ],
+          "creators": [
+            {
+              "address": "bnxZZLyvcezhYxRzBwdw7duK9Q9DN26Jd9YZhizTnwg",
+              "share": 100
+            }
+          ]
+        }
+      }
+    },
+    {
+      "amount": "1",
+      "symbol": "BANX",
+      "name": "Banx #12811",
+      "uri": "https://banxnft.s3.amazonaws.com/json/12811.json",
+      "postBalance": "1",
+      "timestamp": "2025-01-18T04:36:14.179Z",
+      "processed_timestamp": "2025-01-18T04:36:14.179Z",
+      "metadata": {
+        "name": "Banx #12811",
+        "symbol": "BANX",
+        "description": "Banx is the frakt protocol's collection. Each Banx unlocks a share of revenue and governance proportional to its Partner points. Every Banx makes you a first-class user of the protocol, with discounts and boosts proportional to its Player points. Art by Tainaker, Utility by frakt, Community by you.",
+        "seller_fee_basis_points": 420,
+        "external_url": "https://frakt.xyz",
+        "image": "https://banxnft.s3.amazonaws.com/images/12811.png",
+        "attributes": [
+          {
+            "trait_type": "player points",
+            "value": 1
+          },
+          {
+            "trait_type": "partner points",
+            "value": 10
+          },
+          {
+            "trait_type": "Background",
+            "value": "White"
+          },
+          {
+            "trait_type": "Fur",
+            "value": "Yellow"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Tongue out"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Raised brow"
+          },
+          {
+            "trait_type": "Head",
+            "value": "Solana hat"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Space suit"
+          },
+          {
+            "trait_type": "Tier",
+            "value": "Common"
+          }
+        ],
+        "properties": {
+          "category": "image",
+          "files": [
+            {
+              "uri": "https://banxnft.s3.amazonaws.com/images/12811.png",
+              "type": "image/png"
+            }
+          ],
+          "creators": [
+            {
+              "address": "bnxZZLyvcezhYxRzBwdw7duK9Q9DN26Jd9YZhizTnwg",
+              "share": 100
+            }
+          ]
+        }
+      }
+    },
+    {
+      "amount": "1000000000.000000",
+      "symbol": "microphone",
+      "name": "microphone",
+      "uri": "https://ipfs.io/ipfs/bafkreib4udmbhrribtq5gzwnwwoedlso3nxbavdat2mfqnrqs3y43ch27i",
+      "postBalance": "1000000000.000000",
+      "timestamp": "2025-01-18T04:36:16.632Z",
+      "processed_timestamp": "2025-01-18T04:36:16.632Z",
+      "metadata": {
+        "name": "microphone",
+        "symbol": "microphone",
+        "description": "Through collaboration and dedication, this century marks our leap to the cosmic stage, exploring extraterrestrial life, and deepening our understanding of our own existence.",
+        "image": "https://ipfs.io/ipfs/Qmb9eGeNUuxbxP6f1srhvv6kpNwhbuYEof93SLZTp42PV1",
+        "showName": true,
+        "createdOn": "https://pumpup.ai"
+      }
+    },
+    {
+      "amount": "1000000000.000000",
+      "symbol": "PUD",
+      "name": "Pink Unicore Doll",
+      "uri": "https://ipfs.io/ipfs/bafkreifuylmvcjjmrfh6miuofodk32e3buh72hwoihv2t36jhvzdukc6ba",
+      "postBalance": "1000000000.000000",
+      "timestamp": "2025-01-18T04:36:16.632Z",
+      "processed_timestamp": "2025-01-18T04:36:16.632Z",
+      "metadata": {
+        "name": "Pink Unicore Doll",
+        "symbol": "PUD",
+        "description": "Baby Doll",
+        "image": "https://ipfs.io/ipfs/QmbUQ6m1u5ABz9GN8a6V14v6XTcQcjsZMkRJkDHggE8g1K",
+        "showName": true,
+        "createdOn": "https://pumpup.ai"
+      }
+    },
+    {
+      "amount": "999990372.085977",
+      "symbol": "SNAI",
+      "name": "SwarmNode.ai",
+      "uri": "https://ipfs.io/ipfs/QmS7kVXsN2yhTzm9pwNjorZhn8rsKmbA8Db6LGZuLMfBuW",
+      "postBalance": "999990372.085977",
+      "timestamp": "2025-01-18T04:36:16.632Z",
+      "processed_timestamp": "2025-01-18T04:36:16.632Z",
+      "metadata": {
+        "name": "SwarmNode.ai",
+        "symbol": "SNAI",
+        "description": "Serverless AI Infra",
+        "image": "https://ipfs.io/ipfs/Qmf978WVwJWAjeJaJY5jGiZ3YEdQgC43Cn4QowytAYos78",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://x.com/swarmnode",
+        "website": "https://swarmnode.ai/"
+      }
+    },
+    {
+      "amount": "82760472375.985866",
+      "symbol": "CAT",
+      "name": "Simon's Cat",
+      "uri": "https://ipfs.io/ipfs/QmNZhsp5ux8YJD95m9DtemZM9LCumqgc9dkptjaUmV9YQR",
+      "postBalance": "82760472375.985866",
+      "timestamp": "2025-01-18T04:36:16.632Z",
+      "processed_timestamp": "2025-01-18T04:36:16.632Z",
+      "metadata": {
+        "name": "Simon's Cat",
+        "symbol": "CAT",
+        "description": "One Cat, Billions of Owners 😼",
+        "image": "https://ipfs.io/ipfs/QmUDeNDuacgt5SK4fVAqG72NbkBr8BULk7BZjfnKpDdyFF"
+      }
+    },
+    {
+      "amount": "999999999.805879",
+      "symbol": "SOL",
+      "name": "SOL",
+      "uri": "https://i.degencdn.com/ipfs/bafkreidvvmfsga3qu46b3al2jh6gmj2wmeiiflcaxwuvk2354wb6uamxn4",
+      "postBalance": "999999999.805879",
+      "timestamp": "2025-01-18T04:36:16.635Z",
+      "processed_timestamp": "2025-01-18T04:36:16.635Z",
+      "metadata": {
+        "name": "SOL",
+        "symbol": "SOL",
+        "description": "SOL",
+        "image": "https://i.degencdn.com/ipfs/bafkreicdz5vznj7nahq4o4eqfy6yg4e4axdg776rgpbbssz2d2fo6lfh3a"
+      }
+    },
+    {
+      "amount": "368772288.197346",
+      "symbol": "XION",
+      "name": "Burnt F1nance",
+      "uri": "https://i.degencdn.com/ipfs/bafkreigncryn5ughaooh3kwzkvegvuvgso76wxkjkwzd2avg2pouk54g4e",
+      "postBalance": "368772288.197346",
+      "timestamp": "2025-01-18T04:36:16.634Z",
+      "processed_timestamp": "2025-01-18T04:36:16.634Z",
+      "metadata": {
+        "name": "Burnt F1nance",
+        "symbol": "XION",
+        "description": "Burnt Finance is a fully decentralized auction protocol built on Solana. Burnt Finance is a DeFi protocol that enables anyone to mint a diverse array of synthetics and NFTs while also providing them with an unparalleled auction platform.",
+        "image": "https://i.degencdn.com/ipfs/bafkreidlt5q5jkhydr2cj27t3rspqyotlr2dq6znce5hk2kzc6duy4lwuq"
+      }
+    },
+    {
+      "amount": "1",
+      "symbol": "BONKz",
+      "name": "BONKz #7333",
+      "uri": "https://arweave.net/bZR-U_Vube2lgdecZarwbzaoleUUSqDnkaqWilEiMas",
+      "postBalance": "1",
+      "timestamp": "2025-01-18T04:36:14.180Z",
+      "processed_timestamp": "2025-01-18T04:36:14.180Z",
+      "metadata": {
+        "name": "BONKz #7333",
+        "symbol": "BONKz",
+        "description": "BONKz",
+        "seller_fee_basis_points": 200,
+        "image": "https://arweave.net/vzYHvCkzy21KIG_T8Y_UJY-x32yY_B5AGlGLkbzvQvU?ext=png",
+        "attributes": [
+          {
+            "trait_type": "Background",
+            "value": "Olive"
+          },
+          {
+            "trait_type": "Aura",
+            "value": "None"
+          },
+          {
+            "trait_type": "Hand",
+            "value": "Paddle"
+          },
+          {
+            "trait_type": "Base",
+            "value": "Shib"
+          },
+          {
+            "trait_type": "Expression",
+            "value": "Mask"
+          },
+          {
+            "trait_type": "Clothing",
+            "value": "Varsity Navy"
+          },
+          {
+            "trait_type": "Head",
+            "value": "Beanie"
+          },
+          {
+            "trait_type": "Facewear",
+            "value": "None"
+          },
+          {
+            "trait_type": "1/1",
+            "value": "None"
+          }
+        ],
+        "properties": {
+          "files": [
+            {
+              "uri": "https://arweave.net/vzYHvCkzy21KIG_T8Y_UJY-x32yY_B5AGlGLkbzvQvU?ext=png",
+              "type": "image/png"
+            }
+          ],
+          "creators": [
+            {
+              "address": "GkYZr19qj2pLEzWy1kghbvaTTWLen2TGcJm1f8K63PtP",
+              "share": 100
+            }
+          ],
+          "category": "image"
+        }
+      }
+    },
+    {
+      "amount": "999998268.763170357",
+      "symbol": "CLOUD",
+      "name": "Cloud",
+      "uri": "https://arweave.net/l3jy9_p6Joj44FFMgiEyNHHeYfVBkeKSTcn5R1VMs3Q",
+      "postBalance": "999998268.763170357",
+      "timestamp": "2025-01-18T04:36:11.703Z",
+      "processed_timestamp": "2025-01-18T04:36:11.703Z",
+      "metadata": {
+        "name": "Cloud",
+        "image": "https://arweave.net/N7vCgQdgQ-fab28zEB4m8QRLMwI91_KcXI-Gtr151gg",
+        "symbol": "CLOUD",
+        "description": "Sanctum's Native Token",
+        "twitter": "https://twitter.com/sanctumso",
+        "website": "https://sanctum.so"
+      }
+    },
+    {
+      "amount": "936512618.000000",
+      "symbol": "SOLAYER",
+      "name": "Solayer",
+      "uri": "https://i.degencdn.com/ipfs/bafkreicxsoqwdasgtczirj6vikkbnrzjhhqhwu27j4sgxlyzumgmiu4ss4",
+      "postBalance": "936512618.000000",
+      "timestamp": "2025-01-18T04:36:16.636Z",
+      "processed_timestamp": "2025-01-18T04:36:16.636Z",
+      "metadata": {
+        "name": "Solayer",
+        "symbol": "SOLAYER",
+        "description": "Solayer is building the restaking network natively on Solana.",
+        "image": "https://i.degencdn.com/ipfs/bafkreichiugqex4evdl4yuahkquzuuwom5gu335vhmnllv5qvvxpzn6hom"
+      }
+    },
+    {
+      "amount": "18872356.414722",
+      "symbol": "RBAX",
+      "name": "Rebe1 Bots Ep1c War",
+      "uri": "https://i.degencdn.com/ipfs/bafkreidrjrxjdoifw2p2tzj3g36ehf7yvzh6zbsccswjsaoyqilh2bpv2m",
+      "postBalance": "18872356.414722",
+      "timestamp": "2025-01-18T04:36:16.632Z",
+      "processed_timestamp": "2025-01-18T04:36:16.633Z",
+      "metadata": {
+        "name": "Rebe1 Bots Ep1c War",
+        "symbol": "RBAX",
+        "description": "Rebel Bots Studio is a gaming development studio that aims to harness the power of Web3 technology to elevate gaming experiences to new levels. They are focused on creating hybrid 'AAA' fun quality games that seamlessly integrate Web2 and Web3 elements, such as NFTs and blockchain technology.",
+        "image": "https://i.degencdn.com/ipfs/bafkreigp3663ncfyad7eo2myd7g62bk73p2j2b2b7wj3je3beswyrrcn44"
+      }
+    },
+    {
+      "amount": "999604663.347723",
+      "symbol": "USDC",
+      "name": "USD C",
+      "uri": "https://i.degencdn.com/ipfs/bafkreids3dan6aq2cgaundw2r4phbrcyq2wcetmvhmcjfly4spd7ka62eu",
+      "postBalance": "999604663.347723",
+      "timestamp": "2025-01-18T04:36:16.633Z",
+      "processed_timestamp": "2025-01-18T04:36:16.633Z",
+      "metadata": {
+        "name": "USD C",
+        "symbol": "USDC",
+        "description": "USD Cocoin",
+        "image": "https://i.degencdn.com/ipfs/bafkreigm5o72t6kdbz7o7iwwaynejyd255dylnmb3rw3olv23ygskirsfa"
+      }
+    },
+    {
+      "amount": "446981626.339920",
+      "symbol": "LVLY",
+      "name": "Lyvely",
+      "uri": "https://i.degencdn.com/ipfs/bafkreibdoagqer5l7u5636alr24qjbfquzoew2gllr6nqjwxtoagwlasjm",
+      "postBalance": "446981626.339920",
+      "timestamp": "2025-01-18T04:36:16.636Z",
+      "processed_timestamp": "2025-01-18T04:36:16.636Z",
+      "metadata": {
+        "name": "Lyvely",
+        "symbol": "LVLY",
+        "description": "Lyvely is creating a place where creators, entrepreneurs, freelancers and can monetize their content.",
+        "image": "https://i.degencdn.com/ipfs/bafkreihbozs5bspyexiayhn3kho2afwb6rjbmzgnl7zouecdpuuaebne7i"
+      }
+    },
+    {
+      "amount": "999999946.524566",
+      "symbol": "USDC",
+      "name": "USD C",
+      "uri": "https://i.degencdn.com/ipfs/bafkreibtdnofnr26wefx6ueau4b6xuqytzyvfylehmp6prtpwyotlewsiy",
+      "postBalance": "999999946.524566",
+      "timestamp": "2025-01-18T04:36:16.636Z",
+      "processed_timestamp": "2025-01-18T04:36:16.636Z",
+      "metadata": {
+        "name": "USD C",
+        "symbol": "USDC",
+        "description": "USDC reverse",
+        "image": "https://i.degencdn.com/ipfs/bafkreigysax4tcdqya2mb5dos4nqdcctxvb6wtyflfpn6z64zotz4kycya"
+      }
+    },
+    {
+      "amount": "999999999.999901",
+      "symbol": "Sol",
+      "name": "Sol",
+      "uri": "https://i.degencdn.com/ipfs/bafkreihl33ik23hw56tvmfhxfgzgmkbgm4vaqjaduxxpmxcwcprrzk27p4",
+      "postBalance": "999999999.999901",
+      "timestamp": "2025-01-18T04:36:16.636Z",
+      "processed_timestamp": "2025-01-18T04:36:16.636Z",
+      "metadata": {
+        "name": "Sol",
+        "symbol": "Sol",
+        "description": "Solana? No",
+        "image": "https://i.degencdn.com/ipfs/bafkreicdz5vznj7nahq4o4eqfy6yg4e4axdg776rgpbbssz2d2fo6lfh3a"
+      }
+    },
+    {
+      "amount": "999530620.955294",
+      "symbol": "ECASH",
+      "name": "DigiCash",
+      "uri": "https://cf-ipfs.com/ipfs/QmbBMFMYLjxH9pDVsiwHbCUfdsniVdi3x3PbuJZd1HGfc8",
+      "postBalance": "999530620.955294",
+      "timestamp": "2025-01-18T04:36:16.038Z",
+      "processed_timestamp": "2025-01-18T04:36:16.038Z",
+      "metadata": null
+    },
+    {
+      "amount": "999999998.952254",
+      "symbol": "MMGA",
+      "name": "Make Memecoins Great Again",
+      "uri": "https://cf-ipfs.com/ipfs/Qmcg8USWPJcQMFftSgyDxEZtE2dnRTNRqCvyX3NN1yMn7k",
+      "postBalance": "999999998.952254",
+      "timestamp": "2025-01-18T04:36:16.045Z",
+      "processed_timestamp": "2025-01-18T04:36:16.045Z",
+      "metadata": null
+    },
+    {
+      "amount": "999999998.952254",
+      "symbol": "MMGA",
+      "name": "Make Memecoins Great Again",
+      "uri": "https://cf-ipfs.com/ipfs/Qmcg8USWPJcQMFftSgyDxEZtE2dnRTNRqCvyX3NN1yMn7k",
+      "postBalance": "999999998.952254",
+      "timestamp": "2025-01-18T04:36:16.045Z",
+      "processed_timestamp": "2025-01-18T04:36:16.045Z",
+      "metadata": null
+    },
+    {
+      "amount": "975625282.270881",
+      "symbol": "FWOG",
+      "name": "FWOG",
+      "uri": "https://cf-ipfs.com/ipfs/QmVAvr3r1q2NrFHsY5fvrkJCdBniGM326U2pAvfpvgkwDR",
+      "postBalance": "975625282.270881",
+      "timestamp": "2025-01-18T04:36:16.046Z",
+      "processed_timestamp": "2025-01-18T04:36:16.046Z",
+      "metadata": null
+    },
+    {
+      "amount": "963310880.914605",
+      "symbol": "aura",
+      "name": "aura",
+      "uri": "https://cf-ipfs.com/ipfs/QmciaE8qRSBMFPPFPjFkHCFTVFGfNXWGzc619Kt8ncb88g",
+      "postBalance": "963310880.914605",
+      "timestamp": "2025-01-18T04:36:16.049Z",
+      "processed_timestamp": "2025-01-18T04:36:16.049Z",
+      "metadata": null
+    },
+    {
+      "amount": "1",
+      "symbol": "",
+      "name": "DRiP Shared Collection",
+      "uri": "https://arweave.net/1vhAbzTXOr7zmfr4M6lXEAtIdLkb4xfh_BLuoVpEU_E",
+      "postBalance": "1",
+      "timestamp": "2025-01-18T04:36:15.013Z",
+      "processed_timestamp": "2025-01-18T04:36:15.013Z",
+      "metadata": {
+        "animation_url": "",
+        "attributes": [],
+        "description": "The Shared Collection is where new creators mint their first NFTs.",
+        "external_url": "",
+        "image": "https://arweave.net/X6syWhp7QuIYTyWpF8q3RaHgg2I4v3FGyCSTA2u7Wmw?ext=png",
+        "name": "DRiP Shared Collection",
+        "properties": {
+          "category": "image",
+          "files": [
+            {
+              "type": "image/png",
+              "uri": "https://arweave.net/X6syWhp7QuIYTyWpF8q3RaHgg2I4v3FGyCSTA2u7Wmw?ext=png"
+            }
+          ]
+        },
+        "symbol": ""
+      }
+    },
+    {
+      "amount": "1",
+      "symbol": "OVOL",
+      "name": "Ovol #1019",
+      "uri": "https://ovols-metadata.s3.us-east-1.amazonaws.com/1019.json",
+      "postBalance": "1",
+      "timestamp": "2025-01-18T04:36:14.180Z",
+      "processed_timestamp": "2025-01-18T04:36:14.180Z",
+      "metadata": {
+        "name": "Ovol #1019",
+        "symbol": "OVOL",
+        "description": "Protectors of the City of Elixir. Prepared to protect and serve the City through any conditions.",
+        "image": "https://ovols-metadata.s3.us-east-1.amazonaws.com/1019.png",
+        "external_url": "https://www.elixirnft.io/",
+        "attributes": [
+          {
+            "trait_type": "Background",
+            "value": "Platinum"
+          },
+          {
+            "trait_type": "Feathers",
+            "value": "Spirit"
+          },
+          {
+            "trait_type": "Scars",
+            "value": "None"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Spirit"
+          },
+          {
+            "trait_type": "Headwear",
+            "value": "None"
+          },
+          {
+            "trait_type": "Clothes",
+            "value": "Black Jacket"
+          },
+          {
+            "trait_type": "Accessory",
+            "value": "Nectar Pipe"
+          }
+        ],
+        "properties": {
+          "files": [
+            {
+              "uri": "https://ovols-metadata.s3.us-east-1.amazonaws.com/1019.png",
+              "type": "image/png"
+            }
+          ],
+          "category": "image"
+        }
+      }
+    },
+    {
+      "amount": "999996107.183109",
+      "symbol": "Goku",
+      "name": "Goku super saiyan",
+      "uri": "https://cf-ipfs.com/ipfs/QmctYDq4H9L77o3v6XizefFRrjbXRDyJEv1USMzoQSB6Hg",
+      "postBalance": "999996107.183109",
+      "timestamp": "2025-01-18T04:36:16.051Z",
+      "processed_timestamp": "2025-01-18T04:36:16.051Z",
+      "metadata": null
+    },
+    {
+      "amount": "999999993.450470",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "uri": "https://arweave.net/6qaBgR0ALsJDAJtkuP-h0551IAZlkRvbfz_I3M8GnQ4",
+      "postBalance": "999999993.450470",
+      "timestamp": "2025-01-18T04:36:16.630Z",
+      "processed_timestamp": "2025-01-18T04:36:16.631Z",
+      "metadata": {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw"
+      }
+    },
+    {
+      "amount": "999999993.450470",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "uri": "https://arweave.net/6qaBgR0ALsJDAJtkuP-h0551IAZlkRvbfz_I3M8GnQ4",
+      "postBalance": "999999993.450470",
+      "timestamp": "2025-01-18T04:36:16.631Z",
+      "processed_timestamp": "2025-01-18T04:36:16.631Z",
+      "metadata": {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw"
+      }
+    },
+    {
+      "amount": "12361198.517686505",
+      "symbol": "JitoSOL",
+      "name": "Jito Staked SOL",
+      "uri": "https://storage.googleapis.com/token-metadata/JitoSOL.json",
+      "postBalance": "12361198.517686505",
+      "timestamp": "2025-01-18T04:36:17.023Z",
+      "processed_timestamp": "2025-01-18T04:36:17.023Z",
+      "metadata": {
+        "name": "Jito Staked SOL",
+        "symbol": "JitoSOL",
+        "description": "MEV-Powered Liquid Staking Token",
+        "image": "https://storage.googleapis.com/token-metadata/JitoSOL-256.png",
+        "twitter": "https://twitter.com/jito_sol",
+        "coingeckoId": "jito-staked-sol",
+        "website": "https://jito.network"
+      }
+    },
+    {
+      "amount": "90950719425156.27572",
+      "symbol": "Bonk",
+      "name": "Bonk",
+      "uri": "https://arweave.net/QPC6FYdUn-3V8ytFNuoCS85S2tHAuiDblh6u3CIZLsw",
+      "postBalance": "90950719425156.27572",
+      "timestamp": "2025-01-18T04:36:16.629Z",
+      "processed_timestamp": "2025-01-18T04:36:16.629Z",
+      "metadata": {
+        "name": "Bonk",
+        "symbol": "Bonk",
+        "image": "https://arweave.net/hQiPZOsRZXGXBJd_82PhVdlM_hACsT_q6wqwf5cSY7I",
+        "description": "The Official Bonk Inu token",
+        "creator": {
+          "name": "DEXLAB MINTING LAB",
+          "site": "https://www.dexlab.space"
+        }
+      }
+    },
+    {
+      "amount": "999999993.450470",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "uri": "https://arweave.net/6qaBgR0ALsJDAJtkuP-h0551IAZlkRvbfz_I3M8GnQ4",
+      "postBalance": "999999993.450470",
+      "timestamp": "2025-01-18T04:36:16.628Z",
+      "processed_timestamp": "2025-01-18T04:36:16.628Z",
+      "metadata": {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw"
+      }
+    },
+    {
+      "amount": "999999993.450470",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "uri": "https://arweave.net/6qaBgR0ALsJDAJtkuP-h0551IAZlkRvbfz_I3M8GnQ4",
+      "postBalance": "999999993.450470",
+      "timestamp": "2025-01-18T04:36:16.630Z",
+      "processed_timestamp": "2025-01-18T04:36:16.630Z",
+      "metadata": {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw"
+      }
+    },
+    {
+      "amount": "999999993.450470",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "uri": "https://arweave.net/6qaBgR0ALsJDAJtkuP-h0551IAZlkRvbfz_I3M8GnQ4",
+      "postBalance": "999999993.450470",
+      "timestamp": "2025-01-18T04:36:16.629Z",
+      "processed_timestamp": "2025-01-18T04:36:16.629Z",
+      "metadata": {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw"
+      }
+    },
+    {
+      "amount": "999999993.450470",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "uri": "https://arweave.net/6qaBgR0ALsJDAJtkuP-h0551IAZlkRvbfz_I3M8GnQ4",
+      "postBalance": "999999993.450470",
+      "timestamp": "2025-01-18T04:36:16.630Z",
+      "processed_timestamp": "2025-01-18T04:36:16.630Z",
+      "metadata": {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw"
+      }
+    },
+    {
+      "amount": "999999993.450470",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "uri": "https://arweave.net/6qaBgR0ALsJDAJtkuP-h0551IAZlkRvbfz_I3M8GnQ4",
+      "postBalance": "999999993.450470",
+      "timestamp": "2025-01-18T04:36:16.630Z",
+      "processed_timestamp": "2025-01-18T04:36:16.630Z",
+      "metadata": {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw"
+      }
+    },
+    {
+      "amount": "999999993.450470",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "uri": "https://arweave.net/6qaBgR0ALsJDAJtkuP-h0551IAZlkRvbfz_I3M8GnQ4",
+      "postBalance": "999999993.450470",
+      "timestamp": "2025-01-18T04:36:16.630Z",
+      "processed_timestamp": "2025-01-18T04:36:16.630Z",
+      "metadata": {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw"
+      }
+    },
+    {
+      "amount": "999949686.186168",
+      "symbol": "pippin",
+      "name": "Pippin",
+      "uri": "https://ipfs.io/ipfs/QmWbM38Bhhcj4vQZpSyesRSotgoqicNjfaNoMmuDGtWZ2o",
+      "postBalance": "999949686.186168",
+      "timestamp": "2025-01-18T04:36:17.015Z",
+      "processed_timestamp": "2025-01-18T04:36:17.015Z",
+      "metadata": {
+        "name": "Pippin",
+        "symbol": "pippin",
+        "description": "yoheinakajima \"detailed unicorn\" \r\n\r\nhttps://x.com/yoheinakajima/status/1855337887568638431",
+        "image": "https://ipfs.io/ipfs/QmdcvSSBg7gWD4tvfXv3PuLtAiPyDZ5Z9w4LQVeRJKL3Lz",
+        "showName": true,
+        "createdOn": "https://pump.fun"
+      }
+    }
+  ]
+}

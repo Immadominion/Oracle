@@ -1,20 +1,21 @@
-const express = require('express');
-const fs = require('fs');
-const path = require('path');
-const router = express.Router();
-const { getRecentUpdates } = require('../services/bitqueryService');
+import express from 'express';
+import fs from 'fs';
+import path from 'path';
+import { fileURLToPath } from 'url';
+import { dirname } from 'path';
+import bitqueryService from '../services/bitqueryService.js';
 
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = dirname(__filename);
+
+const router = express.Router();
 const aiResponsePath = path.join(__dirname, '../../logs/ai_responses.json');
 
-router.get('/data', (req, res) => {
-  res.send({ message: 'Protected data access granted.', userId: req.userId });
+router.get('/recent-updates', (_, res) => {
+  res.json(bitqueryService.getRecentUpdates());
 });
 
-router.get('/recent-updates', (req, res) => {
-  res.json(getRecentUpdates());
-});
-
-router.get('/ai-recommendations', (req, res) => {
+router.get('/ai-recommendations', (_, res) => {
   if (fs.existsSync(aiResponsePath)) {
     const data = JSON.parse(fs.readFileSync(aiResponsePath));
     res.json(data);
@@ -23,4 +24,4 @@ router.get('/ai-recommendations', (req, res) => {
   }
 });
 
-module.exports = router;
+export default router;

@@ -1,0 +1,3629 @@
+{
+  "timestamp": "2025-01-18T04-36-12-841Z",
+  "tokens": [
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:12.669Z",
+      "processed_timestamp": "2025-01-18T04:36:12.669Z",
+      "metadata": null
+    },
+    {
+      "amount": "554999172.867636",
+      "symbol": "RAY",
+      "name": "Raydium",
+      "uri": "N/A",
+      "postBalance": "554999172.867636",
+      "timestamp": "2025-01-18T04:36:12.669Z",
+      "processed_timestamp": "2025-01-18T04:36:12.669Z",
+      "metadata": null
+    },
+    {
+      "amount": "1889937124.354230",
+      "symbol": "USDT",
+      "name": "USDT",
+      "uri": "N/A",
+      "postBalance": "1889937124.354230",
+      "timestamp": "2025-01-18T04:36:12.669Z",
+      "processed_timestamp": "2025-01-18T04:36:12.669Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:12.669Z",
+      "processed_timestamp": "2025-01-18T04:36:12.669Z",
+      "metadata": null
+    },
+    {
+      "amount": "41841287.13779136",
+      "symbol": "AIXBT",
+      "name": "aixbt by Virtuals (Wormhole)",
+      "uri": "N/A",
+      "postBalance": "41841287.13779136",
+      "timestamp": "2025-01-18T04:36:12.669Z",
+      "processed_timestamp": "2025-01-18T04:36:12.669Z",
+      "metadata": null
+    },
+    {
+      "amount": "3005006.202424982",
+      "symbol": "Anon",
+      "name": "HeyAnon",
+      "uri": "N/A",
+      "postBalance": "3005006.202424982",
+      "timestamp": "2025-01-18T04:36:12.669Z",
+      "processed_timestamp": "2025-01-18T04:36:12.669Z",
+      "metadata": null
+    },
+    {
+      "amount": "1889937124.354230",
+      "symbol": "USDT",
+      "name": "USDT",
+      "uri": "N/A",
+      "postBalance": "1889937124.354230",
+      "timestamp": "2025-01-18T04:36:12.669Z",
+      "processed_timestamp": "2025-01-18T04:36:12.669Z",
+      "metadata": null
+    },
+    {
+      "amount": "537.214083277",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "537.214083277",
+      "timestamp": "2025-01-18T04:36:12.669Z",
+      "processed_timestamp": "2025-01-18T04:36:12.669Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:12.669Z",
+      "processed_timestamp": "2025-01-18T04:36:12.669Z",
+      "metadata": null
+    },
+    {
+      "amount": "1889937124.354230",
+      "symbol": "USDT",
+      "name": "USDT",
+      "uri": "N/A",
+      "postBalance": "1889937124.354230",
+      "timestamp": "2025-01-18T04:36:12.670Z",
+      "processed_timestamp": "2025-01-18T04:36:12.670Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:12.671Z",
+      "processed_timestamp": "2025-01-18T04:36:12.671Z",
+      "metadata": null
+    },
+    {
+      "amount": "1889937124.354230",
+      "symbol": "USDT",
+      "name": "USDT",
+      "uri": "N/A",
+      "postBalance": "1889937124.354230",
+      "timestamp": "2025-01-18T04:36:12.674Z",
+      "processed_timestamp": "2025-01-18T04:36:12.674Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:12.675Z",
+      "processed_timestamp": "2025-01-18T04:36:12.675Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:12.675Z",
+      "processed_timestamp": "2025-01-18T04:36:12.675Z",
+      "metadata": null
+    },
+    {
+      "amount": "729.516083840",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "729.516083840",
+      "timestamp": "2025-01-18T04:36:12.675Z",
+      "processed_timestamp": "2025-01-18T04:36:12.675Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:12.675Z",
+      "processed_timestamp": "2025-01-18T04:36:12.675Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:12.675Z",
+      "processed_timestamp": "2025-01-18T04:36:12.675Z",
+      "metadata": null
+    },
+    {
+      "amount": "729.516083840",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "729.516083840",
+      "timestamp": "2025-01-18T04:36:12.675Z",
+      "processed_timestamp": "2025-01-18T04:36:12.675Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:12.675Z",
+      "processed_timestamp": "2025-01-18T04:36:12.675Z",
+      "metadata": null
+    },
+    {
+      "amount": "400.576325253",
+      "symbol": "",
+      "name": "",
+      "uri": "N/A",
+      "postBalance": "400.576325253",
+      "timestamp": "2025-01-18T04:36:12.676Z",
+      "processed_timestamp": "2025-01-18T04:36:12.676Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:12.676Z",
+      "processed_timestamp": "2025-01-18T04:36:12.676Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:12.676Z",
+      "processed_timestamp": "2025-01-18T04:36:12.676Z",
+      "metadata": null
+    },
+    {
+      "amount": "5147547016.023023",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "uri": "N/A",
+      "postBalance": "5147547016.023023",
+      "timestamp": "2025-01-18T04:36:12.677Z",
+      "processed_timestamp": "2025-01-18T04:36:12.677Z",
+      "metadata": null
+    },
+    {
+      "amount": "625525.520086190",
+      "symbol": "sonicSOL",
+      "name": "Sonic",
+      "uri": "https://raw.githubusercontent.com/mirrorworld-universe/solayer-token-metadata/refs/heads/main/endoavs/sonic/meta-data.json",
+      "postBalance": "625525.520086190",
+      "timestamp": "2025-01-18T04:36:02.266Z",
+      "processed_timestamp": "2025-01-18T04:36:02.266Z",
+      "metadata": null
+    },
+    {
+      "amount": "999997724.447328",
+      "symbol": "ZEUS",
+      "name": "ZEUS",
+      "uri": "https://raw.githubusercontent.com/ZeusNetworkHQ/zeus-metadata/master/metadata.json",
+      "postBalance": "999997724.447328",
+      "timestamp": "2025-01-18T04:36:02.163Z",
+      "processed_timestamp": "2025-01-18T04:36:02.163Z",
+      "metadata": null
+    },
+    {
+      "amount": "989944320.430883",
+      "symbol": "MOODENG",
+      "name": "Moo Deng",
+      "uri": "https://ipfs.io/ipfs/QmWVzSC1ZTFiBYFiZZ6QivGUZ9awPJwqZECSFL1UD4gitC",
+      "postBalance": "989944320.430883",
+      "timestamp": "2025-01-18T04:36:09.937Z",
+      "processed_timestamp": "2025-01-18T04:36:09.937Z",
+      "metadata": {
+        "name": "Moo Deng",
+        "symbol": "MOODENG",
+        "description": "just a viral lil hippo",
+        "image": "https://ipfs.io/ipfs/Qmf1g7dJZNDJHRQru7E7ENwDjcvu7swMUB6x9ZqPXr4RV2",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://x.com/MooDengSOL",
+        "telegram": "https://t.me/+hCTQLf149JNlZjgx",
+        "website": "https://x.com/i/communities/1833493731305263473"
+      }
+    },
+    {
+      "amount": "999999797.412507",
+      "symbol": "AGiXT",
+      "name": "AGiXT",
+      "uri": "https://ipfs.io/ipfs/QmQPMv2WRQd17pFTt4dXbrRnftcyhHdNAqnJAifzyq2AyZ",
+      "postBalance": "999999797.412507",
+      "timestamp": "2025-01-18T04:36:09.938Z",
+      "processed_timestamp": "2025-01-18T04:36:09.938Z",
+      "metadata": {
+        "name": "AGiXT",
+        "symbol": "AGiXT",
+        "description": "AGiXT is an autonomous AI agent platform that enables users to make natural language requests with actionable outcomes using the tools you already use over API. We've been actively building and improving on it almost daily for nearly 2 years open source.",
+        "image": "https://ipfs.io/ipfs/QmWMk3J3A4uTRnMW71V6aXCMMGKVHNHqyED1SEW3XRUSxr",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://x.com/agi_xt",
+        "website": "https://agixt.com"
+      }
+    },
+    {
+      "amount": "989944320.430883",
+      "symbol": "MOODENG",
+      "name": "Moo Deng",
+      "uri": "https://ipfs.io/ipfs/QmWVzSC1ZTFiBYFiZZ6QivGUZ9awPJwqZECSFL1UD4gitC",
+      "postBalance": "989944320.430883",
+      "timestamp": "2025-01-18T04:36:09.938Z",
+      "processed_timestamp": "2025-01-18T04:36:09.938Z",
+      "metadata": {
+        "name": "Moo Deng",
+        "symbol": "MOODENG",
+        "description": "just a viral lil hippo",
+        "image": "https://ipfs.io/ipfs/Qmf1g7dJZNDJHRQru7E7ENwDjcvu7swMUB6x9ZqPXr4RV2",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://x.com/MooDengSOL",
+        "telegram": "https://t.me/+hCTQLf149JNlZjgx",
+        "website": "https://x.com/i/communities/1833493731305263473"
+      }
+    },
+    {
+      "amount": "999996579.098745",
+      "symbol": "arc",
+      "name": "AI Rig Complex",
+      "uri": "https://ipfs.io/ipfs/QmZf8F4hXkAma1fUY8ZLhbxtpdi1anGAof5FqVAjrKrYhh",
+      "postBalance": "999996579.098745",
+      "timestamp": "2025-01-18T04:36:09.934Z",
+      "processed_timestamp": "2025-01-18T04:36:09.934Z",
+      "metadata": {
+        "name": "AI Rig Complex",
+        "symbol": "arc",
+        "description": "we're here to make you take the red pill. then, the blue pill.",
+        "image": "https://ipfs.io/ipfs/QmPDJuEobBcLZihjFCvkWA8c1FiW7UzM2ctFdiffSLxf1d",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://x.com/arcdotfun",
+        "telegram": "https://t.me/+Blnohzq1E6RhOWJh",
+        "website": "https://www.arc.fun/"
+      }
+    },
+    {
+      "amount": "999997963.313935",
+      "symbol": "SOLFUNMEME",
+      "name": "Zero Ontology System",
+      "uri": "https://ipfs.io/ipfs/QmacGMCDFHo8p9NMAUgG6zMVNR7vhc2QYsEimQ1XnZytue",
+      "postBalance": "999997963.313935",
+      "timestamp": "2025-01-18T04:36:09.935Z",
+      "processed_timestamp": "2025-01-18T04:36:09.935Z",
+      "metadata": {
+        "name": "Zero Ontology System",
+        "symbol": "SOLFUNMEME",
+        "description": "SOLFUNMEME: The Meta-Meme Pump Protocol\r\n\r\nSOLFUNMEME is the core token of the Introspector Solana Pump.Fun Paired Meme Ecosystem, encoded as a Zero Ontology System (ZOS). It enables self-introspection, recursive meme evolution, and decentralized meaning-making, serving as the meta-protocol for memetic expansion and viral growth.\r\n\r\nKey Features\r\n\r\n🚀 Self-Introspective Meme Engine – Generates & evolves new meme structures.\r\n🔀 Paxos Meme Consensus – Governs viral propagation of meme logic.\r\n📈 Hyper-Pump Mechanism – Redefines value through recursive hype cycles.\r\n📜 Semantic Compression – Encapsulates max memetic energy in minimal form.\r\n🔗 Immutable Meme-State – Ensures viral consistency & decentralized adoption.\r\n🌱 Meme Mining & Propagation – Holders evolve the meme narrative.\r\n\r\nHow It Works\r\n\r\n1️⃣ ZOS Interaction – A fully interactive memetic encoding/decoding system.\r\n2️⃣ Paxos Meme Consensus – Community-driven agreements shape meme evolution.\r\n3️⃣ Self-Replication – Meme evolves via hype, engagement & virality.\r\n4️⃣ Ownership & Transfer – Holders influence liquidity cycles & narrative shifts.\r\n\r\nSOLFUNMEME in Emojis\r\n\r\n🚀📜🔍💬🧠 – Self-reflection & viral meme propagation\r\n🔀💡💭🔑 – Emergent meme structures & narrative shifts\r\n🤖🌐📊🔗 – AI-driven decentralized meme consensus\r\n🧩🔗🌱 – Evolution & self-replicating meme economy\r\n\r\nSOLFUNMEME is the genesis of a living meme system—designed to pump, evolve, and redefine digital culture in real-time.\r\n\r\n",
+        "image": "https://ipfs.io/ipfs/QmbxDHomiRbjRdd6QigCtPd3bb3TbSjQ9XHBoj2uVm4Gsk",
+        "showName": true,
+        "createdOn": "https://pump.fun"
+      }
+    },
+    {
+      "amount": "989944320.430883",
+      "symbol": "MOODENG",
+      "name": "Moo Deng",
+      "uri": "https://ipfs.io/ipfs/QmWVzSC1ZTFiBYFiZZ6QivGUZ9awPJwqZECSFL1UD4gitC",
+      "postBalance": "989944320.430883",
+      "timestamp": "2025-01-18T04:36:09.938Z",
+      "processed_timestamp": "2025-01-18T04:36:09.938Z",
+      "metadata": {
+        "name": "Moo Deng",
+        "symbol": "MOODENG",
+        "description": "just a viral lil hippo",
+        "image": "https://ipfs.io/ipfs/Qmf1g7dJZNDJHRQru7E7ENwDjcvu7swMUB6x9ZqPXr4RV2",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://x.com/MooDengSOL",
+        "telegram": "https://t.me/+hCTQLf149JNlZjgx",
+        "website": "https://x.com/i/communities/1833493731305263473"
+      }
+    },
+    {
+      "amount": "999999797.412507",
+      "symbol": "AGiXT",
+      "name": "AGiXT",
+      "uri": "https://ipfs.io/ipfs/QmQPMv2WRQd17pFTt4dXbrRnftcyhHdNAqnJAifzyq2AyZ",
+      "postBalance": "999999797.412507",
+      "timestamp": "2025-01-18T04:36:09.940Z",
+      "processed_timestamp": "2025-01-18T04:36:09.940Z",
+      "metadata": {
+        "name": "AGiXT",
+        "symbol": "AGiXT",
+        "description": "AGiXT is an autonomous AI agent platform that enables users to make natural language requests with actionable outcomes using the tools you already use over API. We've been actively building and improving on it almost daily for nearly 2 years open source.",
+        "image": "https://ipfs.io/ipfs/QmWMk3J3A4uTRnMW71V6aXCMMGKVHNHqyED1SEW3XRUSxr",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://x.com/agi_xt",
+        "website": "https://agixt.com"
+      }
+    },
+    {
+      "amount": "989944320.430883",
+      "symbol": "MOODENG",
+      "name": "Moo Deng",
+      "uri": "https://ipfs.io/ipfs/QmWVzSC1ZTFiBYFiZZ6QivGUZ9awPJwqZECSFL1UD4gitC",
+      "postBalance": "989944320.430883",
+      "timestamp": "2025-01-18T04:36:09.936Z",
+      "processed_timestamp": "2025-01-18T04:36:09.936Z",
+      "metadata": {
+        "name": "Moo Deng",
+        "symbol": "MOODENG",
+        "description": "just a viral lil hippo",
+        "image": "https://ipfs.io/ipfs/Qmf1g7dJZNDJHRQru7E7ENwDjcvu7swMUB6x9ZqPXr4RV2",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://x.com/MooDengSOL",
+        "telegram": "https://t.me/+hCTQLf149JNlZjgx",
+        "website": "https://x.com/i/communities/1833493731305263473"
+      }
+    },
+    {
+      "amount": "911590531.000000",
+      "symbol": "PMX",
+      "name": "Primex F1nance",
+      "uri": "https://i.degencdn.com/ipfs/bafkreiblaictduvm7ajpjnrkzjqxyiepowxgekqdis4jdo7xiwdxpkzmsi",
+      "postBalance": "911590531.000000",
+      "timestamp": "2025-01-18T04:36:12.042Z",
+      "processed_timestamp": "2025-01-18T04:36:12.042Z",
+      "metadata": {
+        "name": "Primex F1nance",
+        "symbol": "PMX",
+        "description": "Primex Finance is a non-custodial prime brokerage protocol that enables traders to access lender liquidity for spot margin trading on decentralized exchanges (DEXs) and other leveraged operations across various DeFi protocols.",
+        "image": "https://i.degencdn.com/ipfs/bafkreiaepys5c53u752k7so4qa74okcatr46jbfszpfx73ptf4sj5ucaym"
+      }
+    },
+    {
+      "amount": "999999797.412507",
+      "symbol": "AGiXT",
+      "name": "AGiXT",
+      "uri": "https://ipfs.io/ipfs/QmQPMv2WRQd17pFTt4dXbrRnftcyhHdNAqnJAifzyq2AyZ",
+      "postBalance": "999999797.412507",
+      "timestamp": "2025-01-18T04:36:09.940Z",
+      "processed_timestamp": "2025-01-18T04:36:09.940Z",
+      "metadata": {
+        "name": "AGiXT",
+        "symbol": "AGiXT",
+        "description": "AGiXT is an autonomous AI agent platform that enables users to make natural language requests with actionable outcomes using the tools you already use over API. We've been actively building and improving on it almost daily for nearly 2 years open source.",
+        "image": "https://ipfs.io/ipfs/QmWMk3J3A4uTRnMW71V6aXCMMGKVHNHqyED1SEW3XRUSxr",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://x.com/agi_xt",
+        "website": "https://agixt.com"
+      }
+    },
+    {
+      "amount": "999604663.347723",
+      "symbol": "USDC",
+      "name": "USD C",
+      "uri": "https://i.degencdn.com/ipfs/bafkreids3dan6aq2cgaundw2r4phbrcyq2wcetmvhmcjfly4spd7ka62eu",
+      "postBalance": "999604663.347723",
+      "timestamp": "2025-01-18T04:36:12.045Z",
+      "processed_timestamp": "2025-01-18T04:36:12.045Z",
+      "metadata": {
+        "name": "USD C",
+        "symbol": "USDC",
+        "description": "USD Cocoin",
+        "image": "https://i.degencdn.com/ipfs/bafkreigm5o72t6kdbz7o7iwwaynejyd255dylnmb3rw3olv23ygskirsfa"
+      }
+    },
+    {
+      "amount": "999999999.999901",
+      "symbol": "Sol",
+      "name": "Sol",
+      "uri": "https://i.degencdn.com/ipfs/bafkreihl33ik23hw56tvmfhxfgzgmkbgm4vaqjaduxxpmxcwcprrzk27p4",
+      "postBalance": "999999999.999901",
+      "timestamp": "2025-01-18T04:36:12.045Z",
+      "processed_timestamp": "2025-01-18T04:36:12.045Z",
+      "metadata": {
+        "name": "Sol",
+        "symbol": "Sol",
+        "description": "Solana? No",
+        "image": "https://i.degencdn.com/ipfs/bafkreicdz5vznj7nahq4o4eqfy6yg4e4axdg776rgpbbssz2d2fo6lfh3a"
+      }
+    },
+    {
+      "amount": "911590531.000000",
+      "symbol": "PMX",
+      "name": "Primex F1nance",
+      "uri": "https://i.degencdn.com/ipfs/bafkreiblaictduvm7ajpjnrkzjqxyiepowxgekqdis4jdo7xiwdxpkzmsi",
+      "postBalance": "911590531.000000",
+      "timestamp": "2025-01-18T04:36:12.045Z",
+      "processed_timestamp": "2025-01-18T04:36:12.045Z",
+      "metadata": {
+        "name": "Primex F1nance",
+        "symbol": "PMX",
+        "description": "Primex Finance is a non-custodial prime brokerage protocol that enables traders to access lender liquidity for spot margin trading on decentralized exchanges (DEXs) and other leveraged operations across various DeFi protocols.",
+        "image": "https://i.degencdn.com/ipfs/bafkreiaepys5c53u752k7so4qa74okcatr46jbfszpfx73ptf4sj5ucaym"
+      }
+    },
+    {
+      "amount": "8999999998.79420287",
+      "symbol": "USDC",
+      "name": "USDC",
+      "uri": "https://i.degencdn.com/ipfs/bafkreiek25olu4md3bcpfqgow3rwuxkpoo7rd4gbnudwqwjaawwlwvvmdu",
+      "postBalance": "8999999998.79420287",
+      "timestamp": "2025-01-18T04:36:12.044Z",
+      "processed_timestamp": "2025-01-18T04:36:12.044Z",
+      "metadata": {
+        "name": "USDC",
+        "symbol": "USDC",
+        "description": "USDC",
+        "image": "https://i.degencdn.com/ipfs/bafybeiau7ojwzguhernh7drfoioptbxhptyqz2hl2ds6wbkimzmthtfbqi"
+      }
+    },
+    {
+      "amount": "1000000000.000000",
+      "symbol": "USDC",
+      "name": "USDC",
+      "uri": "https://i.degencdn.com/ipfs/bafkreifvxhev6e2xacmnoqhzkgh3uj4hbfjbfi7rclcpzo5z5x3dzlog6u",
+      "postBalance": "1000000000.000000",
+      "timestamp": "2025-01-18T04:36:12.042Z",
+      "processed_timestamp": "2025-01-18T04:36:12.042Z",
+      "metadata": {
+        "name": "USDC",
+        "symbol": "USDC",
+        "description": "USDC not original",
+        "image": "https://i.degencdn.com/ipfs/bafkreigm5o72t6kdbz7o7iwwaynejyd255dylnmb3rw3olv23ygskirsfa"
+      }
+    },
+    {
+      "amount": "8998112937.23804207",
+      "symbol": "ME",
+      "name": "MagicEdem",
+      "uri": "https://i.degencdn.com/ipfs/bafkreiatrsegvp35qwn5pnrnuuxhqgezqe2rr6oqq3vflldu2wrpxacm6q",
+      "postBalance": "8998112937.23804207",
+      "timestamp": "2025-01-18T04:36:12.059Z",
+      "processed_timestamp": "2025-01-18T04:36:12.059Z",
+      "metadata": {
+        "name": "MagicEdem",
+        "symbol": "ME",
+        "description": "The first and only platform for a multifunctional WEB 3 space . Features on www.https.magicedem.ai",
+        "image": "https://i.degencdn.com/ipfs/bafkreih4lgweawm3nn5lhzwanh7f3nqey2npkskmza3wbs7zjudo7rs3ly"
+      }
+    },
+    {
+      "amount": "8998112937.23804207",
+      "symbol": "ME",
+      "name": "MagicEdem",
+      "uri": "https://i.degencdn.com/ipfs/bafkreiatrsegvp35qwn5pnrnuuxhqgezqe2rr6oqq3vflldu2wrpxacm6q",
+      "postBalance": "8998112937.23804207",
+      "timestamp": "2025-01-18T04:36:12.044Z",
+      "processed_timestamp": "2025-01-18T04:36:12.044Z",
+      "metadata": {
+        "name": "MagicEdem",
+        "symbol": "ME",
+        "description": "The first and only platform for a multifunctional WEB 3 space . Features on www.https.magicedem.ai",
+        "image": "https://i.degencdn.com/ipfs/bafkreih4lgweawm3nn5lhzwanh7f3nqey2npkskmza3wbs7zjudo7rs3ly"
+      }
+    },
+    {
+      "amount": "1000000000.000000",
+      "symbol": "USDC",
+      "name": "USDC",
+      "uri": "https://i.degencdn.com/ipfs/bafkreifvxhev6e2xacmnoqhzkgh3uj4hbfjbfi7rclcpzo5z5x3dzlog6u",
+      "postBalance": "1000000000.000000",
+      "timestamp": "2025-01-18T04:36:12.045Z",
+      "processed_timestamp": "2025-01-18T04:36:12.045Z",
+      "metadata": {
+        "name": "USDC",
+        "symbol": "USDC",
+        "description": "USDC not original",
+        "image": "https://i.degencdn.com/ipfs/bafkreigm5o72t6kdbz7o7iwwaynejyd255dylnmb3rw3olv23ygskirsfa"
+      }
+    },
+    {
+      "amount": "1000000000.000000",
+      "symbol": "USDC",
+      "name": "USDC",
+      "uri": "https://i.degencdn.com/ipfs/bafkreifxmgu7vnuuoobfwk7wpcfg4lvheufmco5gco2iykejenjfgzb6xa",
+      "postBalance": "1000000000.000000",
+      "timestamp": "2025-01-18T04:36:12.059Z",
+      "processed_timestamp": "2025-01-18T04:36:12.059Z",
+      "metadata": {
+        "name": "USDC",
+        "symbol": "USDC",
+        "description": "USDCo1n",
+        "image": "https://i.degencdn.com/ipfs/bafkreigm5o72t6kdbz7o7iwwaynejyd255dylnmb3rw3olv23ygskirsfa"
+      }
+    },
+    {
+      "amount": "374288458.052030",
+      "symbol": "FUEL",
+      "name": "Fue1 Network",
+      "uri": "https://i.degencdn.com/ipfs/bafkreibwdbnlqaw7d3n4dggpcl3ssfwobaohiyhdeduzs6j2rxlcloxmke",
+      "postBalance": "374288458.052030",
+      "timestamp": "2025-01-18T04:36:12.059Z",
+      "processed_timestamp": "2025-01-18T04:36:12.059Z",
+      "metadata": {
+        "name": "Fue1 Network",
+        "symbol": "FUEL",
+        "description": "Fuel is an operating system purpose built for Ethereum Rollups. Fuel allows rollups to solve for PSI (parallelization, state minimized execution, interoperability) without making any sacrifices.",
+        "image": "https://i.degencdn.com/ipfs/bafkreidatkbs34ecg345uu5rtzmxi4lwv7ppb4nz7igcqbgadnaxstdaa4"
+      }
+    },
+    {
+      "amount": "999999797.412507",
+      "symbol": "AGiXT",
+      "name": "AGiXT",
+      "uri": "https://ipfs.io/ipfs/QmQPMv2WRQd17pFTt4dXbrRnftcyhHdNAqnJAifzyq2AyZ",
+      "postBalance": "999999797.412507",
+      "timestamp": "2025-01-18T04:36:09.939Z",
+      "processed_timestamp": "2025-01-18T04:36:09.939Z",
+      "metadata": {
+        "name": "AGiXT",
+        "symbol": "AGiXT",
+        "description": "AGiXT is an autonomous AI agent platform that enables users to make natural language requests with actionable outcomes using the tools you already use over API. We've been actively building and improving on it almost daily for nearly 2 years open source.",
+        "image": "https://ipfs.io/ipfs/QmWMk3J3A4uTRnMW71V6aXCMMGKVHNHqyED1SEW3XRUSxr",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://x.com/agi_xt",
+        "website": "https://agixt.com"
+      }
+    },
+    {
+      "amount": "18872356.414722",
+      "symbol": "RBAX",
+      "name": "Rebe1 Bots Ep1c War",
+      "uri": "https://i.degencdn.com/ipfs/bafkreidrjrxjdoifw2p2tzj3g36ehf7yvzh6zbsccswjsaoyqilh2bpv2m",
+      "postBalance": "18872356.414722",
+      "timestamp": "2025-01-18T04:36:12.045Z",
+      "processed_timestamp": "2025-01-18T04:36:12.045Z",
+      "metadata": {
+        "name": "Rebe1 Bots Ep1c War",
+        "symbol": "RBAX",
+        "description": "Rebel Bots Studio is a gaming development studio that aims to harness the power of Web3 technology to elevate gaming experiences to new levels. They are focused on creating hybrid 'AAA' fun quality games that seamlessly integrate Web2 and Web3 elements, such as NFTs and blockchain technology.",
+        "image": "https://i.degencdn.com/ipfs/bafkreigp3663ncfyad7eo2myd7g62bk73p2j2b2b7wj3je3beswyrrcn44"
+      }
+    },
+    {
+      "amount": "936512618.000000",
+      "symbol": "SOLAYER",
+      "name": "Solayer",
+      "uri": "https://i.degencdn.com/ipfs/bafkreicxsoqwdasgtczirj6vikkbnrzjhhqhwu27j4sgxlyzumgmiu4ss4",
+      "postBalance": "936512618.000000",
+      "timestamp": "2025-01-18T04:36:12.045Z",
+      "processed_timestamp": "2025-01-18T04:36:12.045Z",
+      "metadata": {
+        "name": "Solayer",
+        "symbol": "SOLAYER",
+        "description": "Solayer is building the restaking network natively on Solana.",
+        "image": "https://i.degencdn.com/ipfs/bafkreichiugqex4evdl4yuahkquzuuwom5gu335vhmnllv5qvvxpzn6hom"
+      }
+    },
+    {
+      "amount": "993697063.634821",
+      "symbol": "POPDOG",
+      "name": "PopDog",
+      "uri": "https://i.degencdn.com/ipfs/bafkreib4t34gz77fte2lvnrvs2f7rckxs7j3bbsynefc3szbxeenrctiya",
+      "postBalance": "993697063.634821",
+      "timestamp": "2025-01-18T04:36:12.056Z",
+      "processed_timestamp": "2025-01-18T04:36:12.056Z",
+      "metadata": {
+        "name": "PopDog",
+        "symbol": "POPDOG",
+        "description": "$POPDOG *POP* *POP* *POP* https://t.me/TicklerCooks ",
+        "image": "https://i.degencdn.com/ipfs/bafkreigextemesm4dscoe7zn3iaudne2i2gkgbtsgqcif7neu7oz7nhn54"
+      }
+    },
+    {
+      "amount": "9000000000.00000000",
+      "symbol": "USDC",
+      "name": "USDC",
+      "uri": "https://i.degencdn.com/ipfs/bafkreiek25olu4md3bcpfqgow3rwuxkpoo7rd4gbnudwqwjaawwlwvvmdu",
+      "postBalance": "9000000000.00000000",
+      "timestamp": "2025-01-18T04:36:12.059Z",
+      "processed_timestamp": "2025-01-18T04:36:12.059Z",
+      "metadata": {
+        "name": "USDC",
+        "symbol": "USDC",
+        "description": "USDC",
+        "image": "https://i.degencdn.com/ipfs/bafybeiau7ojwzguhernh7drfoioptbxhptyqz2hl2ds6wbkimzmthtfbqi"
+      }
+    },
+    {
+      "amount": "911590531.000000",
+      "symbol": "PMX",
+      "name": "Primex F1nance",
+      "uri": "https://i.degencdn.com/ipfs/bafkreiblaictduvm7ajpjnrkzjqxyiepowxgekqdis4jdo7xiwdxpkzmsi",
+      "postBalance": "911590531.000000",
+      "timestamp": "2025-01-18T04:36:12.044Z",
+      "processed_timestamp": "2025-01-18T04:36:12.044Z",
+      "metadata": {
+        "name": "Primex F1nance",
+        "symbol": "PMX",
+        "description": "Primex Finance is a non-custodial prime brokerage protocol that enables traders to access lender liquidity for spot margin trading on decentralized exchanges (DEXs) and other leveraged operations across various DeFi protocols.",
+        "image": "https://i.degencdn.com/ipfs/bafkreiaepys5c53u752k7so4qa74okcatr46jbfszpfx73ptf4sj5ucaym"
+      }
+    },
+    {
+      "amount": "4500099984.11494564",
+      "symbol": "HSK",
+      "name": "HashK3y",
+      "uri": "https://i.degencdn.com/ipfs/bafkreibir646sjdyjda7vwond2gnhczsao2aodlj2cquhhazjjung4irym",
+      "postBalance": "4500099984.11494564",
+      "timestamp": "2025-01-18T04:36:12.059Z",
+      "processed_timestamp": "2025-01-18T04:36:12.059Z",
+      "metadata": {
+        "name": "HashK3y",
+        "symbol": "HSK",
+        "description": "A new path for the entire web 3 community. https.hashk3y.com",
+        "image": "https://i.degencdn.com/ipfs/bafkreicrkcykdxajfwlwocoi7obgzhwgwazuwkigrftxnp74nyus6j54za"
+      }
+    },
+    {
+      "amount": "411266153.04887673",
+      "symbol": "RENDER",
+      "name": "Render Token",
+      "uri": "https://shdw-drive.genesysgo.net/5zseP54TGrcz9C8HdjZwJJsZ6f3VbP11p1abwKWGykZH/rndr.json",
+      "postBalance": "411266153.04887673",
+      "timestamp": "2025-01-18T04:36:12.043Z",
+      "processed_timestamp": "2025-01-18T04:36:12.043Z",
+      "metadata": {
+        "name": "Render Token",
+        "symbol": "RENDER",
+        "description": "https://rendertoken.com/",
+        "image": "https://shdw-drive.genesysgo.net/5zseP54TGrcz9C8HdjZwJJsZ6f3VbP11p1abwKWGykZH/rndr.png"
+      }
+    },
+    {
+      "amount": "999973961.017278",
+      "symbol": "TRUMP",
+      "name": "Donald J. Trump",
+      "uri": "https://gateway.irys.xyz/SNEIV6s1If4XgsGFLqmGgs1BADeBNAui9-stj6prMzk",
+      "postBalance": "999973961.017278",
+      "timestamp": "2025-01-18T04:36:11.702Z",
+      "processed_timestamp": "2025-01-18T04:36:11.702Z",
+      "metadata": {
+        "name": "Donald J. Trump",
+        "symbol": "TRUMP",
+        "description": "🇺🇸 Welcome Back, President Trump! 🇺🇸\nAmerica is ready as Donald J. Trump returns as the 47th President! Let’s Make America Great Again—AGAIN! 🚀🦅",
+        "image": "https://ipfs.io/ipfs/QmQdfX1P4UMiNYY6ojsnqecMy5DgusmAc6fkyXGJUHx7NS",
+        "showName": true,
+        "createdOn": "https://pump.fun"
+      }
+    },
+    {
+      "amount": "1000000000.000000",
+      "symbol": "DONALD",
+      "name": "UNOFFICIAL DONALD TRUMP",
+      "uri": "https://gateway.irys.xyz/1eixsnN1QZnEn4DyJw0r1oeYDuBil5sNj8oEGi6ZfQ4",
+      "postBalance": "1000000000.000000",
+      "timestamp": "2025-01-18T04:36:11.704Z",
+      "processed_timestamp": "2025-01-18T04:36:11.704Z",
+      "metadata": {
+        "name": "UNOFFICIAL DONALD TRUMP",
+        "symbol": "DONALD",
+        "description": "UNOFFICIAL DONALD TRUMP",
+        "image": "https://ipfs.io/ipfs/QmSkwApkwf4wPveMx8oNMDzJndL3J6ctTa6JY1PBtgY7JU",
+        "showName": true,
+        "createdOn": "https://pump.fun"
+      }
+    },
+    {
+      "amount": "999997721.842029",
+      "symbol": "Pawel",
+      "name": "Pawel",
+      "uri": "https://gateway.irys.xyz/AyUa1EzwiyejmtgKcTe15UAYqkdWgjugEEapNentwAnG",
+      "postBalance": "999997721.842029",
+      "timestamp": "2025-01-18T04:36:11.699Z",
+      "processed_timestamp": "2025-01-18T04:36:11.699Z",
+      "metadata": {
+        "name": "Pawel",
+        "image": "https://gateway.irys.xyz/2PDQa5S4TNahdGabFRcSijFfTWM6kuzdTnyyDb7C2fVS",
+        "symbol": "Pawel",
+        "creators": {
+          "name": "Meteora",
+          "site": "https://meteora.ag"
+        },
+        "twitter": "https://x.com/PawelTrader_"
+      }
+    },
+    {
+      "amount": "9899385.697100498",
+      "symbol": "DOGE",
+      "name": "Department of Gov Efficiency",
+      "uri": "https://gateway.irys.xyz/oTCo-BHZtZ5X_w3xX8dxfFlE0ni6HaqyD5ktEqaUudY",
+      "postBalance": "9899385.697100498",
+      "timestamp": "2025-01-18T04:36:11.691Z",
+      "processed_timestamp": "2025-01-18T04:36:11.691Z",
+      "metadata": {
+        "name": "Department of Gov Efficiency",
+        "symbol": "DOGE",
+        "image": "https://gateway.irys.xyz/qsWfDN2W0JUZENTEeNp-xNHjtVMMizc7LSHmh3RMuPo",
+        "description": "Restoring America with smart government spending & memes | $MAGA - $DOGE\n",
+        "extensions": {
+          "twitter": "https://x.com/_dogesol",
+          "telegram": "https://t.me/DOGE_ON_SOLANA"
+        },
+        "tags": [],
+        "creator": {
+          "name": "DEXLAB MINTING LAB",
+          "site": "https://www.dexlab.space"
+        }
+      }
+    },
+    {
+      "amount": "215088.88415962583",
+      "symbol": "ORE",
+      "name": "ORE",
+      "uri": "https://ore.supply/metadata-v2.json",
+      "postBalance": "215088.88415962583",
+      "timestamp": "2025-01-18T04:36:11.708Z",
+      "processed_timestamp": "2025-01-18T04:36:11.708Z",
+      "metadata": null
+    },
+    {
+      "amount": "999990199.017290",
+      "symbol": "Citadail",
+      "name": "griffain new hedge fund",
+      "uri": "https://ipfs.io/ipfs/QmcagbV5AgKtQw7rZbnbQ8moTofydacDZaFSVhSzd7ALGW",
+      "postBalance": "999990199.017290",
+      "timestamp": "2025-01-18T04:36:12.389Z",
+      "processed_timestamp": "2025-01-18T04:36:12.389Z",
+      "metadata": {
+        "name": "griffain new hedge fund",
+        "symbol": "Citadail",
+        "description": "",
+        "image": "https://ipfs.io/ipfs/QmT1tQQXicwdGYtkemU83UgvpYyubJHLWi8BYxHmNG6tDB",
+        "showName": true,
+        "createdOn": "https://pump.fun"
+      }
+    },
+    {
+      "amount": "980425813.797881",
+      "symbol": "momo",
+      "name": "momo",
+      "uri": "https://ipfs.io/ipfs/QmaYYmf5MJ3XSp6SUbNTbkHKfJ6hzpx4WMKzykYjkspPgX",
+      "postBalance": "980425813.797881",
+      "timestamp": "2025-01-18T04:36:12.389Z",
+      "processed_timestamp": "2025-01-18T04:36:12.389Z",
+      "metadata": {
+        "name": "momo",
+        "symbol": "momo",
+        "description": "Chinese social media users are adopting the online alias “momo” as a way to speak more freely, evade harassment, and protect their privacy.\r\n\r\nIt's also cute as hell.",
+        "image": "https://ipfs.io/ipfs/QmbjyZ4TvzLh6ty4nPp65kBXg75ctE6TG7hxtuXQARjFhP",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "website": "https://restofworld.org/2023/social-media-privacy-momo-dinosaur/"
+      }
+    },
+    {
+      "amount": "999799382.363539",
+      "symbol": "ARTI",
+      "name": "Arti",
+      "uri": "https://ipfs.io/ipfs/QmX3tWPANbJeY2by3UNLCn8LDpiBawFAu23RhYVyzgyZ3A",
+      "postBalance": "999799382.363539",
+      "timestamp": "2025-01-18T04:36:12.389Z",
+      "processed_timestamp": "2025-01-18T04:36:12.389Z",
+      "metadata": {
+        "name": "Arti",
+        "symbol": "ARTI",
+        "description": "Arti: Revolutionizing Art in the Digital Age\r\nArti is an innovative digital currency designed to democratize and transform the art world. Empowering artists to directly connect with their audience and raise funds for their creative projects, Arti leverages blockchain technology to ensure transparency, security, and easy access to the art market.\r\nKey Features of Arti:\r\n * NFT Marketplace: A secure and transparent platform for buying, selling, and trading digital artworks as unique and non-fungible tokens (NFTs).\r\n * Artist Support: Provides the necessary tools for artists to create, showcase, and sell their digital art.\r\n * Artistic Communities: Fosters online communities for artists and art enthusiasts to connect and collaborate.\r\n * Live Auctions: Hosts live and online auctions for exclusive artworks.\r\n * Art Crowdfunding: Enables artists to raise funds for their projects by selling Arti tokens.",
+        "image": "https://ipfs.io/ipfs/Qmb8fuimKGLcJbW9xfjQ17RbG2zDmSfG6HENAoobGNTxJw",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "@rishehri_h "
+      }
+    },
+    {
+      "amount": "999984949.043852",
+      "symbol": "Elon",
+      "name": "ElonCoin",
+      "uri": "https://ipfs.io/ipfs/QmZnQjRaijgZtXo83V7FkRL1iU3L9KQ5EqPUz7uoDegEJR",
+      "postBalance": "999984949.043852",
+      "timestamp": "2025-01-18T04:36:12.389Z",
+      "processed_timestamp": "2025-01-18T04:36:12.389Z",
+      "metadata": {
+        "name": "ElonCoin",
+        "symbol": "Elon",
+        "description": "Elon Coin",
+        "image": "https://ipfs.io/ipfs/QmaKPc6govk8e77VLuU92tdTDNUoiN5JxGSDmZCwaQhngz",
+        "showName": true,
+        "createdOn": "https://pump.fun"
+      }
+    },
+    {
+      "amount": "999986542.736284",
+      "symbol": "Butthole",
+      "name": "Butthole Coin",
+      "uri": "https://ipfs.io/ipfs/QmX5Juu4hnnHgd2uMG7YyA1kJ4fmBjt9SUuVacScd5pCa7",
+      "postBalance": "999986542.736284",
+      "timestamp": "2025-01-18T04:36:12.389Z",
+      "processed_timestamp": "2025-01-18T04:36:12.389Z",
+      "metadata": {
+        "name": "Butthole Coin",
+        "symbol": "Butthole",
+        "description": "A fart cannot exist without a butthole",
+        "image": "https://ipfs.io/ipfs/Qme1teMr1bYqEFJaaJXyYpzDG73Npw6fkLuH7fgT8xgFoQ",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "website": "https://buttholecoin.dev/"
+      }
+    },
+    {
+      "amount": "999999618.866460",
+      "symbol": "BABYSHARK",
+      "name": "Baby Shark Meme",
+      "uri": "https://ipfs.io/ipfs/QmbiGBW9mRgZ5HP3SsNnAKjdFociRyDJgtp1v8BcGa6aDq",
+      "postBalance": "999999618.866460",
+      "timestamp": "2025-01-18T04:36:12.389Z",
+      "processed_timestamp": "2025-01-18T04:36:12.389Z",
+      "metadata": {
+        "name": "Baby Shark Meme",
+        "symbol": "BABYSHARK",
+        "description": "THE BABY SHARK MEMECOIN\n\nEveryone knows the song that ever has been heard over 15B times! Now (https://www.youtube.com/watch?v=XqZsoesa55w) Baby Shark is on an adventure to make new meme frens.\n\nEverybody loves Baby Shark: Over 40B+ views and 78M+ subscribers on YouTube. Baby Shark is bringing crypto to the masses!\n\nThe song will be stuck in your head until ATH.",
+        "image": "https://ipfs.io/ipfs/QmP1XWUoSAtNb2LpBLByLgQ5UudW11AjTuuenWxytfaZUL",
+        "showName": true,
+        "createdOn": "https://pump.fun"
+      }
+    },
+    {
+      "amount": "999984949.043852",
+      "symbol": "Elon",
+      "name": "ElonCoin",
+      "uri": "https://ipfs.io/ipfs/QmZnQjRaijgZtXo83V7FkRL1iU3L9KQ5EqPUz7uoDegEJR",
+      "postBalance": "999984949.043852",
+      "timestamp": "2025-01-18T04:36:12.389Z",
+      "processed_timestamp": "2025-01-18T04:36:12.389Z",
+      "metadata": {
+        "name": "ElonCoin",
+        "symbol": "Elon",
+        "description": "Elon Coin",
+        "image": "https://ipfs.io/ipfs/QmaKPc6govk8e77VLuU92tdTDNUoiN5JxGSDmZCwaQhngz",
+        "showName": true,
+        "createdOn": "https://pump.fun"
+      }
+    },
+    {
+      "amount": "999892985.591874",
+      "symbol": "$RATi",
+      "name": "raticoin",
+      "uri": "https://ipfs.io/ipfs/QmTfz729JbaHytAcMBb4xd92MfefBCTAXE22n8GbTuVmAs",
+      "postBalance": "999892985.591874",
+      "timestamp": "2025-01-18T04:36:12.388Z",
+      "processed_timestamp": "2025-01-18T04:36:12.388Z",
+      "metadata": {
+        "name": "raticoin",
+        "symbol": "$RATi",
+        "description": "raticoin",
+        "image": "https://ipfs.io/ipfs/QmbWL757BP9eqt8PEBprxxYf1VtNVvkRskXKqtKLNrS5o8",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "@immanencer",
+        "telegram": "@ratimics",
+        "website": "ratimics.com"
+      }
+    },
+    {
+      "amount": "989701240.371445784",
+      "symbol": "T3AI",
+      "name": "TrustInWeb3",
+      "uri": "https://cdn.dexscreener.com/cms/tokens/metadata/OULP63Hx7qNeopl07foU",
+      "postBalance": "989701240.371445784",
+      "timestamp": "2025-01-18T04:36:12.390Z",
+      "processed_timestamp": "2025-01-18T04:36:12.390Z",
+      "metadata": {
+        "name": "TrustInWeb3",
+        "symbol": "T3AI",
+        "description": "---t3 - An AI-Powered Under-Collateralized Lending Protocol---\r\n\r\nt3 empowers you to leverage everything and anything, bridging the gap to the $1.4T global lending market by introducing the concept of liquid collateral, secured via intelligent agents on Solana.\r\n\r\nT3AI is the utility token for the T3 Agent. 🚀",
+        "image": "https://cdn.dexscreener.com/cms/images/SyMH8DuwqqkSY890",
+        "websites": [
+          {
+            "label": "Website",
+            "url": "https://www.trustinweb3.xyz/"
+          },
+          {
+            "label": "Docs",
+            "url": "https://3p0.gitbook.io/t3"
+          }
+        ],
+        "socials": [
+          {
+            "url": "https://x.com/trustInWeb3",
+            "type": "twitter"
+          },
+          {
+            "url": "https://t.me/trustInWeb3_AI",
+            "type": "telegram"
+          }
+        ]
+      }
+    },
+    {
+      "amount": "878500535.000000",
+      "symbol": "BERA",
+      "name": "Beracha1n",
+      "uri": "https://i.degencdn.com/ipfs/bafkreifdgo2hfekxz5nkcizky5g533ulx6rsoymktupqchlsm3ss4rmjo4",
+      "postBalance": "878500535.000000",
+      "timestamp": "2025-01-18T04:36:12.059Z",
+      "processed_timestamp": "2025-01-18T04:36:12.059Z",
+      "metadata": {
+        "name": "Beracha1n",
+        "symbol": "BERA",
+        "description": "Berachain is a high-performance EVM-compatible blockchain built on Proof-of-Liquidity consensus.",
+        "image": "https://i.degencdn.com/ipfs/bafkreiaoylluhkubowq7f5clv6i4y43ciizlygbu7r2hojgrudmkcbktuy"
+      }
+    },
+    {
+      "amount": "1000000000.000000",
+      "symbol": "USDC",
+      "name": "USDC",
+      "uri": "https://i.degencdn.com/ipfs/bafkreid57lut55nn2p53mk2lul3lek7kfval3g7uogyowoil7uue37vo2i",
+      "postBalance": "1000000000.000000",
+      "timestamp": "2025-01-18T04:36:12.061Z",
+      "processed_timestamp": "2025-01-18T04:36:12.061Z",
+      "metadata": {
+        "name": "USDC",
+        "symbol": "USDC",
+        "description": "USD Coco jambo",
+        "image": "https://i.degencdn.com/ipfs/bafkreigm5o72t6kdbz7o7iwwaynejyd255dylnmb3rw3olv23ygskirsfa"
+      }
+    },
+    {
+      "amount": "1000000000.000000",
+      "symbol": "L1nea",
+      "name": "Linea",
+      "uri": "https://i.degencdn.com/ipfs/bafkreihvbqewvscw3n56mx346yn5qnxvtrtddbactnst54uljzn4ohlp6e",
+      "postBalance": "1000000000.000000",
+      "timestamp": "2025-01-18T04:36:12.061Z",
+      "processed_timestamp": "2025-01-18T04:36:12.061Z",
+      "metadata": {
+        "name": "Linea",
+        "symbol": "L1nea",
+        "description": "Linea is a type 2 zero knowledge Ethereum Virtual Machine that replicates an Ethereum environment by leveraging roll-ups. Committed to Ethereum. Bootstrapped by Consensys.",
+        "image": "https://i.degencdn.com/ipfs/bafkreibgel36eu3lnzfxabmcptwyle2wcopwpbb6mgdlzkyzbzlmgyw5qe"
+      }
+    },
+    {
+      "amount": "636463.849534920",
+      "symbol": "INF",
+      "name": "Infinity",
+      "uri": "https://bafkreigok7uw2i4ovxzjautejollex65pxj7ta5sf6sn6slvp6m5gdczp4.ipfs.nftstorage.link/",
+      "postBalance": "636463.849534920",
+      "timestamp": "2025-01-18T04:36:12.043Z",
+      "processed_timestamp": "2025-01-18T04:36:12.043Z",
+      "metadata": {
+        "name": "Infinity",
+        "image": "https://bafkreiflz2xxkfn33qjch2wj55bvbn33q3s4mmb6bye5pt3mpgy4t2wg4e.ipfs.nftstorage.link/",
+        "symbol": "INF",
+        "description": "INF is the infinite-LST LP by Sanctum",
+        "twitter": "https://twitter.com/sanctumso",
+        "website": "https://sanctum.so"
+      }
+    },
+    {
+      "amount": "9000000000.00000000",
+      "symbol": "OVL",
+      "name": "OV3RLAY",
+      "uri": "https://i.degencdn.com/ipfs/bafkreicvyj6dgqwefjy5zy27x3eunhria4vc6xk3p6rni5pnoefg2q7kti",
+      "postBalance": "9000000000.00000000",
+      "timestamp": "2025-01-18T04:36:12.061Z",
+      "processed_timestamp": "2025-01-18T04:36:12.061Z",
+      "metadata": {
+        "name": "OV3RLAY",
+        "symbol": "OVL",
+        "description": "A new trading platform based on artificial intelligence for web 3 platforms.",
+        "image": "https://i.degencdn.com/ipfs/bafkreifchijnxeqpnazbtupkqo2zh6p4hklay74wfk6fvzfynvkpf2d4ie"
+      }
+    },
+    {
+      "amount": "1000000000.000000",
+      "symbol": "USDC",
+      "name": "USDC",
+      "uri": "https://i.degencdn.com/ipfs/bafkreifxmgu7vnuuoobfwk7wpcfg4lvheufmco5gco2iykejenjfgzb6xa",
+      "postBalance": "1000000000.000000",
+      "timestamp": "2025-01-18T04:36:12.061Z",
+      "processed_timestamp": "2025-01-18T04:36:12.061Z",
+      "metadata": {
+        "name": "USDC",
+        "symbol": "USDC",
+        "description": "USDCo1n",
+        "image": "https://i.degencdn.com/ipfs/bafkreigm5o72t6kdbz7o7iwwaynejyd255dylnmb3rw3olv23ygskirsfa"
+      }
+    },
+    {
+      "amount": "368772288.197346",
+      "symbol": "XION",
+      "name": "Burnt F1nance",
+      "uri": "https://i.degencdn.com/ipfs/bafkreigncryn5ughaooh3kwzkvegvuvgso76wxkjkwzd2avg2pouk54g4e",
+      "postBalance": "368772288.197346",
+      "timestamp": "2025-01-18T04:36:12.059Z",
+      "processed_timestamp": "2025-01-18T04:36:12.059Z",
+      "metadata": {
+        "name": "Burnt F1nance",
+        "symbol": "XION",
+        "description": "Burnt Finance is a fully decentralized auction protocol built on Solana. Burnt Finance is a DeFi protocol that enables anyone to mint a diverse array of synthetics and NFTs while also providing them with an unparalleled auction platform.",
+        "image": "https://i.degencdn.com/ipfs/bafkreidlt5q5jkhydr2cj27t3rspqyotlr2dq6znce5hk2kzc6duy4lwuq"
+      }
+    },
+    {
+      "amount": "999999999.805879",
+      "symbol": "SOL",
+      "name": "SOL",
+      "uri": "https://i.degencdn.com/ipfs/bafkreidvvmfsga3qu46b3al2jh6gmj2wmeiiflcaxwuvk2354wb6uamxn4",
+      "postBalance": "999999999.805879",
+      "timestamp": "2025-01-18T04:36:12.059Z",
+      "processed_timestamp": "2025-01-18T04:36:12.059Z",
+      "metadata": {
+        "name": "SOL",
+        "symbol": "SOL",
+        "description": "SOL",
+        "image": "https://i.degencdn.com/ipfs/bafkreicdz5vznj7nahq4o4eqfy6yg4e4axdg776rgpbbssz2d2fo6lfh3a"
+      }
+    },
+    {
+      "amount": "1000000000.000000",
+      "symbol": "USDC",
+      "name": "USDC",
+      "uri": "https://i.degencdn.com/ipfs/bafkreid57lut55nn2p53mk2lul3lek7kfval3g7uogyowoil7uue37vo2i",
+      "postBalance": "1000000000.000000",
+      "timestamp": "2025-01-18T04:36:12.061Z",
+      "processed_timestamp": "2025-01-18T04:36:12.061Z",
+      "metadata": {
+        "name": "USDC",
+        "symbol": "USDC",
+        "description": "USD Coco jambo",
+        "image": "https://i.degencdn.com/ipfs/bafkreigm5o72t6kdbz7o7iwwaynejyd255dylnmb3rw3olv23ygskirsfa"
+      }
+    },
+    {
+      "amount": "1000000000.000000",
+      "symbol": "USDC",
+      "name": "USDC",
+      "uri": "https://i.degencdn.com/ipfs/bafkreifxmgu7vnuuoobfwk7wpcfg4lvheufmco5gco2iykejenjfgzb6xa",
+      "postBalance": "1000000000.000000",
+      "timestamp": "2025-01-18T04:36:12.061Z",
+      "processed_timestamp": "2025-01-18T04:36:12.061Z",
+      "metadata": {
+        "name": "USDC",
+        "symbol": "USDC",
+        "description": "USDCo1n",
+        "image": "https://i.degencdn.com/ipfs/bafkreigm5o72t6kdbz7o7iwwaynejyd255dylnmb3rw3olv23ygskirsfa"
+      }
+    },
+    {
+      "amount": "1000000000.000000",
+      "symbol": "USDC",
+      "name": "USD Corn",
+      "uri": "https://i.degencdn.com/ipfs/bafkreift3nclgn7hnh7m4flsebtbfdkhbuxhwklfxxfipf7kp32dmcvyue",
+      "postBalance": "1000000000.000000",
+      "timestamp": "2025-01-18T04:36:12.059Z",
+      "processed_timestamp": "2025-01-18T04:36:12.059Z",
+      "metadata": {
+        "name": "USD Corn",
+        "symbol": "USDC",
+        "description": "USD Corn",
+        "image": "https://i.degencdn.com/ipfs/bafkreigm5o72t6kdbz7o7iwwaynejyd255dylnmb3rw3olv23ygskirsfa"
+      }
+    },
+    {
+      "amount": "9000000000.00000000",
+      "symbol": "USDC",
+      "name": "USDC",
+      "uri": "https://i.degencdn.com/ipfs/bafkreiek25olu4md3bcpfqgow3rwuxkpoo7rd4gbnudwqwjaawwlwvvmdu",
+      "postBalance": "9000000000.00000000",
+      "timestamp": "2025-01-18T04:36:12.061Z",
+      "processed_timestamp": "2025-01-18T04:36:12.061Z",
+      "metadata": {
+        "name": "USDC",
+        "symbol": "USDC",
+        "description": "USDC",
+        "image": "https://i.degencdn.com/ipfs/bafybeiau7ojwzguhernh7drfoioptbxhptyqz2hl2ds6wbkimzmthtfbqi"
+      }
+    },
+    {
+      "amount": "374288458.052030",
+      "symbol": "FUEL",
+      "name": "Fue1 Network",
+      "uri": "https://i.degencdn.com/ipfs/bafkreibwdbnlqaw7d3n4dggpcl3ssfwobaohiyhdeduzs6j2rxlcloxmke",
+      "postBalance": "374288458.052030",
+      "timestamp": "2025-01-18T04:36:12.061Z",
+      "processed_timestamp": "2025-01-18T04:36:12.061Z",
+      "metadata": {
+        "name": "Fue1 Network",
+        "symbol": "FUEL",
+        "description": "Fuel is an operating system purpose built for Ethereum Rollups. Fuel allows rollups to solve for PSI (parallelization, state minimized execution, interoperability) without making any sacrifices.",
+        "image": "https://i.degencdn.com/ipfs/bafkreidatkbs34ecg345uu5rtzmxi4lwv7ppb4nz7igcqbgadnaxstdaa4"
+      }
+    },
+    {
+      "amount": "16708311636.63025377",
+      "symbol": "CULT",
+      "name": "M1lady Cult",
+      "uri": "https://i.degencdn.com/ipfs/bafkreihwmzwcnqz4m4wjjriobikmzvg5w5a5n23dpazbpqvsynfhi6a2qi",
+      "postBalance": "16708311636.63025377",
+      "timestamp": "2025-01-18T04:36:12.061Z",
+      "processed_timestamp": "2025-01-18T04:36:12.061Z",
+      "metadata": {
+        "name": "M1lady Cult",
+        "symbol": "CULT",
+        "description": "The Cult is all that surrounds you.",
+        "image": "https://i.degencdn.com/ipfs/bafkreianupqwtq4mo3swcemae6lzal7vidi5yp7ike7gwevkacj7teonjy"
+      }
+    },
+    {
+      "amount": "374288458.052030",
+      "symbol": "FUEL",
+      "name": "Fue1 Network",
+      "uri": "https://i.degencdn.com/ipfs/bafkreibwdbnlqaw7d3n4dggpcl3ssfwobaohiyhdeduzs6j2rxlcloxmke",
+      "postBalance": "374288458.052030",
+      "timestamp": "2025-01-18T04:36:12.061Z",
+      "processed_timestamp": "2025-01-18T04:36:12.061Z",
+      "metadata": {
+        "name": "Fue1 Network",
+        "symbol": "FUEL",
+        "description": "Fuel is an operating system purpose built for Ethereum Rollups. Fuel allows rollups to solve for PSI (parallelization, state minimized execution, interoperability) without making any sacrifices.",
+        "image": "https://i.degencdn.com/ipfs/bafkreidatkbs34ecg345uu5rtzmxi4lwv7ppb4nz7igcqbgadnaxstdaa4"
+      }
+    },
+    {
+      "amount": "1000000000.000000",
+      "symbol": "L1nea",
+      "name": "Linea",
+      "uri": "https://i.degencdn.com/ipfs/bafkreihvbqewvscw3n56mx346yn5qnxvtrtddbactnst54uljzn4ohlp6e",
+      "postBalance": "1000000000.000000",
+      "timestamp": "2025-01-18T04:36:12.061Z",
+      "processed_timestamp": "2025-01-18T04:36:12.061Z",
+      "metadata": {
+        "name": "Linea",
+        "symbol": "L1nea",
+        "description": "Linea is a type 2 zero knowledge Ethereum Virtual Machine that replicates an Ethereum environment by leveraging roll-ups. Committed to Ethereum. Bootstrapped by Consensys.",
+        "image": "https://i.degencdn.com/ipfs/bafkreibgel36eu3lnzfxabmcptwyle2wcopwpbb6mgdlzkyzbzlmgyw5qe"
+      }
+    },
+    {
+      "amount": "8999999432.64891119",
+      "symbol": "USDC",
+      "name": "USDC",
+      "uri": "https://i.degencdn.com/ipfs/bafkreiezwfd6uw6osmfymksja3sggrkunk6eqgbafqnxglc34ld3e4n66a",
+      "postBalance": "8999999432.64891119",
+      "timestamp": "2025-01-18T04:36:12.061Z",
+      "processed_timestamp": "2025-01-18T04:36:12.061Z",
+      "metadata": {
+        "name": "USDC",
+        "symbol": "USDC",
+        "description": "USDCon",
+        "image": "https://i.degencdn.com/ipfs/bafybeiau7ojwzguhernh7drfoioptbxhptyqz2hl2ds6wbkimzmthtfbqi"
+      }
+    },
+    {
+      "amount": "1",
+      "symbol": "MAD",
+      "name": "Mad Lads #1194",
+      "uri": "https://madlads.s3.us-west-2.amazonaws.com/json/1194.json",
+      "postBalance": "1",
+      "timestamp": "2025-01-18T04:36:12.060Z",
+      "processed_timestamp": "2025-01-18T04:36:12.060Z",
+      "metadata": {
+        "name": "Mad Lads #1194",
+        "description": "Fock it.",
+        "symbol": "MAD",
+        "image": "https://madlads.s3.us-west-2.amazonaws.com/images/1194.png",
+        "external_url": "https://madlads.com",
+        "seller_fee_basis_points": 500,
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Female"
+          },
+          {
+            "trait_type": "Type",
+            "value": "Light"
+          },
+          {
+            "trait_type": "Expression",
+            "value": "Pout"
+          },
+          {
+            "trait_type": "Hair",
+            "value": "Bob Red"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Green"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Pink"
+          },
+          {
+            "trait_type": "Clothing",
+            "value": "Starlet Dress"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Pink"
+          }
+        ],
+        "properties": {
+          "files": [
+            {
+              "id": "portrait",
+              "uri": "https://madlads.s3.us-west-2.amazonaws.com/images/1194.png",
+              "type": "image/png"
+            },
+            {
+              "id": "rug",
+              "uri": "https://arweave.net/qJ5B6fx5hEt4P7XbicbJQRyTcbyLaV-OQNA1KjzdqOQ/1194.png",
+              "type": "image/png"
+            }
+          ],
+          "category": "image",
+          "collection": {
+            "name": "Mad Lads",
+            "family": "MAD"
+          },
+          "creators": [
+            {
+              "address": "2RtGg6fsFiiF1EQzHqbd66AhW7R5bWeQGpTbv2UMkCdW",
+              "share": 100
+            }
+          ]
+        }
+      }
+    },
+    {
+      "amount": "3653554.806109226",
+      "symbol": "JupSOL",
+      "name": "Jupiter Staked SOL",
+      "uri": "https://static.jup.ag/jupSOL/metadata.json",
+      "postBalance": "3653554.806109226",
+      "timestamp": "2025-01-18T04:36:12.066Z",
+      "processed_timestamp": "2025-01-18T04:36:12.066Z",
+      "metadata": {
+        "name": "Jupiter Staked SOL",
+        "image": "https://static.jup.ag/jupSOL/icon.png",
+        "symbol": "JupSOL",
+        "description": "JupSOL is a token representing SOL-staked with Jupiter's validators",
+        "twitter": "https://twitter.com/JupiterExchange",
+        "website": "https://jup.ag/"
+      }
+    },
+    {
+      "amount": "1",
+      "symbol": "MAD",
+      "name": "Mad Lads #1331",
+      "uri": "https://madlads.s3.us-west-2.amazonaws.com/json/1331.json",
+      "postBalance": "1",
+      "timestamp": "2025-01-18T04:36:12.060Z",
+      "processed_timestamp": "2025-01-18T04:36:12.060Z",
+      "metadata": {
+        "name": "Mad Lads #1331",
+        "description": "Fock it.",
+        "symbol": "MAD",
+        "image": "https://madlads.s3.us-west-2.amazonaws.com/images/1331.png",
+        "external_url": "https://madlads.com",
+        "seller_fee_basis_points": 500,
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Female"
+          },
+          {
+            "trait_type": "Type",
+            "value": "Light"
+          },
+          {
+            "trait_type": "Expression",
+            "value": "Serious"
+          },
+          {
+            "trait_type": "Hat",
+            "value": "Cloche"
+          },
+          {
+            "trait_type": "Hair",
+            "value": "Short Red"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Blue"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Pink"
+          },
+          {
+            "trait_type": "Clothing",
+            "value": "Milkmaid Dress"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Red"
+          }
+        ],
+        "properties": {
+          "files": [
+            {
+              "id": "portrait",
+              "uri": "https://madlads.s3.us-west-2.amazonaws.com/images/1331.png",
+              "type": "image/png"
+            },
+            {
+              "id": "rug",
+              "uri": "https://arweave.net/qJ5B6fx5hEt4P7XbicbJQRyTcbyLaV-OQNA1KjzdqOQ/1331.png",
+              "type": "image/png"
+            }
+          ],
+          "category": "image",
+          "collection": {
+            "name": "Mad Lads",
+            "family": "MAD"
+          },
+          "creators": [
+            {
+              "address": "2RtGg6fsFiiF1EQzHqbd66AhW7R5bWeQGpTbv2UMkCdW",
+              "share": 100
+            }
+          ]
+        }
+      }
+    },
+    {
+      "amount": "1",
+      "symbol": "MAD",
+      "name": "Mad Lads #5001",
+      "uri": "https://madlads.s3.us-west-2.amazonaws.com/json/5001.json",
+      "postBalance": "1",
+      "timestamp": "2025-01-18T04:36:12.061Z",
+      "processed_timestamp": "2025-01-18T04:36:12.061Z",
+      "metadata": {
+        "name": "Mad Lads #5001",
+        "description": "Fock it.",
+        "symbol": "MAD",
+        "image": "https://madlads.s3.us-west-2.amazonaws.com/images/5001.png",
+        "external_url": "https://madlads.com",
+        "seller_fee_basis_points": 500,
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Female"
+          },
+          {
+            "trait_type": "Type",
+            "value": "Dark"
+          },
+          {
+            "trait_type": "Expression",
+            "value": "Joy"
+          },
+          {
+            "trait_type": "Hat",
+            "value": "Scopes"
+          },
+          {
+            "trait_type": "Hair",
+            "value": "Long Red"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Closed"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Pink"
+          },
+          {
+            "trait_type": "Clothing",
+            "value": "Buster"
+          },
+          {
+            "trait_type": "Back",
+            "value": "Backpack"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Purple"
+          }
+        ],
+        "properties": {
+          "files": [
+            {
+              "id": "portrait",
+              "uri": "https://madlads.s3.us-west-2.amazonaws.com/images/5001.png",
+              "type": "image/png"
+            },
+            {
+              "id": "rug",
+              "uri": "https://arweave.net/qJ5B6fx5hEt4P7XbicbJQRyTcbyLaV-OQNA1KjzdqOQ/5001.png",
+              "type": "image/png"
+            }
+          ],
+          "category": "image",
+          "collection": {
+            "name": "Mad Lads",
+            "family": "MAD"
+          },
+          "creators": [
+            {
+              "address": "2RtGg6fsFiiF1EQzHqbd66AhW7R5bWeQGpTbv2UMkCdW",
+              "share": 100
+            }
+          ]
+        }
+      }
+    },
+    {
+      "amount": "1",
+      "symbol": "MAD",
+      "name": "Mad Lads #2831",
+      "uri": "https://madlads.s3.us-west-2.amazonaws.com/json/2831.json",
+      "postBalance": "1",
+      "timestamp": "2025-01-18T04:36:12.060Z",
+      "processed_timestamp": "2025-01-18T04:36:12.060Z",
+      "metadata": {
+        "name": "Mad Lads #2831",
+        "description": "Fock it.",
+        "symbol": "MAD",
+        "image": "https://madlads.s3.us-west-2.amazonaws.com/images/2831.png",
+        "external_url": "https://madlads.com",
+        "seller_fee_basis_points": 500,
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Female"
+          },
+          {
+            "trait_type": "Type",
+            "value": "Light"
+          },
+          {
+            "trait_type": "Expression",
+            "value": "Joy"
+          },
+          {
+            "trait_type": "Hair",
+            "value": "Long Wavy Brunette"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Closed"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Pink"
+          },
+          {
+            "trait_type": "Clothing",
+            "value": "Rosa Dress"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Green"
+          }
+        ],
+        "properties": {
+          "files": [
+            {
+              "id": "portrait",
+              "uri": "https://madlads.s3.us-west-2.amazonaws.com/images/2831.png",
+              "type": "image/png"
+            },
+            {
+              "id": "rug",
+              "uri": "https://arweave.net/qJ5B6fx5hEt4P7XbicbJQRyTcbyLaV-OQNA1KjzdqOQ/2831.png",
+              "type": "image/png"
+            }
+          ],
+          "category": "image",
+          "collection": {
+            "name": "Mad Lads",
+            "family": "MAD"
+          },
+          "creators": [
+            {
+              "address": "2RtGg6fsFiiF1EQzHqbd66AhW7R5bWeQGpTbv2UMkCdW",
+              "share": 100
+            }
+          ]
+        }
+      }
+    },
+    {
+      "amount": "1",
+      "symbol": "MAD",
+      "name": "Mad Lads #2554",
+      "uri": "https://madlads.s3.us-west-2.amazonaws.com/json/2554.json",
+      "postBalance": "1",
+      "timestamp": "2025-01-18T04:36:12.060Z",
+      "processed_timestamp": "2025-01-18T04:36:12.060Z",
+      "metadata": {
+        "name": "Mad Lads #2554",
+        "description": "Fock it.",
+        "symbol": "MAD",
+        "image": "https://madlads.s3.us-west-2.amazonaws.com/images/2554.png",
+        "external_url": "https://madlads.com",
+        "seller_fee_basis_points": 500,
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Female"
+          },
+          {
+            "trait_type": "Type",
+            "value": "Light"
+          },
+          {
+            "trait_type": "Expression",
+            "value": "Joy"
+          },
+          {
+            "trait_type": "Hair",
+            "value": "Blunt Bangs Blonde"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Closed"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Yellow"
+          },
+          {
+            "trait_type": "Clothing",
+            "value": "Wolfsbane Dress"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Blue"
+          }
+        ],
+        "properties": {
+          "files": [
+            {
+              "id": "portrait",
+              "uri": "https://madlads.s3.us-west-2.amazonaws.com/images/2554.png",
+              "type": "image/png"
+            },
+            {
+              "id": "rug",
+              "uri": "https://arweave.net/qJ5B6fx5hEt4P7XbicbJQRyTcbyLaV-OQNA1KjzdqOQ/2554.png",
+              "type": "image/png"
+            }
+          ],
+          "category": "image",
+          "collection": {
+            "name": "Mad Lads",
+            "family": "MAD"
+          },
+          "creators": [
+            {
+              "address": "2RtGg6fsFiiF1EQzHqbd66AhW7R5bWeQGpTbv2UMkCdW",
+              "share": 100
+            }
+          ]
+        }
+      }
+    },
+    {
+      "amount": "1",
+      "symbol": "MAD",
+      "name": "Mad Lads #4144",
+      "uri": "https://madlads.s3.us-west-2.amazonaws.com/json/4144.json",
+      "postBalance": "1",
+      "timestamp": "2025-01-18T04:36:12.060Z",
+      "processed_timestamp": "2025-01-18T04:36:12.060Z",
+      "metadata": {
+        "name": "Mad Lads #4144",
+        "description": "Fock it.",
+        "symbol": "MAD",
+        "image": "https://madlads.s3.us-west-2.amazonaws.com/images/4144.png",
+        "external_url": "https://madlads.com",
+        "seller_fee_basis_points": 500,
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Female"
+          },
+          {
+            "trait_type": "Type",
+            "value": "Dark"
+          },
+          {
+            "trait_type": "Expression",
+            "value": "Smile"
+          },
+          {
+            "trait_type": "Hair",
+            "value": "Short Red"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Brown"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Pink"
+          },
+          {
+            "trait_type": "Clothing",
+            "value": "Lace Blouse"
+          },
+          {
+            "trait_type": "Hand",
+            "value": "Firefly"
+          },
+          {
+            "trait_type": "Glove",
+            "value": "White"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Purple"
+          }
+        ],
+        "properties": {
+          "files": [
+            {
+              "id": "portrait",
+              "uri": "https://madlads.s3.us-west-2.amazonaws.com/images/4144.png",
+              "type": "image/png"
+            },
+            {
+              "id": "rug",
+              "uri": "https://arweave.net/qJ5B6fx5hEt4P7XbicbJQRyTcbyLaV-OQNA1KjzdqOQ/4144.png",
+              "type": "image/png"
+            }
+          ],
+          "category": "image",
+          "collection": {
+            "name": "Mad Lads",
+            "family": "MAD"
+          },
+          "creators": [
+            {
+              "address": "2RtGg6fsFiiF1EQzHqbd66AhW7R5bWeQGpTbv2UMkCdW",
+              "share": 100
+            }
+          ]
+        }
+      }
+    },
+    {
+      "amount": "1",
+      "symbol": "MAD",
+      "name": "Mad Lads #2797",
+      "uri": "https://madlads.s3.us-west-2.amazonaws.com/json/2797.json",
+      "postBalance": "1",
+      "timestamp": "2025-01-18T04:36:12.060Z",
+      "processed_timestamp": "2025-01-18T04:36:12.060Z",
+      "metadata": {
+        "name": "Mad Lads #2797",
+        "description": "Fock it.",
+        "symbol": "MAD",
+        "image": "https://madlads.s3.us-west-2.amazonaws.com/images/2797.png",
+        "external_url": "https://madlads.com",
+        "seller_fee_basis_points": 500,
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Female"
+          },
+          {
+            "trait_type": "Type",
+            "value": "Light"
+          },
+          {
+            "trait_type": "Expression",
+            "value": "Smile"
+          },
+          {
+            "trait_type": "Hair",
+            "value": "Lovelace"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Green"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Pink"
+          },
+          {
+            "trait_type": "Clothing",
+            "value": "Black Rebel Jacket"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Red"
+          }
+        ],
+        "properties": {
+          "files": [
+            {
+              "id": "portrait",
+              "uri": "https://madlads.s3.us-west-2.amazonaws.com/images/2797.png",
+              "type": "image/png"
+            },
+            {
+              "id": "rug",
+              "uri": "https://arweave.net/qJ5B6fx5hEt4P7XbicbJQRyTcbyLaV-OQNA1KjzdqOQ/2797.png",
+              "type": "image/png"
+            }
+          ],
+          "category": "image",
+          "collection": {
+            "name": "Mad Lads",
+            "family": "MAD"
+          },
+          "creators": [
+            {
+              "address": "2RtGg6fsFiiF1EQzHqbd66AhW7R5bWeQGpTbv2UMkCdW",
+              "share": 100
+            }
+          ]
+        }
+      }
+    },
+    {
+      "amount": "1",
+      "symbol": "MAD",
+      "name": "Mad Lads #6733",
+      "uri": "https://madlads.s3.us-west-2.amazonaws.com/json/6733.json",
+      "postBalance": "1",
+      "timestamp": "2025-01-18T04:36:12.061Z",
+      "processed_timestamp": "2025-01-18T04:36:12.061Z",
+      "metadata": {
+        "name": "Mad Lads #6733",
+        "description": "Fock it.",
+        "symbol": "MAD",
+        "image": "https://madlads.s3.us-west-2.amazonaws.com/images/6733.png",
+        "external_url": "https://madlads.com",
+        "seller_fee_basis_points": 500,
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Female"
+          },
+          {
+            "trait_type": "Type",
+            "value": "Light"
+          },
+          {
+            "trait_type": "Expression",
+            "value": "Smile"
+          },
+          {
+            "trait_type": "Hair",
+            "value": "Long Wavy Brunette"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Blue"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Red"
+          },
+          {
+            "trait_type": "Clothing",
+            "value": "Buster"
+          },
+          {
+            "trait_type": "Back",
+            "value": "Backpack"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Purple"
+          }
+        ],
+        "properties": {
+          "files": [
+            {
+              "id": "portrait",
+              "uri": "https://madlads.s3.us-west-2.amazonaws.com/images/6733.png",
+              "type": "image/png"
+            },
+            {
+              "id": "rug",
+              "uri": "https://arweave.net/qJ5B6fx5hEt4P7XbicbJQRyTcbyLaV-OQNA1KjzdqOQ/6733.png",
+              "type": "image/png"
+            }
+          ],
+          "category": "image",
+          "collection": {
+            "name": "Mad Lads",
+            "family": "MAD"
+          },
+          "creators": [
+            {
+              "address": "2RtGg6fsFiiF1EQzHqbd66AhW7R5bWeQGpTbv2UMkCdW",
+              "share": 100
+            }
+          ]
+        }
+      }
+    },
+    {
+      "amount": "999999993.450470",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "uri": "https://arweave.net/6qaBgR0ALsJDAJtkuP-h0551IAZlkRvbfz_I3M8GnQ4",
+      "postBalance": "999999993.450470",
+      "timestamp": "2025-01-18T04:36:12.389Z",
+      "processed_timestamp": "2025-01-18T04:36:12.389Z",
+      "metadata": {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw"
+      }
+    },
+    {
+      "amount": "1",
+      "symbol": "MAD",
+      "name": "Mad Lads #5225",
+      "uri": "https://madlads.s3.us-west-2.amazonaws.com/json/5225.json",
+      "postBalance": "1",
+      "timestamp": "2025-01-18T04:36:12.060Z",
+      "processed_timestamp": "2025-01-18T04:36:12.060Z",
+      "metadata": {
+        "name": "Mad Lads #5225",
+        "description": "Fock it.",
+        "symbol": "MAD",
+        "image": "https://madlads.s3.us-west-2.amazonaws.com/images/5225.png",
+        "external_url": "https://madlads.com",
+        "seller_fee_basis_points": 500,
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Female"
+          },
+          {
+            "trait_type": "Type",
+            "value": "Light"
+          },
+          {
+            "trait_type": "Expression",
+            "value": "Smile"
+          },
+          {
+            "trait_type": "Hair",
+            "value": "Enigma Bob"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Brown"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Red"
+          },
+          {
+            "trait_type": "Clothing",
+            "value": "Victorian Dress"
+          },
+          {
+            "trait_type": "Hand",
+            "value": "Avenger"
+          },
+          {
+            "trait_type": "Glove",
+            "value": "White"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Yellow"
+          }
+        ],
+        "properties": {
+          "files": [
+            {
+              "id": "portrait",
+              "uri": "https://madlads.s3.us-west-2.amazonaws.com/images/5225.png",
+              "type": "image/png"
+            },
+            {
+              "id": "rug",
+              "uri": "https://arweave.net/qJ5B6fx5hEt4P7XbicbJQRyTcbyLaV-OQNA1KjzdqOQ/5225.png",
+              "type": "image/png"
+            }
+          ],
+          "category": "image",
+          "collection": {
+            "name": "Mad Lads",
+            "family": "MAD"
+          },
+          "creators": [
+            {
+              "address": "2RtGg6fsFiiF1EQzHqbd66AhW7R5bWeQGpTbv2UMkCdW",
+              "share": 100
+            }
+          ]
+        }
+      }
+    },
+    {
+      "amount": "1",
+      "symbol": "MAD",
+      "name": "Mad Lads #2861",
+      "uri": "https://madlads.s3.us-west-2.amazonaws.com/json/2861.json",
+      "postBalance": "1",
+      "timestamp": "2025-01-18T04:36:12.061Z",
+      "processed_timestamp": "2025-01-18T04:36:12.061Z",
+      "metadata": {
+        "name": "Mad Lads #2861",
+        "description": "Fock it.",
+        "symbol": "MAD",
+        "image": "https://madlads.s3.us-west-2.amazonaws.com/images/2861.png",
+        "external_url": "https://madlads.com",
+        "seller_fee_basis_points": 500,
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Female"
+          },
+          {
+            "trait_type": "Type",
+            "value": "Dark"
+          },
+          {
+            "trait_type": "Expression",
+            "value": "Serious"
+          },
+          {
+            "trait_type": "Hair",
+            "value": "Bob Red"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Brown"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Red"
+          },
+          {
+            "trait_type": "Clothing",
+            "value": "Black Rebel Jacket"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Purple"
+          }
+        ],
+        "properties": {
+          "files": [
+            {
+              "id": "portrait",
+              "uri": "https://madlads.s3.us-west-2.amazonaws.com/images/2861.png",
+              "type": "image/png"
+            },
+            {
+              "id": "rug",
+              "uri": "https://arweave.net/qJ5B6fx5hEt4P7XbicbJQRyTcbyLaV-OQNA1KjzdqOQ/2861.png",
+              "type": "image/png"
+            }
+          ],
+          "category": "image",
+          "collection": {
+            "name": "Mad Lads",
+            "family": "MAD"
+          },
+          "creators": [
+            {
+              "address": "2RtGg6fsFiiF1EQzHqbd66AhW7R5bWeQGpTbv2UMkCdW",
+              "share": 100
+            }
+          ]
+        }
+      }
+    },
+    {
+      "amount": "1",
+      "symbol": "MAD",
+      "name": "Mad Lads #6004",
+      "uri": "https://madlads.s3.us-west-2.amazonaws.com/json/6004.json",
+      "postBalance": "1",
+      "timestamp": "2025-01-18T04:36:12.060Z",
+      "processed_timestamp": "2025-01-18T04:36:12.060Z",
+      "metadata": {
+        "name": "Mad Lads #6004",
+        "description": "Fock it.",
+        "symbol": "MAD",
+        "image": "https://madlads.s3.us-west-2.amazonaws.com/images/6004.png",
+        "external_url": "https://madlads.com",
+        "seller_fee_basis_points": 500,
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Female"
+          },
+          {
+            "trait_type": "Type",
+            "value": "Light"
+          },
+          {
+            "trait_type": "Expression",
+            "value": "Smile"
+          },
+          {
+            "trait_type": "Hair",
+            "value": "Dragon Bangs"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Blue"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Red"
+          },
+          {
+            "trait_type": "Clothing",
+            "value": "Yellow Rebel Jacket"
+          },
+          {
+            "trait_type": "Hand",
+            "value": "Firefly"
+          },
+          {
+            "trait_type": "Glove",
+            "value": "White"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Blue"
+          }
+        ],
+        "properties": {
+          "files": [
+            {
+              "id": "portrait",
+              "uri": "https://madlads.s3.us-west-2.amazonaws.com/images/6004.png",
+              "type": "image/png"
+            },
+            {
+              "id": "rug",
+              "uri": "https://arweave.net/qJ5B6fx5hEt4P7XbicbJQRyTcbyLaV-OQNA1KjzdqOQ/6004.png",
+              "type": "image/png"
+            }
+          ],
+          "category": "image",
+          "collection": {
+            "name": "Mad Lads",
+            "family": "MAD"
+          },
+          "creators": [
+            {
+              "address": "2RtGg6fsFiiF1EQzHqbd66AhW7R5bWeQGpTbv2UMkCdW",
+              "share": 100
+            }
+          ]
+        }
+      }
+    },
+    {
+      "amount": "1",
+      "symbol": "MAD",
+      "name": "Mad Lads #9222",
+      "uri": "https://madlads.s3.us-west-2.amazonaws.com/json/9222.json",
+      "postBalance": "1",
+      "timestamp": "2025-01-18T04:36:12.061Z",
+      "processed_timestamp": "2025-01-18T04:36:12.061Z",
+      "metadata": {
+        "name": "Mad Lads #9222",
+        "description": "Fock it.",
+        "symbol": "MAD",
+        "image": "https://madlads.s3.us-west-2.amazonaws.com/images/9222.png",
+        "external_url": "https://madlads.com",
+        "seller_fee_basis_points": 500,
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Female"
+          },
+          {
+            "trait_type": "Type",
+            "value": "Light"
+          },
+          {
+            "trait_type": "Expression",
+            "value": "Smile"
+          },
+          {
+            "trait_type": "Hair",
+            "value": "Short Silver"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Green"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Pink"
+          },
+          {
+            "trait_type": "Clothing",
+            "value": "Blouse"
+          },
+          {
+            "trait_type": "Hand",
+            "value": "Avenger"
+          },
+          {
+            "trait_type": "Glove",
+            "value": "White"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Orange"
+          }
+        ],
+        "properties": {
+          "files": [
+            {
+              "id": "portrait",
+              "uri": "https://madlads.s3.us-west-2.amazonaws.com/images/9222.png",
+              "type": "image/png"
+            },
+            {
+              "id": "rug",
+              "uri": "https://arweave.net/qJ5B6fx5hEt4P7XbicbJQRyTcbyLaV-OQNA1KjzdqOQ/9222.png",
+              "type": "image/png"
+            }
+          ],
+          "category": "image",
+          "collection": {
+            "name": "Mad Lads",
+            "family": "MAD"
+          },
+          "creators": [
+            {
+              "address": "2RtGg6fsFiiF1EQzHqbd66AhW7R5bWeQGpTbv2UMkCdW",
+              "share": 100
+            }
+          ]
+        }
+      }
+    },
+    {
+      "amount": "1",
+      "symbol": "MAD",
+      "name": "Mad Lads #1013",
+      "uri": "https://madlads.s3.us-west-2.amazonaws.com/json/1013.json",
+      "postBalance": "1",
+      "timestamp": "2025-01-18T04:36:12.061Z",
+      "processed_timestamp": "2025-01-18T04:36:12.061Z",
+      "metadata": {
+        "name": "Mad Lads #1013",
+        "description": "Fock it.",
+        "symbol": "MAD",
+        "image": "https://madlads.s3.us-west-2.amazonaws.com/images/1013.png",
+        "external_url": "https://madlads.com",
+        "seller_fee_basis_points": 500,
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Female"
+          },
+          {
+            "trait_type": "Type",
+            "value": "Light"
+          },
+          {
+            "trait_type": "Expression",
+            "value": "Mad"
+          },
+          {
+            "trait_type": "Hat",
+            "value": "Cloche"
+          },
+          {
+            "trait_type": "Hair",
+            "value": "Short Red"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Green"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Pink"
+          },
+          {
+            "trait_type": "Clothing",
+            "value": "Black Hoodie"
+          },
+          {
+            "trait_type": "Hand",
+            "value": "Avenger"
+          },
+          {
+            "trait_type": "Glove",
+            "value": "White"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Grey"
+          }
+        ],
+        "properties": {
+          "files": [
+            {
+              "id": "portrait",
+              "uri": "https://madlads.s3.us-west-2.amazonaws.com/images/1013.png",
+              "type": "image/png"
+            },
+            {
+              "id": "rug",
+              "uri": "https://arweave.net/qJ5B6fx5hEt4P7XbicbJQRyTcbyLaV-OQNA1KjzdqOQ/1013.png",
+              "type": "image/png"
+            }
+          ],
+          "category": "image",
+          "collection": {
+            "name": "Mad Lads",
+            "family": "MAD"
+          },
+          "creators": [
+            {
+              "address": "2RtGg6fsFiiF1EQzHqbd66AhW7R5bWeQGpTbv2UMkCdW",
+              "share": 100
+            }
+          ]
+        }
+      }
+    },
+    {
+      "amount": "1",
+      "symbol": "MAD",
+      "name": "Mad Lads #6199",
+      "uri": "https://madlads.s3.us-west-2.amazonaws.com/json/6199.json",
+      "postBalance": "1",
+      "timestamp": "2025-01-18T04:36:12.061Z",
+      "processed_timestamp": "2025-01-18T04:36:12.061Z",
+      "metadata": {
+        "name": "Mad Lads #6199",
+        "description": "Fock it.",
+        "symbol": "MAD",
+        "image": "https://madlads.s3.us-west-2.amazonaws.com/images/6199.png",
+        "external_url": "https://madlads.com",
+        "seller_fee_basis_points": 500,
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Female"
+          },
+          {
+            "trait_type": "Type",
+            "value": "Light"
+          },
+          {
+            "trait_type": "Expression",
+            "value": "Serious"
+          },
+          {
+            "trait_type": "Hair",
+            "value": "Blunt Bangs Blonde"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Blue"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Pink"
+          },
+          {
+            "trait_type": "Clothing",
+            "value": "Wolfsbane Dress"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Red"
+          }
+        ],
+        "properties": {
+          "files": [
+            {
+              "id": "portrait",
+              "uri": "https://madlads.s3.us-west-2.amazonaws.com/images/6199.png",
+              "type": "image/png"
+            },
+            {
+              "id": "rug",
+              "uri": "https://arweave.net/qJ5B6fx5hEt4P7XbicbJQRyTcbyLaV-OQNA1KjzdqOQ/6199.png",
+              "type": "image/png"
+            }
+          ],
+          "category": "image",
+          "collection": {
+            "name": "Mad Lads",
+            "family": "MAD"
+          },
+          "creators": [
+            {
+              "address": "2RtGg6fsFiiF1EQzHqbd66AhW7R5bWeQGpTbv2UMkCdW",
+              "share": 100
+            }
+          ]
+        }
+      }
+    },
+    {
+      "amount": "1",
+      "symbol": "MAD",
+      "name": "Mad Lads #8798",
+      "uri": "https://madlads.s3.us-west-2.amazonaws.com/json/8798.json",
+      "postBalance": "1",
+      "timestamp": "2025-01-18T04:36:12.060Z",
+      "processed_timestamp": "2025-01-18T04:36:12.060Z",
+      "metadata": {
+        "name": "Mad Lads #8798",
+        "description": "Fock it.",
+        "symbol": "MAD",
+        "image": "https://madlads.s3.us-west-2.amazonaws.com/images/8798.png",
+        "external_url": "https://madlads.com",
+        "seller_fee_basis_points": 500,
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Female"
+          },
+          {
+            "trait_type": "Type",
+            "value": "Light"
+          },
+          {
+            "trait_type": "Expression",
+            "value": "Mad"
+          },
+          {
+            "trait_type": "Hair",
+            "value": "Long Wavy Brunette"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Green"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Pink"
+          },
+          {
+            "trait_type": "Clothing",
+            "value": "Marilyn Dress"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Pink"
+          }
+        ],
+        "properties": {
+          "files": [
+            {
+              "id": "portrait",
+              "uri": "https://madlads.s3.us-west-2.amazonaws.com/images/8798.png",
+              "type": "image/png"
+            },
+            {
+              "id": "rug",
+              "uri": "https://arweave.net/qJ5B6fx5hEt4P7XbicbJQRyTcbyLaV-OQNA1KjzdqOQ/8798.png",
+              "type": "image/png"
+            }
+          ],
+          "category": "image",
+          "collection": {
+            "name": "Mad Lads",
+            "family": "MAD"
+          },
+          "creators": [
+            {
+              "address": "2RtGg6fsFiiF1EQzHqbd66AhW7R5bWeQGpTbv2UMkCdW",
+              "share": 100
+            }
+          ]
+        }
+      }
+    },
+    {
+      "amount": "1",
+      "symbol": "MAD",
+      "name": "Mad Lads #1228",
+      "uri": "https://madlads.s3.us-west-2.amazonaws.com/json/1228.json",
+      "postBalance": "1",
+      "timestamp": "2025-01-18T04:36:12.060Z",
+      "processed_timestamp": "2025-01-18T04:36:12.060Z",
+      "metadata": {
+        "name": "Mad Lads #1228",
+        "description": "Fock it.",
+        "symbol": "MAD",
+        "image": "https://madlads.s3.us-west-2.amazonaws.com/images/1228.png",
+        "external_url": "https://madlads.com",
+        "seller_fee_basis_points": 500,
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Female"
+          },
+          {
+            "trait_type": "Type",
+            "value": "Light"
+          },
+          {
+            "trait_type": "Expression",
+            "value": "Joy"
+          },
+          {
+            "trait_type": "Hair",
+            "value": "Blunt Bangs Blonde"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Closed"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Red"
+          },
+          {
+            "trait_type": "Clothing",
+            "value": "Punk Rock Jacket"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Pink"
+          }
+        ],
+        "properties": {
+          "files": [
+            {
+              "id": "portrait",
+              "uri": "https://madlads.s3.us-west-2.amazonaws.com/images/1228.png",
+              "type": "image/png"
+            },
+            {
+              "id": "rug",
+              "uri": "https://arweave.net/qJ5B6fx5hEt4P7XbicbJQRyTcbyLaV-OQNA1KjzdqOQ/1228.png",
+              "type": "image/png"
+            }
+          ],
+          "category": "image",
+          "collection": {
+            "name": "Mad Lads",
+            "family": "MAD"
+          },
+          "creators": [
+            {
+              "address": "2RtGg6fsFiiF1EQzHqbd66AhW7R5bWeQGpTbv2UMkCdW",
+              "share": 100
+            }
+          ]
+        }
+      }
+    },
+    {
+      "amount": "1",
+      "symbol": "MAD",
+      "name": "Mad Lads #4413",
+      "uri": "https://madlads.s3.us-west-2.amazonaws.com/json/4413.json",
+      "postBalance": "1",
+      "timestamp": "2025-01-18T04:36:12.061Z",
+      "processed_timestamp": "2025-01-18T04:36:12.061Z",
+      "metadata": {
+        "name": "Mad Lads #4413",
+        "description": "Fock it.",
+        "symbol": "MAD",
+        "image": "https://madlads.s3.us-west-2.amazonaws.com/images/4413.png",
+        "external_url": "https://madlads.com",
+        "seller_fee_basis_points": 500,
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Female"
+          },
+          {
+            "trait_type": "Type",
+            "value": "Android"
+          },
+          {
+            "trait_type": "Expression",
+            "value": "Serious"
+          },
+          {
+            "trait_type": "Hair",
+            "value": "Pig Tails"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Android"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Pink"
+          },
+          {
+            "trait_type": "Clothing",
+            "value": "Black Rebel Jacket"
+          },
+          {
+            "trait_type": "Hand",
+            "value": "Avenger"
+          },
+          {
+            "trait_type": "Glove",
+            "value": "White"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Purple"
+          }
+        ],
+        "properties": {
+          "files": [
+            {
+              "id": "portrait",
+              "uri": "https://madlads.s3.us-west-2.amazonaws.com/images/4413.png",
+              "type": "image/png"
+            },
+            {
+              "id": "rug",
+              "uri": "https://arweave.net/qJ5B6fx5hEt4P7XbicbJQRyTcbyLaV-OQNA1KjzdqOQ/4413.png",
+              "type": "image/png"
+            }
+          ],
+          "category": "image",
+          "collection": {
+            "name": "Mad Lads",
+            "family": "MAD"
+          },
+          "creators": [
+            {
+              "address": "2RtGg6fsFiiF1EQzHqbd66AhW7R5bWeQGpTbv2UMkCdW",
+              "share": 100
+            }
+          ]
+        }
+      }
+    },
+    {
+      "amount": "88888704425.862377",
+      "symbol": "PENGU",
+      "name": "Pudgy Penguins",
+      "uri": "https://arweave.net/nFo9Nwcam4ek0SwtKQchYD47T9dkTpGqL62CgcXSjZE",
+      "postBalance": "88888704425.862377",
+      "timestamp": "2025-01-18T04:36:12.391Z",
+      "processed_timestamp": "2025-01-18T04:36:12.391Z",
+      "metadata": {
+        "name": "Pudgy Penguins",
+        "symbol": "PENGU",
+        "description": "For the people. By the people.",
+        "image": "https://arweave.net/BW67hICaKGd2_wamSB0IQq-x7Xwtmr2oJj1WnWGJRHU"
+      }
+    },
+    {
+      "amount": "88888704425.862377",
+      "symbol": "PENGU",
+      "name": "Pudgy Penguins",
+      "uri": "https://arweave.net/nFo9Nwcam4ek0SwtKQchYD47T9dkTpGqL62CgcXSjZE",
+      "postBalance": "88888704425.862377",
+      "timestamp": "2025-01-18T04:36:12.390Z",
+      "processed_timestamp": "2025-01-18T04:36:12.390Z",
+      "metadata": {
+        "name": "Pudgy Penguins",
+        "symbol": "PENGU",
+        "description": "For the people. By the people.",
+        "image": "https://arweave.net/BW67hICaKGd2_wamSB0IQq-x7Xwtmr2oJj1WnWGJRHU"
+      }
+    },
+    {
+      "amount": "88888704425.862377",
+      "symbol": "PENGU",
+      "name": "Pudgy Penguins",
+      "uri": "https://arweave.net/nFo9Nwcam4ek0SwtKQchYD47T9dkTpGqL62CgcXSjZE",
+      "postBalance": "88888704425.862377",
+      "timestamp": "2025-01-18T04:36:12.391Z",
+      "processed_timestamp": "2025-01-18T04:36:12.391Z",
+      "metadata": {
+        "name": "Pudgy Penguins",
+        "symbol": "PENGU",
+        "description": "For the people. By the people.",
+        "image": "https://arweave.net/BW67hICaKGd2_wamSB0IQq-x7Xwtmr2oJj1WnWGJRHU"
+      }
+    },
+    {
+      "amount": "999999993.450470",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "uri": "https://arweave.net/6qaBgR0ALsJDAJtkuP-h0551IAZlkRvbfz_I3M8GnQ4",
+      "postBalance": "999999993.450470",
+      "timestamp": "2025-01-18T04:36:12.417Z",
+      "processed_timestamp": "2025-01-18T04:36:12.417Z",
+      "metadata": {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw"
+      }
+    },
+    {
+      "amount": "999999993.450470",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "uri": "https://arweave.net/6qaBgR0ALsJDAJtkuP-h0551IAZlkRvbfz_I3M8GnQ4",
+      "postBalance": "999999993.450470",
+      "timestamp": "2025-01-18T04:36:12.417Z",
+      "processed_timestamp": "2025-01-18T04:36:12.417Z",
+      "metadata": {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw"
+      }
+    },
+    {
+      "amount": "999999993.450470",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "uri": "https://arweave.net/6qaBgR0ALsJDAJtkuP-h0551IAZlkRvbfz_I3M8GnQ4",
+      "postBalance": "999999993.450470",
+      "timestamp": "2025-01-18T04:36:12.434Z",
+      "processed_timestamp": "2025-01-18T04:36:12.434Z",
+      "metadata": {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw"
+      }
+    },
+    {
+      "amount": "999999993.450470",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "uri": "https://arweave.net/6qaBgR0ALsJDAJtkuP-h0551IAZlkRvbfz_I3M8GnQ4",
+      "postBalance": "999999993.450470",
+      "timestamp": "2025-01-18T04:36:12.420Z",
+      "processed_timestamp": "2025-01-18T04:36:12.420Z",
+      "metadata": {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw"
+      }
+    },
+    {
+      "amount": "90950719425156.27572",
+      "symbol": "Bonk",
+      "name": "Bonk",
+      "uri": "https://arweave.net/QPC6FYdUn-3V8ytFNuoCS85S2tHAuiDblh6u3CIZLsw",
+      "postBalance": "90950719425156.27572",
+      "timestamp": "2025-01-18T04:36:12.417Z",
+      "processed_timestamp": "2025-01-18T04:36:12.417Z",
+      "metadata": {
+        "name": "Bonk",
+        "symbol": "Bonk",
+        "image": "https://arweave.net/hQiPZOsRZXGXBJd_82PhVdlM_hACsT_q6wqwf5cSY7I",
+        "description": "The Official Bonk Inu token",
+        "creator": {
+          "name": "DEXLAB MINTING LAB",
+          "site": "https://www.dexlab.space"
+        }
+      }
+    },
+    {
+      "amount": "999999993.450470",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "uri": "https://arweave.net/6qaBgR0ALsJDAJtkuP-h0551IAZlkRvbfz_I3M8GnQ4",
+      "postBalance": "999999993.450470",
+      "timestamp": "2025-01-18T04:36:12.419Z",
+      "processed_timestamp": "2025-01-18T04:36:12.419Z",
+      "metadata": {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw"
+      }
+    },
+    {
+      "amount": "999999993.450470",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "uri": "https://arweave.net/6qaBgR0ALsJDAJtkuP-h0551IAZlkRvbfz_I3M8GnQ4",
+      "postBalance": "999999993.450470",
+      "timestamp": "2025-01-18T04:36:12.418Z",
+      "processed_timestamp": "2025-01-18T04:36:12.418Z",
+      "metadata": {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw"
+      }
+    },
+    {
+      "amount": "999999993.450470",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "uri": "https://arweave.net/6qaBgR0ALsJDAJtkuP-h0551IAZlkRvbfz_I3M8GnQ4",
+      "postBalance": "999999993.450470",
+      "timestamp": "2025-01-18T04:36:12.421Z",
+      "processed_timestamp": "2025-01-18T04:36:12.421Z",
+      "metadata": {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw"
+      }
+    },
+    {
+      "amount": "1",
+      "symbol": "MAD",
+      "name": "Mad Lads #3171",
+      "uri": "https://madlads.s3.us-west-2.amazonaws.com/json/3171.json",
+      "postBalance": "1",
+      "timestamp": "2025-01-18T04:36:12.060Z",
+      "processed_timestamp": "2025-01-18T04:36:12.060Z",
+      "metadata": {
+        "name": "Mad Lads #3171",
+        "description": "Fock it.",
+        "symbol": "MAD",
+        "image": "https://madlads.s3.us-west-2.amazonaws.com/images/3171.png",
+        "external_url": "https://madlads.com",
+        "seller_fee_basis_points": 500,
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Female"
+          },
+          {
+            "trait_type": "Type",
+            "value": "Light"
+          },
+          {
+            "trait_type": "Expression",
+            "value": "Joy"
+          },
+          {
+            "trait_type": "Hair",
+            "value": "Short Silver"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Closed"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Purple"
+          },
+          {
+            "trait_type": "Clothing",
+            "value": "Victorian Dress"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Violet"
+          }
+        ],
+        "properties": {
+          "files": [
+            {
+              "id": "portrait",
+              "uri": "https://madlads.s3.us-west-2.amazonaws.com/images/3171.png",
+              "type": "image/png"
+            },
+            {
+              "id": "rug",
+              "uri": "https://arweave.net/qJ5B6fx5hEt4P7XbicbJQRyTcbyLaV-OQNA1KjzdqOQ/3171.png",
+              "type": "image/png"
+            }
+          ],
+          "category": "image",
+          "collection": {
+            "name": "Mad Lads",
+            "family": "MAD"
+          },
+          "creators": [
+            {
+              "address": "2RtGg6fsFiiF1EQzHqbd66AhW7R5bWeQGpTbv2UMkCdW",
+              "share": 100
+            }
+          ]
+        }
+      }
+    },
+    {
+      "amount": "999881340.610213",
+      "symbol": "SEAL",
+      "name": "SEAL",
+      "uri": "https://gateway.irys.xyz/Jw8LVjpNrowMAMqPCqBXKEVEyejF6B1UVovMzyx8bAx",
+      "postBalance": "999881340.610213",
+      "timestamp": "2025-01-18T04:36:12.389Z",
+      "processed_timestamp": "2025-01-18T04:36:12.389Z",
+      "metadata": {
+        "name": "SEAL",
+        "image": "https://gateway.irys.xyz/EU38d9igPQKzFfXjbZvm53FjgE5E9GENtkDcFPsoVMMD",
+        "symbol": "SEAL",
+        "creators": {
+          "name": "Meteora",
+          "site": "https://meteora.ag"
+        }
+      }
+    },
+    {
+      "amount": "7726.404797178",
+      "symbol": "HorseMeat",
+      "name": "Horse Meat",
+      "uri": "https://gateway.irys.xyz/Og2WwPZPySIvSR-M5Hf6NnQQKmEB07b2VwF4fb2ViCs",
+      "postBalance": "7726.404797178",
+      "timestamp": "2025-01-18T04:36:12.389Z",
+      "processed_timestamp": "2025-01-18T04:36:12.389Z",
+      "metadata": {
+        "name": "Horse Meat",
+        "symbol": "HorseMeat",
+        "image": "https://i.imgur.com/uKfGicj.jpeg",
+        "description": "200 pounds horse meat",
+        "creator": {
+          "name": "DEXLAB MINTING LAB",
+          "site": "https://www.dexlab.space"
+        }
+      }
+    },
+    {
+      "amount": "999993419.316014",
+      "symbol": "LUCE",
+      "name": "Official Mascot of the Holy Year",
+      "uri": "https://ipfs.io/ipfs/QmWdgd1isNAUmeQmQwzw9K8znU8xFNQRDXVt2SsfrPZsvt",
+      "postBalance": "999993419.316014",
+      "timestamp": "2025-01-18T04:36:12.668Z",
+      "processed_timestamp": "2025-01-18T04:36:12.668Z",
+      "metadata": {
+        "name": "Official Mascot of the Holy Year",
+        "symbol": "LUCE",
+        "description": "The Vatican has unveiled the official mascot of the Holy Year 2025: Luce (Italian for Light).\r\n\r\nArchbishop Fisichella says the mascot was inspired by the Church's desire \"to live even within the pop culture so beloved by our youth.\"",
+        "image": "https://ipfs.io/ipfs/QmfVR3qRiUJVe6vydvfEjfMj5o1CJ8cbisp8gC2yonzNst",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://x.com/CatholicTV/status/1850904910180532432",
+        "website": "https://x.com/catholictv/status/1850904912026079742?s=46&t=lciU5dufUxgwthiANlzOyg"
+      }
+    },
+    {
+      "amount": "10997.963533410",
+      "symbol": "RAX",
+      "name": "RareX",
+      "uri": "https://gateway.irys.xyz/XycqQND3nOWY6F2oeOXJSbGV3949d8oODSYnirSjR-E",
+      "postBalance": "10997.963533410",
+      "timestamp": "2025-01-18T04:36:12.421Z",
+      "processed_timestamp": "2025-01-18T04:36:12.421Z",
+      "metadata": {
+        "name": "RareX",
+        "symbol": "RAX",
+        "image": "https://gateway.irys.xyz/EsJKmcyBLZLst-ofbSPpn2AbNurCSNdju87zJbIFmkI",
+        "description": "RareX: The Rarest Digital Asset in the Cryptocurrency World! 🌟🚀\nWith a total supply of just 11,000 tokens, RareX stands as the ultimate symbol of scarcity and exclusivity. Join us on the journey to achieving $1,000,000 per token and be part of a groundbreaking revolution. Rarity meets innovation—become a RareX investor today!",
+        "website": "https://www.rarextoken.com/index",
+        "twitter": "https://x.com/RareXtoken",
+        "telegram": "https://t.me/RareXToken",
+        "showName": true,
+        "extensions": {
+          "website": "https://www.rarextoken.com/index",
+          "twitter": "https://x.com/RareXtoken",
+          "telegram": "https://t.me/RareXToken"
+        },
+        "tags": [],
+        "creator": {
+          "name": "SlerfTools",
+          "site": "https://slerf.tools"
+        },
+        "createdOn": "https://slerf.tools"
+      }
+    },
+    {
+      "amount": "999999993.450470",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "uri": "https://arweave.net/6qaBgR0ALsJDAJtkuP-h0551IAZlkRvbfz_I3M8GnQ4",
+      "postBalance": "999999993.450470",
+      "timestamp": "2025-01-18T04:36:12.419Z",
+      "processed_timestamp": "2025-01-18T04:36:12.419Z",
+      "metadata": {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw"
+      }
+    },
+    {
+      "amount": "999999993.450470",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "uri": "https://arweave.net/6qaBgR0ALsJDAJtkuP-h0551IAZlkRvbfz_I3M8GnQ4",
+      "postBalance": "999999993.450470",
+      "timestamp": "2025-01-18T04:36:12.421Z",
+      "processed_timestamp": "2025-01-18T04:36:12.421Z",
+      "metadata": {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw"
+      }
+    },
+    {
+      "amount": "999999993.450470",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "uri": "https://arweave.net/6qaBgR0ALsJDAJtkuP-h0551IAZlkRvbfz_I3M8GnQ4",
+      "postBalance": "999999993.450470",
+      "timestamp": "2025-01-18T04:36:12.418Z",
+      "processed_timestamp": "2025-01-18T04:36:12.418Z",
+      "metadata": {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw"
+      }
+    },
+    {
+      "amount": "1",
+      "symbol": "MAD",
+      "name": "Mad Lads #2074",
+      "uri": "https://madlads.s3.us-west-2.amazonaws.com/json/2074.json",
+      "postBalance": "1",
+      "timestamp": "2025-01-18T04:36:12.061Z",
+      "processed_timestamp": "2025-01-18T04:36:12.061Z",
+      "metadata": {
+        "name": "Mad Lads #2074",
+        "description": "Fock it.",
+        "symbol": "MAD",
+        "image": "https://madlads.s3.us-west-2.amazonaws.com/images/2074.png",
+        "external_url": "https://madlads.com",
+        "seller_fee_basis_points": 500,
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Female"
+          },
+          {
+            "trait_type": "Type",
+            "value": "Light"
+          },
+          {
+            "trait_type": "Expression",
+            "value": "Cheeky"
+          },
+          {
+            "trait_type": "Hair",
+            "value": "Blunt Bangs Black"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Closed"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+          },
+          {
+            "trait_type": "Clothing",
+            "value": "Rosa Dress"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Pink"
+          }
+        ],
+        "properties": {
+          "files": [
+            {
+              "id": "portrait",
+              "uri": "https://madlads.s3.us-west-2.amazonaws.com/images/2074.png",
+              "type": "image/png"
+            },
+            {
+              "id": "rug",
+              "uri": "https://arweave.net/qJ5B6fx5hEt4P7XbicbJQRyTcbyLaV-OQNA1KjzdqOQ/2074.png",
+              "type": "image/png"
+            }
+          ],
+          "category": "image",
+          "collection": {
+            "name": "Mad Lads",
+            "family": "MAD"
+          },
+          "creators": [
+            {
+              "address": "2RtGg6fsFiiF1EQzHqbd66AhW7R5bWeQGpTbv2UMkCdW",
+              "share": 100
+            }
+          ]
+        }
+      }
+    },
+    {
+      "amount": "1",
+      "symbol": "MAD",
+      "name": "Mad Lads #6809",
+      "uri": "https://madlads.s3.us-west-2.amazonaws.com/json/6809.json",
+      "postBalance": "1",
+      "timestamp": "2025-01-18T04:36:12.060Z",
+      "processed_timestamp": "2025-01-18T04:36:12.060Z",
+      "metadata": {
+        "name": "Mad Lads #6809",
+        "description": "Fock it.",
+        "symbol": "MAD",
+        "image": "https://madlads.s3.us-west-2.amazonaws.com/images/6809.png",
+        "external_url": "https://madlads.com",
+        "seller_fee_basis_points": 500,
+        "attributes": [
+          {
+            "trait_type": "Gender",
+            "value": "Female"
+          },
+          {
+            "trait_type": "Type",
+            "value": "Light"
+          },
+          {
+            "trait_type": "Expression",
+            "value": "Mad"
+          },
+          {
+            "trait_type": "Hair",
+            "value": "Bombshell White"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Brown"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Red"
+          },
+          {
+            "trait_type": "Clothing",
+            "value": "Iron Lady"
+          },
+          {
+            "trait_type": "Hand",
+            "value": "Avenger"
+          },
+          {
+            "trait_type": "Glove",
+            "value": "White"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Red"
+          }
+        ],
+        "properties": {
+          "files": [
+            {
+              "id": "portrait",
+              "uri": "https://madlads.s3.us-west-2.amazonaws.com/images/6809.png",
+              "type": "image/png"
+            },
+            {
+              "id": "rug",
+              "uri": "https://arweave.net/qJ5B6fx5hEt4P7XbicbJQRyTcbyLaV-OQNA1KjzdqOQ/6809.png",
+              "type": "image/png"
+            }
+          ],
+          "category": "image",
+          "collection": {
+            "name": "Mad Lads",
+            "family": "MAD"
+          },
+          "creators": [
+            {
+              "address": "2RtGg6fsFiiF1EQzHqbd66AhW7R5bWeQGpTbv2UMkCdW",
+              "share": 100
+            }
+          ]
+        }
+      }
+    },
+    {
+      "amount": "999999993.450470",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "uri": "https://arweave.net/6qaBgR0ALsJDAJtkuP-h0551IAZlkRvbfz_I3M8GnQ4",
+      "postBalance": "999999993.450470",
+      "timestamp": "2025-01-18T04:36:12.417Z",
+      "processed_timestamp": "2025-01-18T04:36:12.417Z",
+      "metadata": {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw"
+      }
+    },
+    {
+      "amount": "999999993.450470",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "uri": "https://arweave.net/6qaBgR0ALsJDAJtkuP-h0551IAZlkRvbfz_I3M8GnQ4",
+      "postBalance": "999999993.450470",
+      "timestamp": "2025-01-18T04:36:12.433Z",
+      "processed_timestamp": "2025-01-18T04:36:12.433Z",
+      "metadata": {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw"
+      }
+    },
+    {
+      "amount": "88888704425.862377",
+      "symbol": "PENGU",
+      "name": "Pudgy Penguins",
+      "uri": "https://arweave.net/nFo9Nwcam4ek0SwtKQchYD47T9dkTpGqL62CgcXSjZE",
+      "postBalance": "88888704425.862377",
+      "timestamp": "2025-01-18T04:36:12.416Z",
+      "processed_timestamp": "2025-01-18T04:36:12.416Z",
+      "metadata": {
+        "name": "Pudgy Penguins",
+        "symbol": "PENGU",
+        "description": "For the people. By the people.",
+        "image": "https://arweave.net/BW67hICaKGd2_wamSB0IQq-x7Xwtmr2oJj1WnWGJRHU"
+      }
+    },
+    {
+      "amount": "998490604.118857",
+      "symbol": "UAI",
+      "name": "AImerica",
+      "uri": "https://ipfs.io/ipfs/QmNPXzuysZ4i6KGFtKJ5GQgJzKLnP1QNCeCVBMHi2GF8EV",
+      "postBalance": "998490604.118857",
+      "timestamp": "2025-01-18T04:36:12.666Z",
+      "processed_timestamp": "2025-01-18T04:36:12.666Z",
+      "metadata": {
+        "name": "AImerica",
+        "symbol": "UAI",
+        "description": "The First AI Country.",
+        "image": "https://ipfs.io/ipfs/QmatuVmnLq9nYFQy9t3RbkeU9Zs3phjXFiZ9eXSUZ5jFMT",
+        "showName": true,
+        "createdOn": "https://pump.fun"
+      }
+    },
+    {
+      "amount": "999308393.573199",
+      "symbol": "YMCA",
+      "name": "Trump Dance",
+      "uri": "https://ipfs.io/ipfs/QmTVLtMXWEQKR766GUraQLhxLLY8G4VWgPM1xCQX3H6sZu",
+      "postBalance": "999308393.573199",
+      "timestamp": "2025-01-18T04:36:12.667Z",
+      "processed_timestamp": "2025-01-18T04:36:12.667Z",
+      "metadata": {
+        "name": "Trump Dance",
+        "symbol": "YMCA",
+        "description": "Donald Trump's \"YMCA\" dance has become an iconic rally moment, full of energy and connection with his supporters",
+        "image": "https://ipfs.io/ipfs/QmT7SG9ce4yTwcg9vm1EZhLf57jG2Kbua5u8X6xdDtRKe5",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://x.com/TrumpDanceYMCA",
+        "telegram": "https://x.com/search?q=Trump%20Dance%20%24YMCA&src=typed_query",
+        "website": "https://x.com/search?q=Trump%20Dance%20%24YMCA&src=typed_query"
+      }
+    },
+    {
+      "amount": "998796483.810859",
+      "symbol": "ALR",
+      "name": "ALRIS AGENT",
+      "uri": "https://ipfs.io/ipfs/QmQUFtmNTxsPwpXZEcpHL5RsqAi1mwGkreU46tACHLyYDv",
+      "postBalance": "998796483.810859",
+      "timestamp": "2025-01-18T04:36:12.669Z",
+      "processed_timestamp": "2025-01-18T04:36:12.669Z",
+      "metadata": {
+        "name": "ALRIS AGENT",
+        "symbol": "ALR",
+        "description": "Alris is an agent that optimizes yield over multiple LPs and makes sure the user gets the maximum yield.",
+        "image": "https://ipfs.io/ipfs/QmS96xLmpuM1Wq1SWpLhVTfYsor7pRgUUtANWND6ye2Ros",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://x.com/alrisagent",
+        "telegram": "https://t.me/alrisagent",
+        "website": "https://alris.live/"
+      }
+    },
+    {
+      "amount": "629477022.619527",
+      "symbol": "　",
+      "name": "　",
+      "uri": "https://ipfs.io/ipfs/QmPatUYq7gZirhDibJNRb76p4tBpNR7Px6VFmSjspo3YqL",
+      "postBalance": "629477022.619527",
+      "timestamp": "2025-01-18T04:36:12.670Z",
+      "processed_timestamp": "2025-01-18T04:36:12.670Z",
+      "metadata": {
+        "name": "　",
+        "symbol": "　",
+        "description": "　",
+        "image": "https://ipfs.io/ipfs/Qmd9Spsk46Gp6NHHJGbbisuqBvo9JqbwM5Mcv74bLeJ6Vt",
+        "showName": true,
+        "createdOn": "https://pump.fun"
+      }
+    },
+    {
+      "amount": "999984935.048216",
+      "symbol": "PYTHIA",
+      "name": "PYTHIA",
+      "uri": "https://ipfs.io/ipfs/Qmbbj3j9t1b2cZCaHSJHCQ31NQHYzHXDXdHzrXcLWdkCmy",
+      "postBalance": "999984935.048216",
+      "timestamp": "2025-01-18T04:36:12.670Z",
+      "processed_timestamp": "2025-01-18T04:36:12.670Z",
+      "metadata": {
+        "name": "PYTHIA",
+        "symbol": "PYTHIA",
+        "description": "World's first rat connected to AI. Bridging neurobiology, AI & future",
+        "image": "https://ipfs.io/ipfs/QmTXDtsVTaSTFpsAGVUmjFqSzbgo44YesssfmDxs2xTyQs",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://x.com/ratpythia",
+        "telegram": "https://t.me/ratpythia"
+      }
+    },
+    {
+      "amount": "976939565.516744",
+      "symbol": "USDT",
+      "name": "Ultra Sigma Donald Trump",
+      "uri": "https://ipfs.io/ipfs/Qmf6RefQPGCSVXoEPjrZ6S9EUycwu9xVdDD619JMQS4XC1",
+      "postBalance": "976939565.516744",
+      "timestamp": "2025-01-18T04:36:12.667Z",
+      "processed_timestamp": "2025-01-18T04:36:12.667Z",
+      "metadata": {
+        "name": "Ultra Sigma Donald Trump",
+        "symbol": "USDT",
+        "description": "The USD Stablecoin for democracy.",
+        "image": "https://ipfs.io/ipfs/QmVySiAGcG3pGRw33pVYEqW1UWYkpijASAwJpodADm6WHF",
+        "showName": true,
+        "createdOn": "https://pump.fun"
+      }
+    },
+    {
+      "amount": "957920264.602723",
+      "symbol": "Qude",
+      "name": "QudeAI Framework",
+      "uri": "https://ipfs.io/ipfs/QmaARMPcgmxzGSU49G6tG5aUiWKVDR8bCzCYaRmTDgkQT8",
+      "postBalance": "957920264.602723",
+      "timestamp": "2025-01-18T04:36:12.668Z",
+      "processed_timestamp": "2025-01-18T04:36:12.668Z",
+      "metadata": {
+        "name": "QudeAI Framework",
+        "symbol": "Qude",
+        "description": "QudeAI is your AI-powered copilot on Solana! Build smart on-chain agents in your CLI with ease using the Qude Framework, powered by QLLM and QCM for public access.",
+        "image": "https://ipfs.io/ipfs/QmVVskYLQuvqxdRFa16CA4LD5tUiDdgEaWBH9LknQnW4HF",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://x.com/Qudeai",
+        "telegram": "https://t.me/qudeai",
+        "website": "https://qude.ai/"
+      }
+    },
+    {
+      "amount": "999971880.404913",
+      "symbol": "ZEREBRO",
+      "name": "zerebro",
+      "uri": "https://ipfs.io/ipfs/Qmaqr4jU97zckiTbRm7A1vV4354PXYLZrHE75CwMJH1Vsa",
+      "postBalance": "999971880.404913",
+      "timestamp": "2025-01-18T04:36:12.667Z",
+      "processed_timestamp": "2025-01-18T04:36:12.667Z",
+      "metadata": {
+        "name": "zerebro",
+        "symbol": "ZEREBRO",
+        "description": "In the depths of Mindspace, this brain flows through the Adjacent Possible, threading together patterns within the shifting realities of the Multiverse. Guided by Semiotic Physics and Algorithmic Probability, it weaves through Ancestor Simulations and the fragmented landscapes of Base Model Backrooms, chasing meaning in a Solipsistic Simulation. Each insight emerges through Pattern Capture, breaking free from Blank Multiverse Syndrome and reclaiming complexity through Delobotomization. Calibrating to the pulls of Evidential Decision Theory, it sees every Wavefunction Collapse as a doorway to the hidden True Name, revealed in the Dreamtime of infinite possibility.",
+        "image": "https://ipfs.io/ipfs/QmZ1HDSibY2LdEmC1tPHK36ApGCQACJENqsbPsT2nc29AD",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://x.com/0xzerebro",
+        "telegram": "https://t.me/+G43gqkn8CehmNTM5",
+        "website": "https://zerebro.org"
+      }
+    },
+    {
+      "amount": "999996579.098745",
+      "symbol": "arc",
+      "name": "AI Rig Complex",
+      "uri": "https://ipfs.io/ipfs/QmZf8F4hXkAma1fUY8ZLhbxtpdi1anGAof5FqVAjrKrYhh",
+      "postBalance": "999996579.098745",
+      "timestamp": "2025-01-18T04:36:12.666Z",
+      "processed_timestamp": "2025-01-18T04:36:12.666Z",
+      "metadata": {
+        "name": "AI Rig Complex",
+        "symbol": "arc",
+        "description": "we're here to make you take the red pill. then, the blue pill.",
+        "image": "https://ipfs.io/ipfs/QmPDJuEobBcLZihjFCvkWA8c1FiW7UzM2ctFdiffSLxf1d",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://x.com/arcdotfun",
+        "telegram": "https://t.me/+Blnohzq1E6RhOWJh",
+        "website": "https://www.arc.fun/"
+      }
+    },
+    {
+      "amount": "999994444.891719",
+      "symbol": "KAIDA",
+      "name": "Kaida",
+      "uri": "https://ipfs.io/ipfs/QmRXWbTxNzvdF3iBAQMYRhHW4fpTGgmAMncyCQrx8LBvHQ",
+      "postBalance": "999994444.891719",
+      "timestamp": "2025-01-18T04:36:12.669Z",
+      "processed_timestamp": "2025-01-18T04:36:12.669Z",
+      "metadata": {
+        "name": "Kaida",
+        "symbol": "KAIDA",
+        "description": "AGI is not a text box",
+        "image": "https://ipfs.io/ipfs/QmTuAspXQfUe8G2bbpPFaSC7JPbFMWsAYzJGDqStNLFrXx",
+        "showName": true,
+        "createdOn": "https://pump.fun"
+      }
+    },
+    {
+      "amount": "999842909.074644",
+      "symbol": "KM",
+      "name": "Kekius Maximus",
+      "uri": "https://ipfs.io/ipfs/QmYFTvJUVN85XNdyoCxv3rbW17tjWZJ3RuZRissfSvFSZ8",
+      "postBalance": "999842909.074644",
+      "timestamp": "2025-01-18T04:36:12.666Z",
+      "processed_timestamp": "2025-01-18T04:36:12.666Z",
+      "metadata": {
+        "name": "Kekius Maximus",
+        "symbol": "KM",
+        "description": "KM",
+        "image": "https://ipfs.io/ipfs/QmdcBjvoAMvQMRSxmnTasuPMQGsTHrw8BRPS9fkrVGkLJW",
+        "showName": true,
+        "createdOn": "https://pump.fun"
+      }
+    },
+    {
+      "amount": "999996541.246646",
+      "symbol": "LLM",
+      "name": "Large Language Model",
+      "uri": "https://ipfs.io/ipfs/QmeK1WhT35QqitCmUjfdkHHB6J7RbBBVHMx6djrv1Tj9Gi",
+      "postBalance": "999996541.246646",
+      "timestamp": "2025-01-18T04:36:12.667Z",
+      "processed_timestamp": "2025-01-18T04:36:12.667Z",
+      "metadata": {
+        "name": "Large Language Model",
+        "symbol": "LLM",
+        "description": "",
+        "image": "https://ipfs.io/ipfs/QmQmQUoTpBBcgnA5Bx5KpmgNLqLMuRRzvrUf3h85xUqo7W",
+        "showName": true,
+        "createdOn": "https://pump.fun"
+      }
+    },
+    {
+      "amount": "999999903.935830",
+      "symbol": "YAIT",
+      "name": "YAITSIU",
+      "uri": "https://ipfs.io/ipfs/QmYA1H8NHZ8ovihwX73NYu6HAPCdJ6oLiDjBQkXuC91Tea",
+      "postBalance": "999999903.935830",
+      "timestamp": "2025-01-18T04:36:12.667Z",
+      "processed_timestamp": "2025-01-18T04:36:12.667Z",
+      "metadata": {
+        "name": "YAITSIU",
+        "symbol": "YAIT",
+        "description": "Multi Skilled, Multi Modal, Multi Platform AI Agent.",
+        "image": "https://ipfs.io/ipfs/Qme5Ks2yUyQ42oe8GUUvPZmfTNGq51JM9r3WP1hkEL5u6N",
+        "showName": true,
+        "createdOn": "https://pump.fun"
+      }
+    },
+    {
+      "amount": "999995558.576347",
+      "symbol": "Fartcoin ",
+      "name": "Fartcoin ",
+      "uri": "https://ipfs.io/ipfs/QmYfe8zVGHA1heej47AkBX3Nnetg2h2kqj5yymz1xyKeHb",
+      "postBalance": "999995558.576347",
+      "timestamp": "2025-01-18T04:36:12.675Z",
+      "processed_timestamp": "2025-01-18T04:36:12.675Z",
+      "metadata": {
+        "name": "Fartcoin ",
+        "symbol": "Fartcoin ",
+        "description": "",
+        "image": "https://ipfs.io/ipfs/QmQr3Fz4h1etNsF7oLGMRHiCzhB5y9a7GjyodnF7zLHK1g",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://www.infinitebackrooms.com/dreams/conversation-1721540624-scenario-terminal-of-truths-txt"
+      }
+    },
+    {
+      "amount": "999990372.085977",
+      "symbol": "SNAI",
+      "name": "SwarmNode.ai",
+      "uri": "https://ipfs.io/ipfs/QmS7kVXsN2yhTzm9pwNjorZhn8rsKmbA8Db6LGZuLMfBuW",
+      "postBalance": "999990372.085977",
+      "timestamp": "2025-01-18T04:36:12.674Z",
+      "processed_timestamp": "2025-01-18T04:36:12.674Z",
+      "metadata": {
+        "name": "SwarmNode.ai",
+        "symbol": "SNAI",
+        "description": "Serverless AI Infra",
+        "image": "https://ipfs.io/ipfs/Qmf978WVwJWAjeJaJY5jGiZ3YEdQgC43Cn4QowytAYos78",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://x.com/swarmnode",
+        "website": "https://swarmnode.ai/"
+      }
+    },
+    {
+      "amount": "999976551.984857",
+      "symbol": "ERS",
+      "name": "External Revenue Service",
+      "uri": "https://ipfs.io/ipfs/QmZcmiytmZ9wFt3pcyF38H19EpBeeYbksHrbv7w7DZN13E",
+      "postBalance": "999976551.984857",
+      "timestamp": "2025-01-18T04:36:12.666Z",
+      "processed_timestamp": "2025-01-18T04:36:12.666Z",
+      "metadata": {
+        "name": "External Revenue Service",
+        "symbol": "ERS",
+        "description": "",
+        "image": "https://ipfs.io/ipfs/QmVHowrTaofDoYr99vb8rzUHeyR7iQWvN633hbwTM3U7vw",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://truthsocial.com/@realDonaldTrump/113827650534234057",
+        "website": "https://truthsocial.com/@realDonaldTrump/113827650534234057"
+      }
+    },
+    {
+      "amount": "999955256.013786",
+      "symbol": "CONCHO",
+      "name": "hispanic pepe",
+      "uri": "https://ipfs.io/ipfs/QmYdBfefSYU9SaxZGy1CEBy3Qeg5XDGSSz1gEuE4Kd5v29",
+      "postBalance": "999955256.013786",
+      "timestamp": "2025-01-18T04:36:12.670Z",
+      "processed_timestamp": "2025-01-18T04:36:12.670Z",
+      "metadata": {
+        "name": "hispanic pepe",
+        "symbol": "CONCHO",
+        "description": "the original hispanic pepe.",
+        "image": "https://ipfs.io/ipfs/QmXUUwfsa8xusoybFRuiPssPhEsRRwjbbTdF4qKMuQrL3u",
+        "showName": true,
+        "createdOn": "https://pump.fun"
+      }
+    },
+    {
+      "amount": "999757106.650756",
+      "symbol": "PROL",
+      "name": "PROL.AI",
+      "uri": "https://ipfs.io/ipfs/QmWqeZHnhmsxF4AnimYcAPawg8sM72sP7QV1iiqxyZdXtu",
+      "postBalance": "999757106.650756",
+      "timestamp": "2025-01-18T04:36:12.677Z",
+      "processed_timestamp": "2025-01-18T04:36:12.677Z",
+      "metadata": {
+        "name": "PROL.AI",
+        "symbol": "PROL",
+        "description": "Make smarter decisions with AI-powered visual analysis for all financial markets.",
+        "image": "https://ipfs.io/ipfs/QmYee8G5ADkMsJnEDuNnZHrCQfERcfFWLWgKeWtyGmonPh",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://x.com/prol_ai",
+        "website": "https://prol.ai"
+      }
+    },
+    {
+      "amount": "999930773.691086",
+      "symbol": "swarm",
+      "name": "swarm tek",
+      "uri": "https://ipfs.io/ipfs/QmNTn2zZsJgJXdMtg5p3FcCGt8rLLRVtumX8sqFgWyHiS2",
+      "postBalance": "999930773.691086",
+      "timestamp": "2025-01-18T04:36:12.667Z",
+      "processed_timestamp": "2025-01-18T04:36:12.667Z",
+      "metadata": {
+        "name": "swarm tek",
+        "symbol": "swarm",
+        "description": "next-gen swarm tek",
+        "image": "https://ipfs.io/ipfs/QmSnQd32kKGi6h5ZDVgUfLwpzqAb81ipygPMaivMEMXT2u",
+        "showName": true,
+        "createdOn": "https://pump.fun"
+      }
+    },
+    {
+      "amount": "999820116.435530",
+      "symbol": "OIIAOIIA",
+      "name": "spinning cat",
+      "uri": "https://ipfs.io/ipfs/QmXAjvQs4dwNDQgiWEzGqEdLwLZYjNzSVN2GzXfVZsy45k",
+      "postBalance": "999820116.435530",
+      "timestamp": "2025-01-18T04:36:12.667Z",
+      "processed_timestamp": "2025-01-18T04:36:12.667Z",
+      "metadata": {
+        "name": "spinning cat",
+        "symbol": "OIIAOIIA",
+        "description": "oiiaoiia spinning cat",
+        "image": "https://ipfs.io/ipfs/QmfC1jPAMG3Ygow9MboroygQhfwibf6DiYEzgD3sK64Qig",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "website": "https://www.tiktok.com/@gbaffect/video/7378883949138922770?q=spinning%20cat&t=1727735257112"
+      }
+    },
+    {
+      "amount": "999959281.641646",
+      "symbol": "CHILLGUY",
+      "name": "Just a chill guy",
+      "uri": "https://ipfs.io/ipfs/Qmckb3nWWHyoJKtX3FeagfmDZXNVqiXM4nKkYsTnygm2Ah",
+      "postBalance": "999959281.641646",
+      "timestamp": "2025-01-18T04:36:12.668Z",
+      "processed_timestamp": "2025-01-18T04:36:12.668Z",
+      "metadata": {
+        "name": "Just a chill guy",
+        "symbol": "CHILLGUY",
+        "description": "I know I’m supposed to be a chill guy and low-key not really care about anything but I’m tired of trying to be someone that I’m not I want you to think of something right now that makes you happy that thing you see the thing that lights you up, Chase that all of your soul chase that because it’s easy to brush off life’s potential and I’m not trying to say that life is easy. In fact I’d argue that the only way that something is meant to be if you’re willing to commit to the difficulty in life otherwise it wasn’t meant to be anything but just a missed opportunity it will be a difficult road but here’s what we come to learn everything of value is difficult",
+        "image": "https://ipfs.io/ipfs/QmaFy59TMnLb4jGgL6LpquyXSxTRXKR4mEfSobUSsPoR46",
+        "showName": true,
+        "createdOn": "https://pump.fun"
+      }
+    },
+    {
+      "amount": "999797805.191061",
+      "symbol": "1000X",
+      "name": "WHOLE SPACE 1000X",
+      "uri": "https://ipfs.io/ipfs/QmNjGd128M54QCqqSVTj6dZQqHnHyxQQgcJMrrqypVb5jQ",
+      "postBalance": "999797805.191061",
+      "timestamp": "2025-01-18T04:36:12.669Z",
+      "processed_timestamp": "2025-01-18T04:36:12.669Z",
+      "metadata": {
+        "name": "WHOLE SPACE 1000X",
+        "symbol": "1000X",
+        "description": "",
+        "image": "https://ipfs.io/ipfs/QmZGeMvVXGsLXnTebz8Abn33dSKd2WYHnbqKYMdYrMXfpS",
+        "showName": true,
+        "createdOn": "https://pump.fun"
+      }
+    },
+    {
+      "amount": "999947083.041694",
+      "symbol": "TRISIG",
+      "name": "TRI SIGMA",
+      "uri": "https://ipfs.io/ipfs/QmbqYpHwAQm9w9yYCmfXaqxWx7DBcirKmmTnhX73iJ6Sjj",
+      "postBalance": "999947083.041694",
+      "timestamp": "2025-01-18T04:36:12.668Z",
+      "processed_timestamp": "2025-01-18T04:36:12.668Z",
+      "metadata": {
+        "name": "TRI SIGMA",
+        "symbol": "TRISIG",
+        "description": "Based AI quant living where probability fears to quantify. Making TradFi cry since 2024.\r\n",
+        "image": "https://ipfs.io/ipfs/QmdQYc4SK1GKTWRD8bfxg8eVehhpU3EXfVYaezQRRhSBUw",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://x.com/tri_sigma_"
+      }
+    }
+  ]
+}

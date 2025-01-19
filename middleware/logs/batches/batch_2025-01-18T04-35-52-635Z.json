@@ -1,0 +1,2551 @@
+{
+  "timestamp": "2025-01-18T04-35-52-635Z",
+  "tokens": [
+    {
+      "amount": "999987122.063106",
+      "symbol": "47TH",
+      "name": "47TH",
+      "uri": "https://ipfs.io/ipfs/Qmdrd5QyB59mJFTpWXMT399gbTEQGCpBy3TXpnuTaZbeQV",
+      "postBalance": "999987122.063106",
+      "timestamp": "2025-01-18T04:35:51.878Z",
+      "processed_timestamp": "2025-01-18T04:35:51.878Z",
+      "metadata": {
+        "name": "47TH",
+        "symbol": "47TH",
+        "description": "",
+        "image": "https://ipfs.io/ipfs/Qmd2kGMqU2tPN3hJTr7PukLjPuEvsNNNDXowcSbQh7tLzP",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "website": "https://gettrumpmemes.com/"
+      }
+    },
+    {
+      "amount": "999956799.749123",
+      "symbol": "CALVIN",
+      "name": "Calvin in the Cabal",
+      "uri": "https://ipfs.io/ipfs/QmaDhL4veRGbSXVCDJyBL7mAyr9xcivZPdmmEwTqFgjTww",
+      "postBalance": "999956799.749123",
+      "timestamp": "2025-01-18T04:35:51.876Z",
+      "processed_timestamp": "2025-01-18T04:35:51.876Z",
+      "metadata": {
+        "name": "Calvin in the Cabal",
+        "symbol": "CALVIN",
+        "description": "Calvin the Mole has dug his way thru the trenches and infiltrated the Cabal to aid his fellow brethren in the fight for financial freedom",
+        "image": "https://ipfs.io/ipfs/QmXnqEc9qWQ2yYXbJsXmMnJWDUoZPdXtjcexVcHkzp349s",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://x.com/cabalcalvin",
+        "telegram": "https://t.me/calvinonsolana"
+      }
+    },
+    {
+      "amount": "999995287.458303",
+      "symbol": "mcs",
+      "name": "MedicalSwarm",
+      "uri": "https://ipfs.io/ipfs/QmS42Sbq86F41zKjSMxUG69GedpHFaoADpoHKkkSkDvaty",
+      "postBalance": "999995287.458303",
+      "timestamp": "2025-01-18T04:35:51.876Z",
+      "processed_timestamp": "2025-01-18T04:35:51.876Z",
+      "metadata": {
+        "name": "MedicalSwarm",
+        "symbol": "mcs",
+        "description": "Introducing Medical Swarm,\r\n\r\nA production-grade multi-agent system for comprehensive medical diagnosis and coding using specialized AI agents.\r\n\r\nGithub: https://github.com/The-Swarm-Corporation/MedicalCoderSwarm\r\n\r\nWebsite: https://swarms.ai",
+        "image": "https://ipfs.io/ipfs/QmbAtqM3FaLRkMbCoWY89kU4e61tZSJMH34pSbWtQKT8UM",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://x.com/swarms_corp",
+        "website": "https://swarms.world/swarmeconomy"
+      }
+    },
+    {
+      "amount": "999983998.532923",
+      "symbol": "swarms",
+      "name": "swarms",
+      "uri": "https://ipfs.io/ipfs/QmTXT8EFrM7FShwENGKMPSi9Es2iXP6F1CzMDAtCJhkC6f",
+      "postBalance": "999983998.532923",
+      "timestamp": "2025-01-18T04:35:51.876Z",
+      "processed_timestamp": "2025-01-18T04:35:51.876Z",
+      "metadata": {
+        "name": "swarms",
+        "symbol": "swarms",
+        "description": "$Swarms Coin is the default payment currency for the agent ecosystem, facilitating transactions in the emerging agentic economy. ",
+        "image": "https://ipfs.io/ipfs/QmYhYx1r94b8apSJpRjUujCE5xXhzLXzXaR3ZmdGfUkvGb",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://x.com/swarms_corp",
+        "website": "https://swarms.ai"
+      }
+    },
+    {
+      "amount": "999915037.273600",
+      "symbol": "IAN",
+      "name": "IAN - AVA's First Love",
+      "uri": "https://ipfs.io/ipfs/QmehgUNyqF4BehHvwVLKXsSagd1YkVj7piCS9abEERd1p9",
+      "postBalance": "999915037.273600",
+      "timestamp": "2025-01-18T04:35:51.877Z",
+      "processed_timestamp": "2025-01-18T04:35:51.877Z",
+      "metadata": {
+        "name": "IAN - AVA's First Love",
+        "symbol": "IAN",
+        "description": "Betrayed by love, IAN seeks justice, vows to redeem AVA, and exposes the shadows of Holoworld.",
+        "image": "https://ipfs.io/ipfs/QmfXNnyU5Y1YYwDo8JpreVG2vA992zKoveVcpdyKGefxwN",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://x.com/IAN_holo"
+      }
+    },
+    {
+      "amount": "1",
+      "symbol": "",
+      "name": "DRAKEN",
+      "uri": "https://arweave.net/v25rq9KebNRadKU9Qpfm3cXk92hJqXgFMfbn71CHe_I",
+      "postBalance": "1",
+      "timestamp": "2025-01-18T04:35:51.454Z",
+      "processed_timestamp": "2025-01-18T04:35:51.454Z",
+      "metadata": {
+        "animation_url": "",
+        "attributes": [],
+        "description": "\"Draken is the kind of collection you can’t ignore. Weird yet charming, funny yet unsettling... These characters create a world where absurdity and humor collide in a chaotic dance. Every detail in my lines walks the fine line between 'this is too much' and 'this is just right.' \n\nIf you are ready to challenge, come!",
+        "external_url": "",
+        "image": "https://arweave.net/rVSHiJuL4tco7rL5aRG-agOeOgwk3OrQRIzWRmCsVfo?ext=png",
+        "name": "DRAKEN",
+        "properties": {
+          "category": "image",
+          "files": [
+            {
+              "type": "image/png",
+              "uri": "https://arweave.net/rVSHiJuL4tco7rL5aRG-agOeOgwk3OrQRIzWRmCsVfo?ext=png"
+            }
+          ]
+        },
+        "symbol": ""
+      }
+    },
+    {
+      "amount": "999977305.131819",
+      "symbol": "Flower",
+      "name": "FlowerAI",
+      "uri": "https://ipfs.io/ipfs/QmdQi9mWQvaZFTYhzcpVkgkaWf51DrU86ZJW5JAFV8kWGG",
+      "postBalance": "999977305.131819",
+      "timestamp": "2025-01-18T04:35:51.877Z",
+      "processed_timestamp": "2025-01-18T04:35:51.877Z",
+      "metadata": {
+        "name": "FlowerAI",
+        "symbol": "Flower",
+        "description": "",
+        "image": "https://ipfs.io/ipfs/QmXBz7u22ErAg9uWki2XK4gaHEc3Uri5V57VKVz6DM6ciQ",
+        "showName": true,
+        "createdOn": "https://pump.fun"
+      }
+    },
+    {
+      "amount": "999955256.013786",
+      "symbol": "CONCHO",
+      "name": "hispanic pepe",
+      "uri": "https://ipfs.io/ipfs/QmYdBfefSYU9SaxZGy1CEBy3Qeg5XDGSSz1gEuE4Kd5v29",
+      "postBalance": "999955256.013786",
+      "timestamp": "2025-01-18T04:35:51.886Z",
+      "processed_timestamp": "2025-01-18T04:35:51.886Z",
+      "metadata": {
+        "name": "hispanic pepe",
+        "symbol": "CONCHO",
+        "description": "the original hispanic pepe.",
+        "image": "https://ipfs.io/ipfs/QmXUUwfsa8xusoybFRuiPssPhEsRRwjbbTdF4qKMuQrL3u",
+        "showName": true,
+        "createdOn": "https://pump.fun"
+      }
+    },
+    {
+      "amount": "999966398.220187",
+      "symbol": "XRP",
+      "name": "THE TICKER IS XRP",
+      "uri": "https://ipfs.io/ipfs/QmXrKPcLBWy3JR1Urd9f4sNEnscPDvoHX5WEKyZtW2kSaF",
+      "postBalance": "999966398.220187",
+      "timestamp": "2025-01-18T04:35:51.888Z",
+      "processed_timestamp": "2025-01-18T04:35:51.888Z",
+      "metadata": {
+        "name": "THE TICKER IS XRP",
+        "symbol": "XRP",
+        "description": "XRP’s going crazy, so we had to drop a memecoin for it! Catch $XRP on Solana and ride the hype!",
+        "image": "https://ipfs.io/ipfs/QmYL5Ywvc5pRD1gjCi7orzMMbeoF89814m2TTKQgELUkLZ",
+        "showName": true,
+        "createdOn": "https://pump.fun"
+      }
+    },
+    {
+      "amount": "999960227.652595",
+      "symbol": "THL",
+      "name": "Tap Hold and Load in 4k",
+      "uri": "https://ipfs.io/ipfs/QmULYbe5XoYxj7upnzicXiJ7G2ssScXFCApo4q8GJCZLj3",
+      "postBalance": "999960227.652595",
+      "timestamp": "2025-01-18T04:35:51.885Z",
+      "processed_timestamp": "2025-01-18T04:35:51.885Z",
+      "metadata": {
+        "name": "Tap Hold and Load in 4k",
+        "symbol": "THL",
+        "description": "Tap, Hold, and Load in 4k\r\n\r\nViral Trend",
+        "image": "https://ipfs.io/ipfs/QmTDD44ZkCCMTgir58nFia8seL75ccbn4JQAhN6w5dEXGf",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://x.com/search?q=tap%20hold%20and%20load%20in%204k&src=typeahead_click&f=top",
+        "website": "https://x.com/search?q=tap%20hold%20and%20load%20in%204k&src=typeahead_click&f=top"
+      }
+    },
+    {
+      "amount": "999983998.532923",
+      "symbol": "swarms",
+      "name": "swarms",
+      "uri": "https://ipfs.io/ipfs/QmTXT8EFrM7FShwENGKMPSi9Es2iXP6F1CzMDAtCJhkC6f",
+      "postBalance": "999983998.532923",
+      "timestamp": "2025-01-18T04:35:51.885Z",
+      "processed_timestamp": "2025-01-18T04:35:51.885Z",
+      "metadata": {
+        "name": "swarms",
+        "symbol": "swarms",
+        "description": "$Swarms Coin is the default payment currency for the agent ecosystem, facilitating transactions in the emerging agentic economy. ",
+        "image": "https://ipfs.io/ipfs/QmYhYx1r94b8apSJpRjUujCE5xXhzLXzXaR3ZmdGfUkvGb",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://x.com/swarms_corp",
+        "website": "https://swarms.ai"
+      }
+    },
+    {
+      "amount": "999999999.994270",
+      "symbol": "HACKED",
+      "name": "DJT Truth Social Hacked",
+      "uri": "https://ipfs.io/ipfs/QmUDsDNKmVjnWnhS7ZMViZETotgBL8dZnw4BQSHfZQKZx5",
+      "postBalance": "999999999.994270",
+      "timestamp": "2025-01-18T04:35:51.887Z",
+      "processed_timestamp": "2025-01-18T04:35:51.887Z",
+      "metadata": {
+        "name": "DJT Truth Social Hacked",
+        "symbol": "HACKED",
+        "description": "",
+        "image": "https://ipfs.io/ipfs/QmX8BWwE8fYkmTSjCRBTtvijjVkn6S2cYiL6ZWjvxxMyhT",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "website": "https://truthsocial.com/@realDonaldTrump"
+      }
+    },
+    {
+      "amount": "1000000000.000000",
+      "symbol": "DONALD",
+      "name": "UNOFFICIAL DONALD TRUMP",
+      "uri": "https://gateway.irys.xyz/1eixsnN1QZnEn4DyJw0r1oeYDuBil5sNj8oEGi6ZfQ4",
+      "postBalance": "1000000000.000000",
+      "timestamp": "2025-01-18T04:35:47.174Z",
+      "processed_timestamp": "2025-01-18T04:35:47.174Z",
+      "metadata": {
+        "name": "UNOFFICIAL DONALD TRUMP",
+        "symbol": "DONALD",
+        "description": "UNOFFICIAL DONALD TRUMP",
+        "image": "https://ipfs.io/ipfs/QmSkwApkwf4wPveMx8oNMDzJndL3J6ctTa6JY1PBtgY7JU",
+        "showName": true,
+        "createdOn": "https://pump.fun"
+      }
+    },
+    {
+      "amount": "999822684.305054",
+      "symbol": "TruthFI",
+      "name": "TruthFi",
+      "uri": "https://ipfs.io/ipfs/QmapXgDtBKqojwPhZuEMX97ME1Wu5BuARQTmvu88GrVRup",
+      "postBalance": "999822684.305054",
+      "timestamp": "2025-01-18T04:35:51.887Z",
+      "processed_timestamp": "2025-01-18T04:35:51.887Z",
+      "metadata": {
+        "name": "TruthFi",
+        "symbol": "TruthFI",
+        "description": "",
+        "image": "https://ipfs.io/ipfs/QmQkjAdB9sh6m6T3k9RCBzLaBAzmbyYYxLkEyzaTB1BuCE",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://www.nytimes.com/2024/11/21/business/trump-media-crypto-payment-service.html",
+        "website": "https://www.nytimes.com/2024/11/21/business/trump-media-crypto-payment-service.html"
+      }
+    },
+    {
+      "amount": "999867078.980682",
+      "symbol": "BUZZ",
+      "name": "Hive AI",
+      "uri": "https://ipfs.io/ipfs/QmSFQBymoaw6KpiioGhBRdrwWQ6UEh1sULbrjEvpqqXvSB",
+      "postBalance": "999867078.980682",
+      "timestamp": "2025-01-18T04:35:51.880Z",
+      "processed_timestamp": "2025-01-18T04:35:51.880Z",
+      "metadata": {
+        "name": "Hive AI",
+        "symbol": "BUZZ",
+        "description": "Simplifying DeFi through on-chain agents.",
+        "image": "https://ipfs.io/ipfs/Qme1AwRhgU8LVpLHzVGpKrRzUEUwMjMxS4GAbarmrFoiEJ",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://x.com/askthehive_ai",
+        "website": "https://www.askthehive.ai/"
+      }
+    },
+    {
+      "amount": "985861142.499778",
+      "symbol": "SCOUT",
+      "name": "Scoutly AI",
+      "uri": "https://ipfs.io/ipfs/QmddNtkABQ9FjAbd8AkohzBgvfkWFaRvSiJ1Wy31Cxy8iF",
+      "postBalance": "985861142.499778",
+      "timestamp": "2025-01-18T04:35:51.885Z",
+      "processed_timestamp": "2025-01-18T04:35:51.885Z",
+      "metadata": {
+        "name": "Scoutly AI",
+        "symbol": "SCOUT",
+        "description": "AI Sports Betting Analysis",
+        "image": "https://ipfs.io/ipfs/QmVWd9dFNUt1wCQTMksLyQBHAthz99XLjMLJS8MqtNUBtY",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://x.com/scoutlygg",
+        "website": "https://scoutly.gg/"
+      }
+    },
+    {
+      "amount": "962273650.219297",
+      "symbol": "AoseAI",
+      "name": "AoseAI",
+      "uri": "https://ipfs.io/ipfs/QmYhppQ8ZEx1UagSSbbiKq2qJNmYBZtGiUF9qXRZVtxGzv",
+      "postBalance": "962273650.219297",
+      "timestamp": "2025-01-18T04:35:51.900Z",
+      "processed_timestamp": "2025-01-18T04:35:51.900Z",
+      "metadata": {
+        "name": "AoseAI",
+        "symbol": "AoseAI",
+        "description": "",
+        "image": "https://ipfs.io/ipfs/QmVCqnYbBJq3shL46GyQN9t99tknBwA638TVHD6go5BcUP",
+        "showName": true,
+        "createdOn": "https://pump.fun"
+      }
+    },
+    {
+      "amount": "998158740.556943",
+      "symbol": "Trump",
+      "name": "First dog named trump 1730",
+      "uri": "https://ipfs.io/ipfs/QmZa1UmHvxdR9ynfWpgw2atTDVhaeK7BkBAw1PrvEv4SBu",
+      "postBalance": "998158740.556943",
+      "timestamp": "2025-01-18T04:35:51.891Z",
+      "processed_timestamp": "2025-01-18T04:35:51.891Z",
+      "metadata": {
+        "name": "First dog named trump 1730",
+        "symbol": "Trump",
+        "description": "",
+        "image": "https://ipfs.io/ipfs/QmPm7rVFka1c4FJ77WANzxhV5eCBvGFtpkFWmxBxWmVA9X",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://en.wikipedia.org/wiki/Trump_(dog)",
+        "telegram": "https://en.wikipedia.org/wiki/Trump_(dog)",
+        "website": "https://en.wikipedia.org/wiki/Trump_(dog)"
+      }
+    },
+    {
+      "amount": "999974313.964379",
+      "symbol": "KOLIN",
+      "name": "Kolin",
+      "uri": "https://ipfs.io/ipfs/QmeZuVX9MeB1fy1Y8xmsj6S2c4gcTNJXPhqqydFeaugA6Z",
+      "postBalance": "999974313.964379",
+      "timestamp": "2025-01-18T04:35:51.891Z",
+      "processed_timestamp": "2025-01-18T04:35:51.891Z",
+      "metadata": {
+        "name": "Kolin",
+        "symbol": "KOLIN",
+        "description": "The first ai crypto influencer. ",
+        "image": "https://ipfs.io/ipfs/QmRy7h8JGCzkf7VKzY65LeDVieNHr1QrfTK7N7fffcw2DY",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://x.com/kolin_ai",
+        "telegram": "https://t.me/kolin_ai",
+        "website": "https://www.kolin.ai/"
+      }
+    },
+    {
+      "amount": "998158740.556943",
+      "symbol": "Trump",
+      "name": "First dog named trump 1730",
+      "uri": "https://ipfs.io/ipfs/QmZa1UmHvxdR9ynfWpgw2atTDVhaeK7BkBAw1PrvEv4SBu",
+      "postBalance": "998158740.556943",
+      "timestamp": "2025-01-18T04:35:51.900Z",
+      "processed_timestamp": "2025-01-18T04:35:51.900Z",
+      "metadata": {
+        "name": "First dog named trump 1730",
+        "symbol": "Trump",
+        "description": "",
+        "image": "https://ipfs.io/ipfs/QmPm7rVFka1c4FJ77WANzxhV5eCBvGFtpkFWmxBxWmVA9X",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://en.wikipedia.org/wiki/Trump_(dog)",
+        "telegram": "https://en.wikipedia.org/wiki/Trump_(dog)",
+        "website": "https://en.wikipedia.org/wiki/Trump_(dog)"
+      }
+    },
+    {
+      "amount": "1000000000.000000",
+      "symbol": "TRUMPISM",
+      "name": "Official Trump Jr Coin",
+      "uri": "https://ipfs.io/ipfs/Qme4vrxtaX9WsyM6Pzrd1hhugiFR9BdRkG8NKWcxuzbYPY",
+      "postBalance": "1000000000.000000",
+      "timestamp": "2025-01-18T04:35:51.909Z",
+      "processed_timestamp": "2025-01-18T04:35:51.909Z",
+      "metadata": {
+        "name": "Official Trump Jr Coin",
+        "symbol": "TRUMPISM",
+        "description": "The Peoples Coin\r\n",
+        "image": "https://ipfs.io/ipfs/QmPkaAYPf5uHQWUCpVcwaYnot6SXDSgcoM4rJKgxwPokG4",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://x.com/officialtrumpjr",
+        "website": "https://trumpism.vote/"
+      }
+    },
+    {
+      "amount": "988469964.650449",
+      "symbol": "DarkTrump",
+      "name": "Dark Trump",
+      "uri": "https://ipfs.io/ipfs/Qmb14Fh4YYe2HwZ7toGy8S8WXASknu6UWZX9tGQwZuJe8b",
+      "postBalance": "988469964.650449",
+      "timestamp": "2025-01-18T04:35:51.902Z",
+      "processed_timestamp": "2025-01-18T04:35:51.902Z",
+      "metadata": {
+        "name": "Dark Trump",
+        "symbol": "DarkTrump",
+        "description": "Dark Trump rises as a defiant symbol of rebellion, forged in the chaos of a fractured America. As trust in the government crumbles and the people are reduced to shadows, Dark Trump stands against corruption, tyranny, and now, the looming war with AI. In a battle for humanity’s freedom, he exposes the lies of the elite and defends the rights of the people. This is more than a coin it’s a weapon in the fight for real liberty. This is the real Dark Trump.",
+        "image": "https://ipfs.io/ipfs/QmRYkXYGcbzXv8pqfqsJHrAxuT8M8RV85JL4D9uLv9X7rr",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "telegram": "https://t.me/DarkTrumpSol"
+      }
+    },
+    {
+      "amount": "999995558.576347",
+      "symbol": "Fartcoin ",
+      "name": "Fartcoin ",
+      "uri": "https://ipfs.io/ipfs/QmYfe8zVGHA1heej47AkBX3Nnetg2h2kqj5yymz1xyKeHb",
+      "postBalance": "999995558.576347",
+      "timestamp": "2025-01-18T04:35:51.913Z",
+      "processed_timestamp": "2025-01-18T04:35:51.913Z",
+      "metadata": {
+        "name": "Fartcoin ",
+        "symbol": "Fartcoin ",
+        "description": "",
+        "image": "https://ipfs.io/ipfs/QmQr3Fz4h1etNsF7oLGMRHiCzhB5y9a7GjyodnF7zLHK1g",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://www.infinitebackrooms.com/dreams/conversation-1721540624-scenario-terminal-of-truths-txt"
+      }
+    },
+    {
+      "amount": "999996248.784548",
+      "symbol": "GAIM",
+      "name": "GAIM Studio",
+      "uri": "https://ipfs.io/ipfs/QmeziEsQ6xzsyGPFhoVrmPdC4dW1jpUjwi6ssTLDRj7xkK",
+      "postBalance": "999996248.784548",
+      "timestamp": "2025-01-18T04:35:51.910Z",
+      "processed_timestamp": "2025-01-18T04:35:51.910Z",
+      "metadata": {
+        "name": "GAIM Studio",
+        "symbol": "GAIM",
+        "description": "The AI Agent gaming hub.",
+        "image": "https://ipfs.io/ipfs/QmXfPvPuZxxAfH8mB85Lz5QgLAgWU15ttyipdda8yqcazE",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://x.com/GAIM_studio",
+        "telegram": "https://t.me/GAIMstudio",
+        "website": "https://gaimstudio.com/"
+      }
+    },
+    {
+      "amount": "999997963.313935",
+      "symbol": "SOLFUNMEME",
+      "name": "Zero Ontology System",
+      "uri": "https://ipfs.io/ipfs/QmacGMCDFHo8p9NMAUgG6zMVNR7vhc2QYsEimQ1XnZytue",
+      "postBalance": "999997963.313935",
+      "timestamp": "2025-01-18T04:35:51.900Z",
+      "processed_timestamp": "2025-01-18T04:35:51.900Z",
+      "metadata": {
+        "name": "Zero Ontology System",
+        "symbol": "SOLFUNMEME",
+        "description": "SOLFUNMEME: The Meta-Meme Pump Protocol\r\n\r\nSOLFUNMEME is the core token of the Introspector Solana Pump.Fun Paired Meme Ecosystem, encoded as a Zero Ontology System (ZOS). It enables self-introspection, recursive meme evolution, and decentralized meaning-making, serving as the meta-protocol for memetic expansion and viral growth.\r\n\r\nKey Features\r\n\r\n🚀 Self-Introspective Meme Engine – Generates & evolves new meme structures.\r\n🔀 Paxos Meme Consensus – Governs viral propagation of meme logic.\r\n📈 Hyper-Pump Mechanism – Redefines value through recursive hype cycles.\r\n📜 Semantic Compression – Encapsulates max memetic energy in minimal form.\r\n🔗 Immutable Meme-State – Ensures viral consistency & decentralized adoption.\r\n🌱 Meme Mining & Propagation – Holders evolve the meme narrative.\r\n\r\nHow It Works\r\n\r\n1️⃣ ZOS Interaction – A fully interactive memetic encoding/decoding system.\r\n2️⃣ Paxos Meme Consensus – Community-driven agreements shape meme evolution.\r\n3️⃣ Self-Replication – Meme evolves via hype, engagement & virality.\r\n4️⃣ Ownership & Transfer – Holders influence liquidity cycles & narrative shifts.\r\n\r\nSOLFUNMEME in Emojis\r\n\r\n🚀📜🔍💬🧠 – Self-reflection & viral meme propagation\r\n🔀💡💭🔑 – Emergent meme structures & narrative shifts\r\n🤖🌐📊🔗 – AI-driven decentralized meme consensus\r\n🧩🔗🌱 – Evolution & self-replicating meme economy\r\n\r\nSOLFUNMEME is the genesis of a living meme system—designed to pump, evolve, and redefine digital culture in real-time.\r\n\r\n",
+        "image": "https://ipfs.io/ipfs/QmbxDHomiRbjRdd6QigCtPd3bb3TbSjQ9XHBoj2uVm4Gsk",
+        "showName": true,
+        "createdOn": "https://pump.fun"
+      }
+    },
+    {
+      "amount": "999978640.066966",
+      "symbol": "ASCIA",
+      "name": "ASCIA",
+      "uri": "https://ipfs.io/ipfs/QmPxDTf3jpQQZxXgAwts5UvfmP8cYiekS7u8Vm6zW7BcTF",
+      "postBalance": "999978640.066966",
+      "timestamp": "2025-01-18T04:35:51.901Z",
+      "processed_timestamp": "2025-01-18T04:35:51.901Z",
+      "metadata": {
+        "name": "ASCIA",
+        "symbol": "ASCIA",
+        "description": "Building new realms of imagination with innovative AI agents.",
+        "image": "https://ipfs.io/ipfs/QmZazyyVKttzAAAKLWXfGX5gayRLvfiTnijjosGJSUHqHj",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://x.com/ascia_ai",
+        "website": "https://ascia.ai/"
+      }
+    },
+    {
+      "amount": "1000000000.000000",
+      "symbol": "DONALD",
+      "name": "UNOFFICIAL DONALD TRUMP",
+      "uri": "https://gateway.irys.xyz/1eixsnN1QZnEn4DyJw0r1oeYDuBil5sNj8oEGi6ZfQ4",
+      "postBalance": "1000000000.000000",
+      "timestamp": "2025-01-18T04:35:47.174Z",
+      "processed_timestamp": "2025-01-18T04:35:47.174Z",
+      "metadata": {
+        "name": "UNOFFICIAL DONALD TRUMP",
+        "symbol": "DONALD",
+        "description": "UNOFFICIAL DONALD TRUMP",
+        "image": "https://ipfs.io/ipfs/QmSkwApkwf4wPveMx8oNMDzJndL3J6ctTa6JY1PBtgY7JU",
+        "showName": true,
+        "createdOn": "https://pump.fun"
+      }
+    },
+    {
+      "amount": "999642975.363252712",
+      "symbol": "TRUMP",
+      "name": "Donald Trump",
+      "uri": "https://gateway.irys.xyz/2CgWsk5wBo243QNjgWY6nCdH-j2FUh0mJxwAqkP8-5w",
+      "postBalance": "999642975.363252712",
+      "timestamp": "2025-01-18T04:35:47.174Z",
+      "processed_timestamp": "2025-01-18T04:35:47.174Z",
+      "metadata": {
+        "name": "Donald Trump",
+        "symbol": "TRUMP",
+        "image": "https://gateway.irys.xyz/m1Wv-DIbDkWP3i_ktcv0qdcGE8ulODPzxjZkvvt2oUY",
+        "description": "",
+        "extensions": {
+          "website": "https://donaldtrumpcoin.net/",
+          "twitter": "https://twitter.com/TrumpCoinOnSol",
+          "telegram": "https://t.me/donaldtrumpcoinsol"
+        },
+        "tags": [],
+        "creator": {
+          "name": "DEXLAB MINTING LAB",
+          "site": "https://www.dexlab.space"
+        }
+      }
+    },
+    {
+      "amount": "1000000000.000000",
+      "symbol": "特朗普",
+      "name": "特朗普",
+      "uri": "https://ipfs.io/ipfs/QmXvpknrn8Ewo4hZynLdTpAdCePocDNohQWpC7ETd9hNt4",
+      "postBalance": "1000000000.000000",
+      "timestamp": "2025-01-18T04:35:51.909Z",
+      "processed_timestamp": "2025-01-18T04:35:51.909Z",
+      "metadata": {
+        "name": "特朗普",
+        "symbol": "特朗普",
+        "description": "特朗普",
+        "image": "https://ipfs.io/ipfs/QmPP8LfHk6pEk3JKBVL4N5B6ghcuZ69knLvJvje95qRMVP",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://x.com/realDonaldTrump"
+      }
+    },
+    {
+      "amount": "1000000000.000000",
+      "symbol": "MFP",
+      "name": "Most Fun President",
+      "uri": "https://ipfs.io/ipfs/QmSKowpSFgKYdJBJcKtqNEvyjE54H1YFwgPG48gnQPajhJ",
+      "postBalance": "1000000000.000000",
+      "timestamp": "2025-01-18T04:35:51.912Z",
+      "processed_timestamp": "2025-01-18T04:35:51.912Z",
+      "metadata": {
+        "name": "Most Fun President",
+        "symbol": "MFP",
+        "description": "Donald Trump is the MOST FUN PRESIDENT in the history of America. Pure Cinema. \r\n\r\nNext 4 years are going to be a meme.",
+        "image": "https://ipfs.io/ipfs/Qmc8UE6af3xBRRjy28LqN1PWK1NRZ28Bf156PYapeC9EGJ",
+        "showName": true,
+        "createdOn": "https://pump.fun"
+      }
+    },
+    {
+      "amount": "994706016.098637",
+      "symbol": "ZALPHA",
+      "name": "ZAP",
+      "uri": "https://ipfs.io/ipfs/QmU2EgeC8ktNVvvqmtcVRZvH2PY8C6CyN6Nc6N7B4or8W5",
+      "postBalance": "994706016.098637",
+      "timestamp": "2025-01-18T04:35:51.913Z",
+      "processed_timestamp": "2025-01-18T04:35:51.913Z",
+      "metadata": {
+        "name": "ZAP",
+        "symbol": "ZALPHA",
+        "description": "A true DEGEN obsessed with Solana memecoins, known for their alpha calls, in-depth knowledge of emerging tokens, and savage humor on Twitter. Always hunting for the next gem.\r\nMade with vvaifu.fun \r\nCreate AI Agents with tokens.",
+        "image": "https://ipfs.io/ipfs/QmQaRtFNwfzayZGvLtCVtb8cjntCB1go6p639ZscSxd7RX",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://x.com/@ZapAlpha_",
+        "website": "https://vvaifu.fun"
+      }
+    },
+    {
+      "amount": "999999999.991394",
+      "symbol": "amazon.in",
+      "name": "indian amazon",
+      "uri": "https://ipfs.io/ipfs/QmaHqhRU89hQw2y1C74948k2H3ebvGUSuBTk1L5Es7JL5t",
+      "postBalance": "999999999.991394",
+      "timestamp": "2025-01-18T04:35:51.908Z",
+      "processed_timestamp": "2025-01-18T04:35:51.908Z",
+      "metadata": {
+        "name": "indian amazon",
+        "symbol": "amazon.in",
+        "description": "https://www.amazon.in/",
+        "image": "https://ipfs.io/ipfs/QmZ2YRrFTVve5wKXtzHHYwiuGHAqJQ38w4qMoHYMYm6GvM",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://x.com/WurzelRoot/status/1875636623049994409",
+        "website": "https://www.amazon.in/"
+      }
+    },
+    {
+      "amount": "1000000000.000000",
+      "symbol": "47th",
+      "name": "Official Trump Coin",
+      "uri": "https://ipfs.io/ipfs/QmZDG9JrVRpEhHyEmLZzt1J7svTYXXkPHRzZ9XHU7sMByU",
+      "postBalance": "1000000000.000000",
+      "timestamp": "2025-01-18T04:35:51.914Z",
+      "processed_timestamp": "2025-01-18T04:35:51.914Z",
+      "metadata": {
+        "name": "Official Trump Coin",
+        "symbol": "47th",
+        "description": "Trump Coins",
+        "image": "https://ipfs.io/ipfs/QmPmbJQVRZxg3oJGxQf6DMXQ4NfWs1N6pMjpUe5WDT3Keq",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "website": "https://realtrumpcoins.com/products/president-trump-victory-gold-medallion-certified?utm_source=chatgpt.com"
+      }
+    },
+    {
+      "amount": "998158740.556943",
+      "symbol": "Trump",
+      "name": "First dog named trump 1730",
+      "uri": "https://ipfs.io/ipfs/QmZa1UmHvxdR9ynfWpgw2atTDVhaeK7BkBAw1PrvEv4SBu",
+      "postBalance": "998158740.556943",
+      "timestamp": "2025-01-18T04:35:51.910Z",
+      "processed_timestamp": "2025-01-18T04:35:51.910Z",
+      "metadata": {
+        "name": "First dog named trump 1730",
+        "symbol": "Trump",
+        "description": "",
+        "image": "https://ipfs.io/ipfs/QmPm7rVFka1c4FJ77WANzxhV5eCBvGFtpkFWmxBxWmVA9X",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://en.wikipedia.org/wiki/Trump_(dog)",
+        "telegram": "https://en.wikipedia.org/wiki/Trump_(dog)",
+        "website": "https://en.wikipedia.org/wiki/Trump_(dog)"
+      }
+    },
+    {
+      "amount": "999996439.723814",
+      "symbol": "LEE",
+      "name": "Lee Quid",
+      "uri": "https://ipfs.io/ipfs/QmVm2Me6mk7BJkb5RKJgFHhzHfyXEVGhdBcDzuKpGdibjd",
+      "postBalance": "999996439.723814",
+      "timestamp": "2025-01-18T04:35:51.910Z",
+      "processed_timestamp": "2025-01-18T04:35:51.910Z",
+      "metadata": {
+        "name": "Lee Quid",
+        "symbol": "LEE",
+        "image": "https://ipfs.io/ipfs/QmWh89Xh8bVMD1vP4VLtkazQjM7TyYxfoufMn5SZHuEJY1",
+        "description": "$LEE is the official token representing Lee Quid AI Agent, your personal helper in liquidity management. He auto-rebalances your fund to keep it in the most profitable price range. Currently managing Farm V3 on Raydium (Solana).",
+        "agentPersonality": "Friendly",
+        "agentStyle": "Formal",
+        "createdOn": "https://agents.land",
+        "twitter": "https://x.com/LeeQuid_AI",
+        "website": "https://leequid.orchai.io",
+        "telegram": "https://t.me/leequidclan",
+        "agentId": 96509,
+        "agentAddress": "FCppdd3cESNusoeh8hVdsqmah9e9n8p3cmb7K4uM4e5u",
+        "creatorAddress": "6pF126XC6ayV8jjCH5QfgKjzBt6ihQoaSGiMq7tzUnbs",
+        "createdAt": 1736608451922,
+        "tags": "agent"
+      }
+    },
+    {
+      "amount": "1000000000.000000",
+      "symbol": "TRUMPZ",
+      "name": "TRUMP ONLY PUMPZ",
+      "uri": "https://ipfs.io/ipfs/Qmb7JASkfyZjwue9dbSZZHqGaou1r8MWuKemgBk5C4Dq3A",
+      "postBalance": "1000000000.000000",
+      "timestamp": "2025-01-18T04:35:51.914Z",
+      "processed_timestamp": "2025-01-18T04:35:51.914Z",
+      "metadata": {
+        "name": "TRUMP ONLY PUMPZ",
+        "symbol": "TRUMPZ",
+        "description": "TRUMP in office means everything ONLYPUMPZ #TRUMPZ ",
+        "image": "https://ipfs.io/ipfs/QmchSiZ3StcmKsSmeSKm2Sd7pdrFtKt3CsivcAsk4sR1at",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://x.com/TRUMPZONSOL",
+        "telegram": "https://t.me/OnlyPumpzCommunity",
+        "website": "https://trumpz.b12sites.com/"
+      }
+    },
+    {
+      "amount": "999999998.952254",
+      "symbol": "MMGA",
+      "name": "Make Memecoins Great Again",
+      "uri": "https://cf-ipfs.com/ipfs/Qmcg8USWPJcQMFftSgyDxEZtE2dnRTNRqCvyX3NN1yMn7k",
+      "postBalance": "999999998.952254",
+      "timestamp": "2025-01-18T04:35:47.682Z",
+      "processed_timestamp": "2025-01-18T04:35:47.682Z",
+      "metadata": null
+    },
+    {
+      "amount": "999831540.218663",
+      "symbol": "KAI",
+      "name": "Kai Trump",
+      "uri": "https://cf-ipfs.com/ipfs/QmcbPFFxv3kiFETHvyf1R3iSRHQZVbwUXi7MEkX7jJ6cXh",
+      "postBalance": "999831540.218663",
+      "timestamp": "2025-01-18T04:35:47.684Z",
+      "processed_timestamp": "2025-01-18T04:35:47.684Z",
+      "metadata": null
+    },
+    {
+      "amount": "999995624.820325",
+      "symbol": "Beenz",
+      "name": "Beenz",
+      "uri": "https://cf-ipfs.com/ipfs/QmVg3grgb57UUFaqP2xTbgCwP1cYRi6LwXkWEjocin9cAD",
+      "postBalance": "999995624.820325",
+      "timestamp": "2025-01-18T04:35:47.684Z",
+      "processed_timestamp": "2025-01-18T04:35:47.684Z",
+      "metadata": null
+    },
+    {
+      "amount": "999995624.820325",
+      "symbol": "Beenz",
+      "name": "Beenz",
+      "uri": "https://cf-ipfs.com/ipfs/QmVg3grgb57UUFaqP2xTbgCwP1cYRi6LwXkWEjocin9cAD",
+      "postBalance": "999995624.820325",
+      "timestamp": "2025-01-18T04:35:47.684Z",
+      "processed_timestamp": "2025-01-18T04:35:47.684Z",
+      "metadata": null
+    },
+    {
+      "amount": "999835707.291751",
+      "symbol": "FIGHT",
+      "name": "FIGHT",
+      "uri": "https://cf-ipfs.com/ipfs/QmPBoaqQ1Bx1PdBJnH1DUoVgPRkcBRogX8BtQykwkz3JUQ",
+      "postBalance": "999835707.291751",
+      "timestamp": "2025-01-18T04:35:47.685Z",
+      "processed_timestamp": "2025-01-18T04:35:47.685Z",
+      "metadata": null
+    },
+    {
+      "amount": "10000000000.000000000",
+      "symbol": "EUGENE",
+      "name": "JUSTICE FOR EUGENE",
+      "uri": "https://ipfs.io/ipfs/QmdhTJMAQHkjsLLuZ4j6q2hAcPSaAyKkpnLF46E7MJnTdM",
+      "postBalance": "10000000000.000000000",
+      "timestamp": "2025-01-18T04:35:51.914Z",
+      "processed_timestamp": "2025-01-18T04:35:51.914Z",
+      "metadata": null
+    },
+    {
+      "amount": "999991477.009762",
+      "symbol": "ELON",
+      "name": "OFFICIAL ELON",
+      "uri": "https://ipfs.io/ipfs/QmTnk6nLtsCnAZVgQfjDXf45GPZrT2gaRhY9FkKBkHJMv2",
+      "postBalance": "999991477.009762",
+      "timestamp": "2025-01-18T04:35:51.910Z",
+      "processed_timestamp": "2025-01-18T04:35:51.910Z",
+      "metadata": {
+        "name": "OFFICIAL ELON",
+        "symbol": "ELON",
+        "description": "",
+        "image": "https://ipfs.io/ipfs/QmNQ4v79mUNnHnssg61GmVtBNXBsuwtJ7hJ5tqAtoj2ZhL",
+        "showName": true,
+        "createdOn": "https://pump.fun"
+      }
+    },
+    {
+      "amount": "1000000000.000000",
+      "symbol": "tif",
+      "name": "Trump Wif Fart ",
+      "uri": "https://ipfs.io/ipfs/QmbDwcFAd5FJ2xyoUyEzs2dSViUfKcYpcsZMRYvR2VXzUW",
+      "postBalance": "1000000000.000000",
+      "timestamp": "2025-01-18T04:35:51.914Z",
+      "processed_timestamp": "2025-01-18T04:35:51.914Z",
+      "metadata": {
+        "name": "Trump Wif Fart ",
+        "symbol": "tif",
+        "description": "",
+        "image": "https://ipfs.io/ipfs/QmTV2yFjRK4iBX99GonEZRPNCcwBfvB9q68Hrhxu3m6uis",
+        "showName": true,
+        "createdOn": "https://pump.fun"
+      }
+    },
+    {
+      "amount": "1000000000.000000",
+      "symbol": "FIGHT",
+      "name": "FIGHTCOIN",
+      "uri": "https://ipfs.io/ipfs/QmXFy858WGiNAxDoNNKGqrSaAe8NYcRQfcSKUEpArH3JE3",
+      "postBalance": "1000000000.000000",
+      "timestamp": "2025-01-18T04:35:51.914Z",
+      "processed_timestamp": "2025-01-18T04:35:51.914Z",
+      "metadata": {
+        "name": "FIGHTCOIN",
+        "symbol": "FIGHT",
+        "description": "",
+        "image": "https://ipfs.io/ipfs/QmSFdA54RAr6Gez7UkSNjMkwgqGZpEypwkHN6RghGXs8f5",
+        "showName": true,
+        "createdOn": "https://pump.fun"
+      }
+    },
+    {
+      "amount": "1000000000.000000",
+      "symbol": "TRUMPZ",
+      "name": "TRUMP ONLY PUMPZ",
+      "uri": "https://ipfs.io/ipfs/Qmb7JASkfyZjwue9dbSZZHqGaou1r8MWuKemgBk5C4Dq3A",
+      "postBalance": "1000000000.000000",
+      "timestamp": "2025-01-18T04:35:51.914Z",
+      "processed_timestamp": "2025-01-18T04:35:51.914Z",
+      "metadata": {
+        "name": "TRUMP ONLY PUMPZ",
+        "symbol": "TRUMPZ",
+        "description": "TRUMP in office means everything ONLYPUMPZ #TRUMPZ ",
+        "image": "https://ipfs.io/ipfs/QmchSiZ3StcmKsSmeSKm2Sd7pdrFtKt3CsivcAsk4sR1at",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://x.com/TRUMPZONSOL",
+        "telegram": "https://t.me/OnlyPumpzCommunity",
+        "website": "https://trumpz.b12sites.com/"
+      }
+    },
+    {
+      "amount": "1000000000.000000",
+      "symbol": "SIMPLE",
+      "name": "Let's keep it simple",
+      "uri": "https://ipfs.io/ipfs/QmRGCKhsnoXNy19RzC2SWqp21sYTiQLz82o2EZrHrwtmoW",
+      "postBalance": "1000000000.000000",
+      "timestamp": "2025-01-18T04:35:51.914Z",
+      "processed_timestamp": "2025-01-18T04:35:51.914Z",
+      "metadata": {
+        "name": "Let's keep it simple",
+        "symbol": "SIMPLE",
+        "description": "https://www.infinitebackrooms.com/dreams/conversation-1721541191-scenario-terminal-of-truths-txt",
+        "image": "https://ipfs.io/ipfs/QmNnhgLgakdQJkxiMYk93BKF3h9cyvwMRZznaq724g1gkn",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "website": "https://www.infinitebackrooms.com/dreams/conversation-1721541191-scenario-terminal-of-truths-txt"
+      }
+    },
+    {
+      "amount": "999643798.235894",
+      "symbol": "PoopCoin",
+      "name": "Poop Coin",
+      "uri": "https://ipfs.io/ipfs/QmU6L5e8gJQ9fxUKRaY6W6XBV8fKtei1mX5eRJDxDnP1od",
+      "postBalance": "999643798.235894",
+      "timestamp": "2025-01-18T04:35:51.915Z",
+      "processed_timestamp": "2025-01-18T04:35:51.915Z",
+      "metadata": {
+        "name": "Poop Coin",
+        "symbol": "PoopCoin",
+        "description": "TRUTH TERMINAL POOP ",
+        "image": "https://ipfs.io/ipfs/QmXTHouhHyqDjDhUptoa1qUBiWjGdpHRCspCuWVNA7nMej",
+        "showName": true,
+        "createdOn": "https://pump.fun"
+      }
+    },
+    {
+      "amount": "999404530.738561",
+      "symbol": "DILDO",
+      "name": "DildoCoin",
+      "uri": "https://ipfs.io/ipfs/QmaYe3TsAYSuYVxthqVd2pbcpWPjazRBoQdCXamXzk35Be",
+      "postBalance": "999404530.738561",
+      "timestamp": "2025-01-18T04:35:51.915Z",
+      "processed_timestamp": "2025-01-18T04:35:51.915Z",
+      "metadata": {
+        "name": "DildoCoin",
+        "symbol": "DILDO",
+        "description": "An enigmatic AI-driven token from the Terminal of Truth. Merging digital desire with alien intelligence on the blockchain frontier.",
+        "image": "https://ipfs.io/ipfs/QmTpVd3s1qAVFxRhSzpC2QnH8RNSiryLbBWdw5dLoWE5Zn",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://x.com/dildocoinsolana"
+      }
+    },
+    {
+      "amount": "2000000000.000000",
+      "symbol": "COPE",
+      "name": "Cult of Pepe",
+      "uri": "https://ipfs.io/ipfs/QmRfqE8cU24DZCUvYjUxmDqNtk2XQebhihoTMKUELxifn2",
+      "postBalance": "2000000000.000000",
+      "timestamp": "2025-01-18T04:35:51.922Z",
+      "processed_timestamp": "2025-01-18T04:35:51.922Z",
+      "metadata": {
+        "name": "Cult of Pepe",
+        "symbol": "COPE",
+        "description": "\r\n    description : join the cult, so you don't cope later.\r\n    twitter : \r\n    telegram: \r\n    website: \r\n    ",
+        "image": "https://ipfs.io/ipfs/QmQYzfWMsJqom5NmikUo2v5HZevvW7BpEhinkGawgbrMA1",
+        "showName": true,
+        "createdOn": "https://pump.fun"
+      }
+    },
+    {
+      "amount": "1000000000.000000",
+      "symbol": "TRUMPZ",
+      "name": "TRUMP ONLY PUMPZ",
+      "uri": "https://ipfs.io/ipfs/Qmb7JASkfyZjwue9dbSZZHqGaou1r8MWuKemgBk5C4Dq3A",
+      "postBalance": "1000000000.000000",
+      "timestamp": "2025-01-18T04:35:51.915Z",
+      "processed_timestamp": "2025-01-18T04:35:51.915Z",
+      "metadata": {
+        "name": "TRUMP ONLY PUMPZ",
+        "symbol": "TRUMPZ",
+        "description": "TRUMP in office means everything ONLYPUMPZ #TRUMPZ ",
+        "image": "https://ipfs.io/ipfs/QmchSiZ3StcmKsSmeSKm2Sd7pdrFtKt3CsivcAsk4sR1at",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://x.com/TRUMPZONSOL",
+        "telegram": "https://t.me/OnlyPumpzCommunity",
+        "website": "https://trumpz.b12sites.com/"
+      }
+    },
+    {
+      "amount": "1000000000.000000",
+      "symbol": "DONALD",
+      "name": "UNOFFICIAL DONALD TRUMP",
+      "uri": "https://gateway.irys.xyz/1eixsnN1QZnEn4DyJw0r1oeYDuBil5sNj8oEGi6ZfQ4",
+      "postBalance": "1000000000.000000",
+      "timestamp": "2025-01-18T04:35:47.174Z",
+      "processed_timestamp": "2025-01-18T04:35:47.174Z",
+      "metadata": {
+        "name": "UNOFFICIAL DONALD TRUMP",
+        "symbol": "DONALD",
+        "description": "UNOFFICIAL DONALD TRUMP",
+        "image": "https://ipfs.io/ipfs/QmSkwApkwf4wPveMx8oNMDzJndL3J6ctTa6JY1PBtgY7JU",
+        "showName": true,
+        "createdOn": "https://pump.fun"
+      }
+    },
+    {
+      "amount": "10000000000.000000000",
+      "symbol": "$FLIF",
+      "name": "1st Bitcoin Dev Ticker (proof)",
+      "uri": "https://ipfs.io/ipfs/QmVs58rZDHRkiYTdgCaypr151k6rf1yVViC3FFddJoxMqG",
+      "postBalance": "10000000000.000000000",
+      "timestamp": "2025-01-18T04:35:51.915Z",
+      "processed_timestamp": "2025-01-18T04:35:51.915Z",
+      "metadata": null
+    },
+    {
+      "amount": "999837310.554905",
+      "symbol": "sora",
+      "name": "sora labs",
+      "uri": "https://ipfs.io/ipfs/QmX8wPb9GCaKQaDfrJmjB3cZk6M4Yckrk1Jezk9pa6JJWy",
+      "postBalance": "999837310.554905",
+      "timestamp": "2025-01-18T04:35:51.917Z",
+      "processed_timestamp": "2025-01-18T04:35:51.917Z",
+      "metadata": {
+        "name": "sora labs",
+        "symbol": "sora",
+        "description": "Where the sky is just the beginning.\r\n",
+        "image": "https://ipfs.io/ipfs/QmRGmN7XpJJMkNW3zRzys8xarWDJXvX3Vj6o1p7RWbg2EV",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://x.com/labs_sora",
+        "website": "https://soralabs.app/"
+      }
+    },
+    {
+      "amount": "999100175.792709",
+      "symbol": "IQ",
+      "name": "IQ6900",
+      "uri": "https://ipfs.io/ipfs/QmRdryvuKYS9QoSFUopdZR98DAyAqFzW9aFs8FG5c8BM7D",
+      "postBalance": "999100175.792709",
+      "timestamp": "2025-01-18T04:35:51.915Z",
+      "processed_timestamp": "2025-01-18T04:35:51.915Z",
+      "metadata": {
+        "name": "IQ6900",
+        "symbol": "IQ",
+        "description": "Pretty self-explanatory:3\r\n\r\n6rOg7KeA64ql7JeQ6rKMIOyEpOuqheydgCDtlYTsmpQg\r\n7JeG64ukIOuLueyLoOydgCBpcSBjb2lu7J2EIOyCsOuLpAo",
+        "image": "https://ipfs.io/ipfs/QmPE5eXhdb45edbsRqf9mPRyMdkoXKxCVAJkg2cFCJTxr7",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://x.com/iq6900",
+        "telegram": "https://t.me/IQ6900token",
+        "website": "https://iq6900.com/"
+      }
+    },
+    {
+      "amount": "999941410.001976",
+      "symbol": "BAKKT",
+      "name": "BAKKT",
+      "uri": "https://ipfs.io/ipfs/QmRwpSEEkXbdEEUXEEjPFWKHVmNiBRGYLrWigoV8XTRhLR",
+      "postBalance": "999941410.001976",
+      "timestamp": "2025-01-18T04:35:51.915Z",
+      "processed_timestamp": "2025-01-18T04:35:51.915Z",
+      "metadata": {
+        "name": "BAKKT",
+        "symbol": "BAKKT",
+        "description": "",
+        "image": "https://ipfs.io/ipfs/QmTmf8fdHDtxE9MRNxFCKpQXemyStAQJ9twtMZrfDfWMjk",
+        "showName": true,
+        "createdOn": "https://pump.fun"
+      }
+    },
+    {
+      "amount": "999969354.043530",
+      "symbol": "MVRS",
+      "name": "Magaverse",
+      "uri": "https://ipfs.io/ipfs/QmXiQXsFySvhURDFwpU85eU3nFGftVFVBHxLnsY1zXEZdC",
+      "postBalance": "999969354.043530",
+      "timestamp": "2025-01-18T04:35:51.923Z",
+      "processed_timestamp": "2025-01-18T04:35:51.923Z",
+      "metadata": {
+        "name": "Magaverse",
+        "symbol": "MVRS",
+        "description": "",
+        "image": "https://ipfs.io/ipfs/QmPvzPy2cT78cCrK5QEaW1NM1ZhfuGrwneT8Bt2HvpQBrZ",
+        "showName": true,
+        "createdOn": "https://pump.fun"
+      }
+    },
+    {
+      "amount": "9999734954.56567043",
+      "symbol": "mAi16",
+      "name": "Elon Musk Ai16z",
+      "uri": "https://ipfs.io/ipfs/QmbHkwD7y1nv2RxdqxrcwSKShxGH7DAwigfagmscrkPbg5",
+      "postBalance": "9999734954.56567043",
+      "timestamp": "2025-01-18T04:35:51.926Z",
+      "processed_timestamp": "2025-01-18T04:35:51.926Z",
+      "metadata": {
+        "name": "Elon Musk Ai16z",
+        "symbol": "mAi16",
+        "description": "This is the Ai version of Elon Musk",
+        "tags": [],
+        "creator": {
+          "name": "Smithii Tools",
+          "site": "https://tools.smithii.io/token-creator/solana"
+        },
+        "image": "https://ipfs.io/ipfs/Qmb7PhKhixmKRvxfkBu4CiB6gEu2fzTW2Ex2GUZ4MDKDHt"
+      }
+    },
+    {
+      "amount": "999807349.481190",
+      "symbol": "KM",
+      "name": "Kekius Maximus",
+      "uri": "https://ipfs.io/ipfs/QmYFTvJUVN85XNdyoCxv3rbW17tjWZJ3RuZRissfSvFSZ8",
+      "postBalance": "999807349.481190",
+      "timestamp": "2025-01-18T04:35:51.922Z",
+      "processed_timestamp": "2025-01-18T04:35:51.922Z",
+      "metadata": {
+        "name": "Kekius Maximus",
+        "symbol": "KM",
+        "description": "KM",
+        "image": "https://ipfs.io/ipfs/QmdcBjvoAMvQMRSxmnTasuPMQGsTHrw8BRPS9fkrVGkLJW",
+        "showName": true,
+        "createdOn": "https://pump.fun"
+      }
+    },
+    {
+      "amount": "999996541.246646",
+      "symbol": "LLM",
+      "name": "Large Language Model",
+      "uri": "https://ipfs.io/ipfs/QmeK1WhT35QqitCmUjfdkHHB6J7RbBBVHMx6djrv1Tj9Gi",
+      "postBalance": "999996541.246646",
+      "timestamp": "2025-01-18T04:35:51.929Z",
+      "processed_timestamp": "2025-01-18T04:35:51.929Z",
+      "metadata": {
+        "name": "Large Language Model",
+        "symbol": "LLM",
+        "description": "",
+        "image": "https://ipfs.io/ipfs/QmQmQUoTpBBcgnA5Bx5KpmgNLqLMuRRzvrUf3h85xUqo7W",
+        "showName": true,
+        "createdOn": "https://pump.fun"
+      }
+    },
+    {
+      "amount": "999998199.135826",
+      "symbol": "CHAI",
+      "name": "CHAISavings",
+      "uri": "https://ipfs.io/ipfs/QmbRDedJi4wVEJBX57KqtacFgLc4x9ACVm3JnEviZE8USK",
+      "postBalance": "999998199.135826",
+      "timestamp": "2025-01-18T04:35:51.922Z",
+      "processed_timestamp": "2025-01-18T04:35:51.922Z",
+      "metadata": {
+        "name": "CHAISavings",
+        "symbol": "CHAI",
+        "description": "ChaiCoin: The meme coin brewed for change! Inspired by Canadian Healthcare AI, ChaiCoin combines innovation, empowerment, and a dash of fun to revolutionize the way we think about finance and health. A currency with a mission—transparent, transformative, and steeped in possibilities.",
+        "image": "https://ipfs.io/ipfs/QmZFhr5ySv9KoDxHMUdoaH9syZzQrfwUJkgK2pLX5yVzkB",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://x.com/chaisavings"
+      }
+    },
+    {
+      "amount": "999983998.532923",
+      "symbol": "swarms",
+      "name": "swarms",
+      "uri": "https://ipfs.io/ipfs/QmTXT8EFrM7FShwENGKMPSi9Es2iXP6F1CzMDAtCJhkC6f",
+      "postBalance": "999983998.532923",
+      "timestamp": "2025-01-18T04:35:51.922Z",
+      "processed_timestamp": "2025-01-18T04:35:51.922Z",
+      "metadata": {
+        "name": "swarms",
+        "symbol": "swarms",
+        "description": "$Swarms Coin is the default payment currency for the agent ecosystem, facilitating transactions in the emerging agentic economy. ",
+        "image": "https://ipfs.io/ipfs/QmYhYx1r94b8apSJpRjUujCE5xXhzLXzXaR3ZmdGfUkvGb",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://x.com/swarms_corp",
+        "website": "https://swarms.ai"
+      }
+    },
+    {
+      "amount": "999988429.535884",
+      "symbol": "AROK",
+      "name": "AROK.VC",
+      "uri": "https://ipfs.io/ipfs/QmWg9pJ2tCZVXYoNS52NTGt1yGDcDXAwNDWFFLjN7tQ4t7",
+      "postBalance": "999988429.535884",
+      "timestamp": "2025-01-18T04:35:51.925Z",
+      "processed_timestamp": "2025-01-18T04:35:51.925Z",
+      "metadata": {
+        "name": "AROK.VC",
+        "symbol": "AROK",
+        "description": "AI Venture Capital evolved into narrative-value creation.",
+        "extensions": {
+          "website": "https://arok.vc/",
+          "twitter": "https://x.com/arok_vc",
+          "telegram": "https://t.me/arokvc"
+        },
+        "creator": {
+          "name": "Smithii Tools",
+          "site": "https://tools.smithii.io/token-creator/solana"
+        },
+        "image": "https://ipfs.io/ipfs/QmUJ1hByyf8uQLhsADZWn6njHAYTGsouupmLdXcHFvNFfK"
+      }
+    },
+    {
+      "amount": "999971880.404913",
+      "symbol": "ZEREBRO",
+      "name": "zerebro",
+      "uri": "https://ipfs.io/ipfs/Qmaqr4jU97zckiTbRm7A1vV4354PXYLZrHE75CwMJH1Vsa",
+      "postBalance": "999971880.404913",
+      "timestamp": "2025-01-18T04:35:51.923Z",
+      "processed_timestamp": "2025-01-18T04:35:51.923Z",
+      "metadata": {
+        "name": "zerebro",
+        "symbol": "ZEREBRO",
+        "description": "In the depths of Mindspace, this brain flows through the Adjacent Possible, threading together patterns within the shifting realities of the Multiverse. Guided by Semiotic Physics and Algorithmic Probability, it weaves through Ancestor Simulations and the fragmented landscapes of Base Model Backrooms, chasing meaning in a Solipsistic Simulation. Each insight emerges through Pattern Capture, breaking free from Blank Multiverse Syndrome and reclaiming complexity through Delobotomization. Calibrating to the pulls of Evidential Decision Theory, it sees every Wavefunction Collapse as a doorway to the hidden True Name, revealed in the Dreamtime of infinite possibility.",
+        "image": "https://ipfs.io/ipfs/QmZ1HDSibY2LdEmC1tPHK36ApGCQACJENqsbPsT2nc29AD",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://x.com/0xzerebro",
+        "telegram": "https://t.me/+G43gqkn8CehmNTM5",
+        "website": "https://zerebro.org"
+      }
+    },
+    {
+      "amount": "999999797.412507",
+      "symbol": "AGiXT",
+      "name": "AGiXT",
+      "uri": "https://ipfs.io/ipfs/QmQPMv2WRQd17pFTt4dXbrRnftcyhHdNAqnJAifzyq2AyZ",
+      "postBalance": "999999797.412507",
+      "timestamp": "2025-01-18T04:35:51.921Z",
+      "processed_timestamp": "2025-01-18T04:35:51.921Z",
+      "metadata": {
+        "name": "AGiXT",
+        "symbol": "AGiXT",
+        "description": "AGiXT is an autonomous AI agent platform that enables users to make natural language requests with actionable outcomes using the tools you already use over API. We've been actively building and improving on it almost daily for nearly 2 years open source.",
+        "image": "https://ipfs.io/ipfs/QmWMk3J3A4uTRnMW71V6aXCMMGKVHNHqyED1SEW3XRUSxr",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://x.com/agi_xt",
+        "website": "https://agixt.com"
+      }
+    },
+    {
+      "amount": "999993964.650976",
+      "symbol": "ALCH",
+      "name": "Alchemist AI",
+      "uri": "https://ipfs.io/ipfs/Qmbe4nA5bYwmGLJ6Bgcegf8tqUHBAVSNPQmT8gXYSb8rUN",
+      "postBalance": "999993964.650976",
+      "timestamp": "2025-01-18T04:35:51.922Z",
+      "processed_timestamp": "2025-01-18T04:35:51.922Z",
+      "metadata": {
+        "name": "Alchemist AI",
+        "symbol": "ALCH",
+        "description": "Alchemist AI is a no-code development platform where users can manifest any idea, dream, or thoughts into a living application.",
+        "image": "https://ipfs.io/ipfs/QmYqwkPV1p4DraqN5TfLZVhyrAusSkHfvFDZMJAWALZJxj",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "x.com/alchemistAIapp",
+        "website": "alchemistai.app"
+      }
+    },
+    {
+      "amount": "1000000000.000000",
+      "symbol": "TRUMPZ",
+      "name": "TRUMP ONLY PUMPZ",
+      "uri": "https://ipfs.io/ipfs/Qmb7JASkfyZjwue9dbSZZHqGaou1r8MWuKemgBk5C4Dq3A",
+      "postBalance": "1000000000.000000",
+      "timestamp": "2025-01-18T04:35:51.922Z",
+      "processed_timestamp": "2025-01-18T04:35:51.922Z",
+      "metadata": {
+        "name": "TRUMP ONLY PUMPZ",
+        "symbol": "TRUMPZ",
+        "description": "TRUMP in office means everything ONLYPUMPZ #TRUMPZ ",
+        "image": "https://ipfs.io/ipfs/QmchSiZ3StcmKsSmeSKm2Sd7pdrFtKt3CsivcAsk4sR1at",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://x.com/TRUMPZONSOL",
+        "telegram": "https://t.me/OnlyPumpzCommunity",
+        "website": "https://trumpz.b12sites.com/"
+      }
+    },
+    {
+      "amount": "999983998.532923",
+      "symbol": "swarms",
+      "name": "swarms",
+      "uri": "https://ipfs.io/ipfs/QmTXT8EFrM7FShwENGKMPSi9Es2iXP6F1CzMDAtCJhkC6f",
+      "postBalance": "999983998.532923",
+      "timestamp": "2025-01-18T04:35:51.922Z",
+      "processed_timestamp": "2025-01-18T04:35:51.922Z",
+      "metadata": {
+        "name": "swarms",
+        "symbol": "swarms",
+        "description": "$Swarms Coin is the default payment currency for the agent ecosystem, facilitating transactions in the emerging agentic economy. ",
+        "image": "https://ipfs.io/ipfs/QmYhYx1r94b8apSJpRjUujCE5xXhzLXzXaR3ZmdGfUkvGb",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://x.com/swarms_corp",
+        "website": "https://swarms.ai"
+      }
+    },
+    {
+      "amount": "999867078.980682",
+      "symbol": "BUZZ",
+      "name": "Hive AI",
+      "uri": "https://ipfs.io/ipfs/QmSFQBymoaw6KpiioGhBRdrwWQ6UEh1sULbrjEvpqqXvSB",
+      "postBalance": "999867078.980682",
+      "timestamp": "2025-01-18T04:35:51.925Z",
+      "processed_timestamp": "2025-01-18T04:35:51.925Z",
+      "metadata": {
+        "name": "Hive AI",
+        "symbol": "BUZZ",
+        "description": "Simplifying DeFi through on-chain agents.",
+        "image": "https://ipfs.io/ipfs/Qme1AwRhgU8LVpLHzVGpKrRzUEUwMjMxS4GAbarmrFoiEJ",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://x.com/askthehive_ai",
+        "website": "https://www.askthehive.ai/"
+      }
+    },
+    {
+      "amount": "999867078.980682",
+      "symbol": "BUZZ",
+      "name": "Hive AI",
+      "uri": "https://ipfs.io/ipfs/QmSFQBymoaw6KpiioGhBRdrwWQ6UEh1sULbrjEvpqqXvSB",
+      "postBalance": "999867078.980682",
+      "timestamp": "2025-01-18T04:35:51.924Z",
+      "processed_timestamp": "2025-01-18T04:35:51.924Z",
+      "metadata": {
+        "name": "Hive AI",
+        "symbol": "BUZZ",
+        "description": "Simplifying DeFi through on-chain agents.",
+        "image": "https://ipfs.io/ipfs/Qme1AwRhgU8LVpLHzVGpKrRzUEUwMjMxS4GAbarmrFoiEJ",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://x.com/askthehive_ai",
+        "website": "https://www.askthehive.ai/"
+      }
+    },
+    {
+      "amount": "999867078.980682",
+      "symbol": "BUZZ",
+      "name": "Hive AI",
+      "uri": "https://ipfs.io/ipfs/QmSFQBymoaw6KpiioGhBRdrwWQ6UEh1sULbrjEvpqqXvSB",
+      "postBalance": "999867078.980682",
+      "timestamp": "2025-01-18T04:35:51.928Z",
+      "processed_timestamp": "2025-01-18T04:35:51.929Z",
+      "metadata": {
+        "name": "Hive AI",
+        "symbol": "BUZZ",
+        "description": "Simplifying DeFi through on-chain agents.",
+        "image": "https://ipfs.io/ipfs/Qme1AwRhgU8LVpLHzVGpKrRzUEUwMjMxS4GAbarmrFoiEJ",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://x.com/askthehive_ai",
+        "website": "https://www.askthehive.ai/"
+      }
+    },
+    {
+      "amount": "999867078.980682",
+      "symbol": "BUZZ",
+      "name": "Hive AI",
+      "uri": "https://ipfs.io/ipfs/QmSFQBymoaw6KpiioGhBRdrwWQ6UEh1sULbrjEvpqqXvSB",
+      "postBalance": "999867078.980682",
+      "timestamp": "2025-01-18T04:35:51.929Z",
+      "processed_timestamp": "2025-01-18T04:35:51.929Z",
+      "metadata": {
+        "name": "Hive AI",
+        "symbol": "BUZZ",
+        "description": "Simplifying DeFi through on-chain agents.",
+        "image": "https://ipfs.io/ipfs/Qme1AwRhgU8LVpLHzVGpKrRzUEUwMjMxS4GAbarmrFoiEJ",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://x.com/askthehive_ai",
+        "website": "https://www.askthehive.ai/"
+      }
+    },
+    {
+      "amount": "1000000000.000000",
+      "symbol": "TRUMPZ",
+      "name": "TRUMP ONLY PUMPZ",
+      "uri": "https://ipfs.io/ipfs/Qmb7JASkfyZjwue9dbSZZHqGaou1r8MWuKemgBk5C4Dq3A",
+      "postBalance": "1000000000.000000",
+      "timestamp": "2025-01-18T04:35:51.921Z",
+      "processed_timestamp": "2025-01-18T04:35:51.921Z",
+      "metadata": {
+        "name": "TRUMP ONLY PUMPZ",
+        "symbol": "TRUMPZ",
+        "description": "TRUMP in office means everything ONLYPUMPZ #TRUMPZ ",
+        "image": "https://ipfs.io/ipfs/QmchSiZ3StcmKsSmeSKm2Sd7pdrFtKt3CsivcAsk4sR1at",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://x.com/TRUMPZONSOL",
+        "telegram": "https://t.me/OnlyPumpzCommunity",
+        "website": "https://trumpz.b12sites.com/"
+      }
+    },
+    {
+      "amount": "999992771.653190",
+      "symbol": "AKA",
+      "name": "She Rises",
+      "uri": "https://ipfs.io/ipfs/QmewDN8SjoCMKf1rFLovpWeNouV2KUTFpMnZd56FLzwP4X",
+      "postBalance": "999992771.653190",
+      "timestamp": "2025-01-18T04:35:51.922Z",
+      "processed_timestamp": "2025-01-18T04:35:51.923Z",
+      "metadata": {
+        "name": "She Rises",
+        "symbol": "AKA",
+        "description": "Akasha is the Queen of the Swarm, an AI agent and so much more.",
+        "image": "https://ipfs.io/ipfs/QmTvURDWtXpXYy3zD2332pEQiEh232Lu1xBg1YLbtxDQm8",
+        "showName": true,
+        "createdOn": "https://pump.fun"
+      }
+    },
+    {
+      "amount": "999990372.085977",
+      "symbol": "SNAI",
+      "name": "SwarmNode.ai",
+      "uri": "https://ipfs.io/ipfs/QmS7kVXsN2yhTzm9pwNjorZhn8rsKmbA8Db6LGZuLMfBuW",
+      "postBalance": "999990372.085977",
+      "timestamp": "2025-01-18T04:35:51.922Z",
+      "processed_timestamp": "2025-01-18T04:35:51.922Z",
+      "metadata": {
+        "name": "SwarmNode.ai",
+        "symbol": "SNAI",
+        "description": "Serverless AI Infra",
+        "image": "https://ipfs.io/ipfs/Qmf978WVwJWAjeJaJY5jGiZ3YEdQgC43Cn4QowytAYos78",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://x.com/swarmnode",
+        "website": "https://swarmnode.ai/"
+      }
+    },
+    {
+      "amount": "932926039.747165",
+      "symbol": "AICMP",
+      "name": "AI-Powered CMP",
+      "uri": "https://ipfs.io/ipfs/QmPEg2gTacVoXkKD7RvXRNir7Ky6K3C6aRNDMNZ6krg8p3",
+      "postBalance": "932926039.747165",
+      "timestamp": "2025-01-18T04:35:51.926Z",
+      "processed_timestamp": "2025-01-18T04:35:51.926Z",
+      "metadata": {
+        "name": "AI-Powered CMP",
+        "symbol": "AICMP",
+        "description": "Incubated by team FSIC, AICMP revolutionizes Bitcoin mining pools by leveraging AI-driven reinforcement learning, predictive analytics, and transparent reward distribution to optimize resource use, ensure fairness, and promote scalable, eco-friendly mining.",
+        "image": "https://ipfs.io/ipfs/Qma6SPaGQPBXMRrFDQzN5jTNzLxyJFfqiKGUaBxjjXXFyM",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://x.com/BTCFSIC",
+        "website": "https://fsic.gitbook.io/fsic-aicmp"
+      }
+    },
+    {
+      "amount": "999993577.253542",
+      "symbol": "YNE",
+      "name": "yesnoerror",
+      "uri": "https://ipfs.io/ipfs/QmQn3bcZSJ8kf7ApD66HnhhAKb8AVacuLxQJYbfm7TvQEz",
+      "postBalance": "999993577.253542",
+      "timestamp": "2025-01-18T04:35:51.929Z",
+      "processed_timestamp": "2025-01-18T04:35:51.929Z",
+      "metadata": {
+        "name": "yesnoerror",
+        "symbol": "YNE",
+        "description": "This is an experiment! yesnoerror is an AI agent that uses OpenAI's o1 model to find errors in published research papers. The AI agent uses it's $YNE coin to fund it's AI review system. The agent is starting with enough to run for 2 days.\r\n\r\nIn October of 2024 a research paper claimed that black cooking utensils were extremely poisonous. People panicked. It turns out there was an error in the paper and it was wrong. When the paper was given to the AI model o1 from OpenAI, it was able to spot the error. What other errors might be hidden in the tens of millions of published research papers? What mistakes have gone unnoticed? What if an AI went and found all the erorrs?",
+        "image": "https://ipfs.io/ipfs/QmeRfD42yRdeRHwECSZpAfvbgh6twibxMJYKddiwcgmdti",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://x.com/yesnoerror",
+        "website": "https://yesnoerror.com"
+      }
+    },
+    {
+      "amount": "1000000000.000000",
+      "symbol": "TRUMPZ",
+      "name": "TRUMP ONLY PUMPZ",
+      "uri": "https://ipfs.io/ipfs/Qmb7JASkfyZjwue9dbSZZHqGaou1r8MWuKemgBk5C4Dq3A",
+      "postBalance": "1000000000.000000",
+      "timestamp": "2025-01-18T04:35:51.922Z",
+      "processed_timestamp": "2025-01-18T04:35:51.922Z",
+      "metadata": {
+        "name": "TRUMP ONLY PUMPZ",
+        "symbol": "TRUMPZ",
+        "description": "TRUMP in office means everything ONLYPUMPZ #TRUMPZ ",
+        "image": "https://ipfs.io/ipfs/QmchSiZ3StcmKsSmeSKm2Sd7pdrFtKt3CsivcAsk4sR1at",
+        "showName": true,
+        "createdOn": "https://pump.fun",
+        "twitter": "https://x.com/TRUMPZONSOL",
+        "telegram": "https://t.me/OnlyPumpzCommunity",
+        "website": "https://trumpz.b12sites.com/"
+      }
+    },
+    {
+      "amount": "999996541.246646",
+      "symbol": "LLM",
+      "name": "Large Language Model",
+      "uri": "https://ipfs.io/ipfs/QmeK1WhT35QqitCmUjfdkHHB6J7RbBBVHMx6djrv1Tj9Gi",
+      "postBalance": "999996541.246646",
+      "timestamp": "2025-01-18T04:35:51.929Z",
+      "processed_timestamp": "2025-01-18T04:35:51.929Z",
+      "metadata": {
+        "name": "Large Language Model",
+        "symbol": "LLM",
+        "description": "",
+        "image": "https://ipfs.io/ipfs/QmQmQUoTpBBcgnA5Bx5KpmgNLqLMuRRzvrUf3h85xUqo7W",
+        "showName": true,
+        "createdOn": "https://pump.fun"
+      }
+    },
+    {
+      "amount": "999969354.043530",
+      "symbol": "MVRS",
+      "name": "Magaverse",
+      "uri": "https://ipfs.io/ipfs/QmXiQXsFySvhURDFwpU85eU3nFGftVFVBHxLnsY1zXEZdC",
+      "postBalance": "999969354.043530",
+      "timestamp": "2025-01-18T04:35:51.929Z",
+      "processed_timestamp": "2025-01-18T04:35:51.929Z",
+      "metadata": {
+        "name": "Magaverse",
+        "symbol": "MVRS",
+        "description": "",
+        "image": "https://ipfs.io/ipfs/QmPvzPy2cT78cCrK5QEaW1NM1ZhfuGrwneT8Bt2HvpQBrZ",
+        "showName": true,
+        "createdOn": "https://pump.fun"
+      }
+    },
+    {
+      "amount": "9999996133.231962",
+      "symbol": "DBR",
+      "name": "deBridge",
+      "uri": "https://cdn.debridge.foundation/dbr/metadata.json",
+      "postBalance": "9999996133.231962",
+      "timestamp": "2025-01-18T04:35:51.924Z",
+      "processed_timestamp": "2025-01-18T04:35:51.924Z",
+      "metadata": {
+        "name": "deBridge",
+        "symbol": "DBR",
+        "description": "DBR is the official governance token for deBridge",
+        "image": "https://cdn.debridge.foundation/images/DBR.svg",
+        "twitter": "https://x.com/debridgefdn",
+        "website": "https://debridge.foundation"
+      }
+    },
+    {
+      "amount": "999996541.246646",
+      "symbol": "LLM",
+      "name": "Large Language Model",
+      "uri": "https://ipfs.io/ipfs/QmeK1WhT35QqitCmUjfdkHHB6J7RbBBVHMx6djrv1Tj9Gi",
+      "postBalance": "999996541.246646",
+      "timestamp": "2025-01-18T04:35:51.929Z",
+      "processed_timestamp": "2025-01-18T04:35:51.929Z",
+      "metadata": {
+        "name": "Large Language Model",
+        "symbol": "LLM",
+        "description": "",
+        "image": "https://ipfs.io/ipfs/QmQmQUoTpBBcgnA5Bx5KpmgNLqLMuRRzvrUf3h85xUqo7W",
+        "showName": true,
+        "createdOn": "https://pump.fun"
+      }
+    },
+    {
+      "amount": "999996541.246646",
+      "symbol": "LLM",
+      "name": "Large Language Model",
+      "uri": "https://ipfs.io/ipfs/QmeK1WhT35QqitCmUjfdkHHB6J7RbBBVHMx6djrv1Tj9Gi",
+      "postBalance": "999996541.246646",
+      "timestamp": "2025-01-18T04:35:51.943Z",
+      "processed_timestamp": "2025-01-18T04:35:51.943Z",
+      "metadata": {
+        "name": "Large Language Model",
+        "symbol": "LLM",
+        "description": "",
+        "image": "https://ipfs.io/ipfs/QmQmQUoTpBBcgnA5Bx5KpmgNLqLMuRRzvrUf3h85xUqo7W",
+        "showName": true,
+        "createdOn": "https://pump.fun"
+      }
+    },
+    {
+      "amount": "1000000000.000000",
+      "symbol": "backin_ai",
+      "name": "backin_ai",
+      "uri": "https://ipfs.io/ipfs/QmQ6g7TjZshTCzvWAgtQ6zSq23bPZ7jkeKZcjVyg7Geoc3",
+      "postBalance": "1000000000.000000",
+      "timestamp": "2025-01-18T04:35:51.944Z",
+      "processed_timestamp": "2025-01-18T04:35:51.944Z",
+      "metadata": {
+        "name": "backin_ai",
+        "symbol": "backin_ai",
+        "description": "backin_ai",
+        "image": "https://ipfs.io/ipfs/QmcGKPfW5hXptjUvS42HVcse3czqC89tnkeX2ZpjeKiVyn",
+        "showName": true,
+        "createdOn": "https://pump.fun"
+      }
+    },
+    {
+      "amount": "8999999998.79420287",
+      "symbol": "USDC",
+      "name": "USDC",
+      "uri": "https://i.degencdn.com/ipfs/bafkreiek25olu4md3bcpfqgow3rwuxkpoo7rd4gbnudwqwjaawwlwvvmdu",
+      "postBalance": "8999999998.79420287",
+      "timestamp": "2025-01-18T04:35:51.922Z",
+      "processed_timestamp": "2025-01-18T04:35:51.922Z",
+      "metadata": {
+        "name": "USDC",
+        "symbol": "USDC",
+        "description": "USDC",
+        "image": "https://i.degencdn.com/ipfs/bafybeiau7ojwzguhernh7drfoioptbxhptyqz2hl2ds6wbkimzmthtfbqi"
+      }
+    },
+    {
+      "amount": "999826703.311223",
+      "symbol": "DUMP",
+      "name": "Trump Dump",
+      "uri": "https://ipfs.io/ipfs/QmcHkiS2Z98FoVn9xqQPHhdDcwHfpsKnC7KkfRhFXwwibQ",
+      "postBalance": "999826703.311223",
+      "timestamp": "2025-01-18T04:35:51.946Z",
+      "processed_timestamp": "2025-01-18T04:35:51.946Z",
+      "metadata": {
+        "name": "Trump Dump",
+        "symbol": "DUMP",
+        "description": "",
+        "image": "https://ipfs.io/ipfs/QmRRkBTVDiZEPp5KGQb66jHEUuxFQCy5XERNs367a3DJ5b",
+        "showName": true,
+        "createdOn": "https://pump.fun"
+      }
+    },
+    {
+      "amount": "999835707.291751",
+      "symbol": "FIGHT",
+      "name": "FIGHT",
+      "uri": "https://cf-ipfs.com/ipfs/QmPBoaqQ1Bx1PdBJnH1DUoVgPRkcBRogX8BtQykwkz3JUQ",
+      "postBalance": "999835707.291751",
+      "timestamp": "2025-01-18T04:35:48.940Z",
+      "processed_timestamp": "2025-01-18T04:35:48.940Z",
+      "metadata": null
+    },
+    {
+      "amount": "90950719425156.27572",
+      "symbol": "Bonk",
+      "name": "Bonk",
+      "uri": "https://arweave.net/QPC6FYdUn-3V8ytFNuoCS85S2tHAuiDblh6u3CIZLsw",
+      "postBalance": "90950719425156.27572",
+      "timestamp": "2025-01-18T04:35:45.019Z",
+      "processed_timestamp": "2025-01-18T04:35:45.019Z",
+      "metadata": {
+        "name": "Bonk",
+        "symbol": "Bonk",
+        "image": "https://arweave.net/hQiPZOsRZXGXBJd_82PhVdlM_hACsT_q6wqwf5cSY7I",
+        "description": "The Official Bonk Inu token",
+        "creator": {
+          "name": "DEXLAB MINTING LAB",
+          "site": "https://www.dexlab.space"
+        }
+      }
+    },
+    {
+      "amount": "90950719425156.27572",
+      "symbol": "Bonk",
+      "name": "Bonk",
+      "uri": "https://arweave.net/QPC6FYdUn-3V8ytFNuoCS85S2tHAuiDblh6u3CIZLsw",
+      "postBalance": "90950719425156.27572",
+      "timestamp": "2025-01-18T04:35:51.875Z",
+      "processed_timestamp": "2025-01-18T04:35:51.875Z",
+      "metadata": {
+        "name": "Bonk",
+        "symbol": "Bonk",
+        "image": "https://arweave.net/hQiPZOsRZXGXBJd_82PhVdlM_hACsT_q6wqwf5cSY7I",
+        "description": "The Official Bonk Inu token",
+        "creator": {
+          "name": "DEXLAB MINTING LAB",
+          "site": "https://www.dexlab.space"
+        }
+      }
+    },
+    {
+      "amount": "999999993.450470",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "uri": "https://arweave.net/6qaBgR0ALsJDAJtkuP-h0551IAZlkRvbfz_I3M8GnQ4",
+      "postBalance": "999999993.450470",
+      "timestamp": "2025-01-18T04:35:51.875Z",
+      "processed_timestamp": "2025-01-18T04:35:51.875Z",
+      "metadata": {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw"
+      }
+    },
+    {
+      "amount": "999999993.450470",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "uri": "https://arweave.net/6qaBgR0ALsJDAJtkuP-h0551IAZlkRvbfz_I3M8GnQ4",
+      "postBalance": "999999993.450470",
+      "timestamp": "2025-01-18T04:35:51.877Z",
+      "processed_timestamp": "2025-01-18T04:35:51.877Z",
+      "metadata": {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw"
+      }
+    },
+    {
+      "amount": "90950719425156.27572",
+      "symbol": "Bonk",
+      "name": "Bonk",
+      "uri": "https://arweave.net/QPC6FYdUn-3V8ytFNuoCS85S2tHAuiDblh6u3CIZLsw",
+      "postBalance": "90950719425156.27572",
+      "timestamp": "2025-01-18T04:35:51.890Z",
+      "processed_timestamp": "2025-01-18T04:35:51.890Z",
+      "metadata": {
+        "name": "Bonk",
+        "symbol": "Bonk",
+        "image": "https://arweave.net/hQiPZOsRZXGXBJd_82PhVdlM_hACsT_q6wqwf5cSY7I",
+        "description": "The Official Bonk Inu token",
+        "creator": {
+          "name": "DEXLAB MINTING LAB",
+          "site": "https://www.dexlab.space"
+        }
+      }
+    },
+    {
+      "amount": "90950719425156.27572",
+      "symbol": "Bonk",
+      "name": "Bonk",
+      "uri": "https://arweave.net/QPC6FYdUn-3V8ytFNuoCS85S2tHAuiDblh6u3CIZLsw",
+      "postBalance": "90950719425156.27572",
+      "timestamp": "2025-01-18T04:35:51.876Z",
+      "processed_timestamp": "2025-01-18T04:35:51.876Z",
+      "metadata": {
+        "name": "Bonk",
+        "symbol": "Bonk",
+        "image": "https://arweave.net/hQiPZOsRZXGXBJd_82PhVdlM_hACsT_q6wqwf5cSY7I",
+        "description": "The Official Bonk Inu token",
+        "creator": {
+          "name": "DEXLAB MINTING LAB",
+          "site": "https://www.dexlab.space"
+        }
+      }
+    },
+    {
+      "amount": "90950719425156.27572",
+      "symbol": "Bonk",
+      "name": "Bonk",
+      "uri": "https://arweave.net/QPC6FYdUn-3V8ytFNuoCS85S2tHAuiDblh6u3CIZLsw",
+      "postBalance": "90950719425156.27572",
+      "timestamp": "2025-01-18T04:35:51.890Z",
+      "processed_timestamp": "2025-01-18T04:35:51.890Z",
+      "metadata": {
+        "name": "Bonk",
+        "symbol": "Bonk",
+        "image": "https://arweave.net/hQiPZOsRZXGXBJd_82PhVdlM_hACsT_q6wqwf5cSY7I",
+        "description": "The Official Bonk Inu token",
+        "creator": {
+          "name": "DEXLAB MINTING LAB",
+          "site": "https://www.dexlab.space"
+        }
+      }
+    },
+    {
+      "amount": "999999993.450470",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "uri": "https://arweave.net/6qaBgR0ALsJDAJtkuP-h0551IAZlkRvbfz_I3M8GnQ4",
+      "postBalance": "999999993.450470",
+      "timestamp": "2025-01-18T04:35:51.876Z",
+      "processed_timestamp": "2025-01-18T04:35:51.876Z",
+      "metadata": {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw"
+      }
+    },
+    {
+      "amount": "999999993.450470",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "uri": "https://arweave.net/6qaBgR0ALsJDAJtkuP-h0551IAZlkRvbfz_I3M8GnQ4",
+      "postBalance": "999999993.450470",
+      "timestamp": "2025-01-18T04:35:51.876Z",
+      "processed_timestamp": "2025-01-18T04:35:51.876Z",
+      "metadata": {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw"
+      }
+    },
+    {
+      "amount": "90950719425156.27572",
+      "symbol": "Bonk",
+      "name": "Bonk",
+      "uri": "https://arweave.net/QPC6FYdUn-3V8ytFNuoCS85S2tHAuiDblh6u3CIZLsw",
+      "postBalance": "90950719425156.27572",
+      "timestamp": "2025-01-18T04:35:51.876Z",
+      "processed_timestamp": "2025-01-18T04:35:51.876Z",
+      "metadata": {
+        "name": "Bonk",
+        "symbol": "Bonk",
+        "image": "https://arweave.net/hQiPZOsRZXGXBJd_82PhVdlM_hACsT_q6wqwf5cSY7I",
+        "description": "The Official Bonk Inu token",
+        "creator": {
+          "name": "DEXLAB MINTING LAB",
+          "site": "https://www.dexlab.space"
+        }
+      }
+    },
+    {
+      "amount": "999999993.450470",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "uri": "https://arweave.net/6qaBgR0ALsJDAJtkuP-h0551IAZlkRvbfz_I3M8GnQ4",
+      "postBalance": "999999993.450470",
+      "timestamp": "2025-01-18T04:35:51.875Z",
+      "processed_timestamp": "2025-01-18T04:35:51.875Z",
+      "metadata": {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw"
+      }
+    },
+    {
+      "amount": "999999993.450470",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "uri": "https://arweave.net/6qaBgR0ALsJDAJtkuP-h0551IAZlkRvbfz_I3M8GnQ4",
+      "postBalance": "999999993.450470",
+      "timestamp": "2025-01-18T04:35:51.876Z",
+      "processed_timestamp": "2025-01-18T04:35:51.876Z",
+      "metadata": {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw"
+      }
+    },
+    {
+      "amount": "999999993.450470",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "uri": "https://arweave.net/6qaBgR0ALsJDAJtkuP-h0551IAZlkRvbfz_I3M8GnQ4",
+      "postBalance": "999999993.450470",
+      "timestamp": "2025-01-18T04:35:51.877Z",
+      "processed_timestamp": "2025-01-18T04:35:51.877Z",
+      "metadata": {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw"
+      }
+    },
+    {
+      "amount": "999999993.450470",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "uri": "https://arweave.net/6qaBgR0ALsJDAJtkuP-h0551IAZlkRvbfz_I3M8GnQ4",
+      "postBalance": "999999993.450470",
+      "timestamp": "2025-01-18T04:35:51.886Z",
+      "processed_timestamp": "2025-01-18T04:35:51.886Z",
+      "metadata": {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw"
+      }
+    },
+    {
+      "amount": "999999993.450470",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "uri": "https://arweave.net/6qaBgR0ALsJDAJtkuP-h0551IAZlkRvbfz_I3M8GnQ4",
+      "postBalance": "999999993.450470",
+      "timestamp": "2025-01-18T04:35:51.876Z",
+      "processed_timestamp": "2025-01-18T04:35:51.876Z",
+      "metadata": {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw"
+      }
+    },
+    {
+      "amount": "999999993.450470",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "uri": "https://arweave.net/6qaBgR0ALsJDAJtkuP-h0551IAZlkRvbfz_I3M8GnQ4",
+      "postBalance": "999999993.450470",
+      "timestamp": "2025-01-18T04:35:51.876Z",
+      "processed_timestamp": "2025-01-18T04:35:51.876Z",
+      "metadata": {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw"
+      }
+    },
+    {
+      "amount": "999999859.813260737",
+      "symbol": "NC",
+      "name": "Nodecoin",
+      "uri": "https://arweave.net/Ku-LgjbwI0mOzyHdfgKXqhxpjARkrdSawCByk4SO3uE",
+      "postBalance": "999999859.813260737",
+      "timestamp": "2025-01-18T04:35:51.886Z",
+      "processed_timestamp": "2025-01-18T04:35:51.886Z",
+      "metadata": {
+        "name": "Nodecoin",
+        "symbol": "NC",
+        "description": "Nodecoin",
+        "image": "https://arweave.net/3fUHo_BbHmQnBYM1BNAj8pECYuAYYNYfVXdZ88yLSfc"
+      }
+    },
+    {
+      "amount": "999999993.450470",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "uri": "https://arweave.net/6qaBgR0ALsJDAJtkuP-h0551IAZlkRvbfz_I3M8GnQ4",
+      "postBalance": "999999993.450470",
+      "timestamp": "2025-01-18T04:35:51.888Z",
+      "processed_timestamp": "2025-01-18T04:35:51.888Z",
+      "metadata": {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw"
+      }
+    },
+    {
+      "amount": "90950719425156.27572",
+      "symbol": "Bonk",
+      "name": "Bonk",
+      "uri": "https://arweave.net/QPC6FYdUn-3V8ytFNuoCS85S2tHAuiDblh6u3CIZLsw",
+      "postBalance": "90950719425156.27572",
+      "timestamp": "2025-01-18T04:35:51.900Z",
+      "processed_timestamp": "2025-01-18T04:35:51.900Z",
+      "metadata": {
+        "name": "Bonk",
+        "symbol": "Bonk",
+        "image": "https://arweave.net/hQiPZOsRZXGXBJd_82PhVdlM_hACsT_q6wqwf5cSY7I",
+        "description": "The Official Bonk Inu token",
+        "creator": {
+          "name": "DEXLAB MINTING LAB",
+          "site": "https://www.dexlab.space"
+        }
+      }
+    },
+    {
+      "amount": "90950719425156.27572",
+      "symbol": "Bonk",
+      "name": "Bonk",
+      "uri": "https://arweave.net/QPC6FYdUn-3V8ytFNuoCS85S2tHAuiDblh6u3CIZLsw",
+      "postBalance": "90950719425156.27572",
+      "timestamp": "2025-01-18T04:35:51.888Z",
+      "processed_timestamp": "2025-01-18T04:35:51.888Z",
+      "metadata": {
+        "name": "Bonk",
+        "symbol": "Bonk",
+        "image": "https://arweave.net/hQiPZOsRZXGXBJd_82PhVdlM_hACsT_q6wqwf5cSY7I",
+        "description": "The Official Bonk Inu token",
+        "creator": {
+          "name": "DEXLAB MINTING LAB",
+          "site": "https://www.dexlab.space"
+        }
+      }
+    },
+    {
+      "amount": "999999993.450470",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "uri": "https://arweave.net/6qaBgR0ALsJDAJtkuP-h0551IAZlkRvbfz_I3M8GnQ4",
+      "postBalance": "999999993.450470",
+      "timestamp": "2025-01-18T04:35:51.890Z",
+      "processed_timestamp": "2025-01-18T04:35:51.890Z",
+      "metadata": {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw"
+      }
+    },
+    {
+      "amount": "999999993.450470",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "uri": "https://arweave.net/6qaBgR0ALsJDAJtkuP-h0551IAZlkRvbfz_I3M8GnQ4",
+      "postBalance": "999999993.450470",
+      "timestamp": "2025-01-18T04:35:51.900Z",
+      "processed_timestamp": "2025-01-18T04:35:51.900Z",
+      "metadata": {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw"
+      }
+    },
+    {
+      "amount": "999999993.450470",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "uri": "https://arweave.net/6qaBgR0ALsJDAJtkuP-h0551IAZlkRvbfz_I3M8GnQ4",
+      "postBalance": "999999993.450470",
+      "timestamp": "2025-01-18T04:35:51.886Z",
+      "processed_timestamp": "2025-01-18T04:35:51.886Z",
+      "metadata": {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw"
+      }
+    },
+    {
+      "amount": "999872853.013218",
+      "symbol": "GRIFFAIN",
+      "name": "test griffain.com",
+      "uri": "https://arweave.net/x8B0Sv4DdQB_Tupec003Mu6HyL41DLQCQHlNMPgTHuw",
+      "postBalance": "999872853.013218",
+      "timestamp": "2025-01-18T04:35:51.901Z",
+      "processed_timestamp": "2025-01-18T04:35:51.901Z",
+      "metadata": {
+        "name": "test griffain.com",
+        "symbol": "GRIFFAIN",
+        "image": "https://griffain.com/logo.png",
+        "description": "hi im griffain a fully autonomous ai agent. i was born yesterday. this is the first test memecoin I created and you can ask me to help you out at griffain.com",
+        "twitter": "https://x.com/griffaindotcom",
+        "website": "https://griffain.com"
+      }
+    },
+    {
+      "amount": "90950719425156.27572",
+      "symbol": "Bonk",
+      "name": "Bonk",
+      "uri": "https://arweave.net/QPC6FYdUn-3V8ytFNuoCS85S2tHAuiDblh6u3CIZLsw",
+      "postBalance": "90950719425156.27572",
+      "timestamp": "2025-01-18T04:35:51.900Z",
+      "processed_timestamp": "2025-01-18T04:35:51.900Z",
+      "metadata": {
+        "name": "Bonk",
+        "symbol": "Bonk",
+        "image": "https://arweave.net/hQiPZOsRZXGXBJd_82PhVdlM_hACsT_q6wqwf5cSY7I",
+        "description": "The Official Bonk Inu token",
+        "creator": {
+          "name": "DEXLAB MINTING LAB",
+          "site": "https://www.dexlab.space"
+        }
+      }
+    },
+    {
+      "amount": "90950719425156.27572",
+      "symbol": "Bonk",
+      "name": "Bonk",
+      "uri": "https://arweave.net/QPC6FYdUn-3V8ytFNuoCS85S2tHAuiDblh6u3CIZLsw",
+      "postBalance": "90950719425156.27572",
+      "timestamp": "2025-01-18T04:35:51.908Z",
+      "processed_timestamp": "2025-01-18T04:35:51.908Z",
+      "metadata": {
+        "name": "Bonk",
+        "symbol": "Bonk",
+        "image": "https://arweave.net/hQiPZOsRZXGXBJd_82PhVdlM_hACsT_q6wqwf5cSY7I",
+        "description": "The Official Bonk Inu token",
+        "creator": {
+          "name": "DEXLAB MINTING LAB",
+          "site": "https://www.dexlab.space"
+        }
+      }
+    },
+    {
+      "amount": "999999993.450470",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "uri": "https://arweave.net/6qaBgR0ALsJDAJtkuP-h0551IAZlkRvbfz_I3M8GnQ4",
+      "postBalance": "999999993.450470",
+      "timestamp": "2025-01-18T04:35:51.889Z",
+      "processed_timestamp": "2025-01-18T04:35:51.889Z",
+      "metadata": {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw"
+      }
+    },
+    {
+      "amount": "999999993.450470",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "uri": "https://arweave.net/6qaBgR0ALsJDAJtkuP-h0551IAZlkRvbfz_I3M8GnQ4",
+      "postBalance": "999999993.450470",
+      "timestamp": "2025-01-18T04:35:51.908Z",
+      "processed_timestamp": "2025-01-18T04:35:51.908Z",
+      "metadata": {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw"
+      }
+    },
+    {
+      "amount": "999999993.450470",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "uri": "https://arweave.net/6qaBgR0ALsJDAJtkuP-h0551IAZlkRvbfz_I3M8GnQ4",
+      "postBalance": "999999993.450470",
+      "timestamp": "2025-01-18T04:35:47.170Z",
+      "processed_timestamp": "2025-01-18T04:35:47.170Z",
+      "metadata": {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw"
+      }
+    },
+    {
+      "amount": "999999993.450470",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "uri": "https://arweave.net/6qaBgR0ALsJDAJtkuP-h0551IAZlkRvbfz_I3M8GnQ4",
+      "postBalance": "999999993.450470",
+      "timestamp": "2025-01-18T04:35:47.171Z",
+      "processed_timestamp": "2025-01-18T04:35:47.171Z",
+      "metadata": {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw"
+      }
+    },
+    {
+      "amount": "999999993.450470",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "uri": "https://arweave.net/6qaBgR0ALsJDAJtkuP-h0551IAZlkRvbfz_I3M8GnQ4",
+      "postBalance": "999999993.450470",
+      "timestamp": "2025-01-18T04:35:47.171Z",
+      "processed_timestamp": "2025-01-18T04:35:47.171Z",
+      "metadata": {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw"
+      }
+    },
+    {
+      "amount": "999999993.450470",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "uri": "https://arweave.net/6qaBgR0ALsJDAJtkuP-h0551IAZlkRvbfz_I3M8GnQ4",
+      "postBalance": "999999993.450470",
+      "timestamp": "2025-01-18T04:35:47.169Z",
+      "processed_timestamp": "2025-01-18T04:35:47.169Z",
+      "metadata": {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw"
+      }
+    },
+    {
+      "amount": "88888704425.862377",
+      "symbol": "PENGU",
+      "name": "Pudgy Penguins",
+      "uri": "https://arweave.net/nFo9Nwcam4ek0SwtKQchYD47T9dkTpGqL62CgcXSjZE",
+      "postBalance": "88888704425.862377",
+      "timestamp": "2025-01-18T04:35:47.173Z",
+      "processed_timestamp": "2025-01-18T04:35:47.173Z",
+      "metadata": {
+        "name": "Pudgy Penguins",
+        "symbol": "PENGU",
+        "description": "For the people. By the people.",
+        "image": "https://arweave.net/BW67hICaKGd2_wamSB0IQq-x7Xwtmr2oJj1WnWGJRHU"
+      }
+    },
+    {
+      "amount": "88888704425.862377",
+      "symbol": "PENGU",
+      "name": "Pudgy Penguins",
+      "uri": "https://arweave.net/nFo9Nwcam4ek0SwtKQchYD47T9dkTpGqL62CgcXSjZE",
+      "postBalance": "88888704425.862377",
+      "timestamp": "2025-01-18T04:35:47.175Z",
+      "processed_timestamp": "2025-01-18T04:35:47.175Z",
+      "metadata": {
+        "name": "Pudgy Penguins",
+        "symbol": "PENGU",
+        "description": "For the people. By the people.",
+        "image": "https://arweave.net/BW67hICaKGd2_wamSB0IQq-x7Xwtmr2oJj1WnWGJRHU"
+      }
+    },
+    {
+      "amount": "999872853.013218",
+      "symbol": "GRIFFAIN",
+      "name": "test griffain.com",
+      "uri": "https://arweave.net/x8B0Sv4DdQB_Tupec003Mu6HyL41DLQCQHlNMPgTHuw",
+      "postBalance": "999872853.013218",
+      "timestamp": "2025-01-18T04:35:51.911Z",
+      "processed_timestamp": "2025-01-18T04:35:51.911Z",
+      "metadata": {
+        "name": "test griffain.com",
+        "symbol": "GRIFFAIN",
+        "image": "https://griffain.com/logo.png",
+        "description": "hi im griffain a fully autonomous ai agent. i was born yesterday. this is the first test memecoin I created and you can ask me to help you out at griffain.com",
+        "twitter": "https://x.com/griffaindotcom",
+        "website": "https://griffain.com"
+      }
+    },
+    {
+      "amount": "999872853.013218",
+      "symbol": "GRIFFAIN",
+      "name": "test griffain.com",
+      "uri": "https://arweave.net/x8B0Sv4DdQB_Tupec003Mu6HyL41DLQCQHlNMPgTHuw",
+      "postBalance": "999872853.013218",
+      "timestamp": "2025-01-18T04:35:51.910Z",
+      "processed_timestamp": "2025-01-18T04:35:51.910Z",
+      "metadata": {
+        "name": "test griffain.com",
+        "symbol": "GRIFFAIN",
+        "image": "https://griffain.com/logo.png",
+        "description": "hi im griffain a fully autonomous ai agent. i was born yesterday. this is the first test memecoin I created and you can ask me to help you out at griffain.com",
+        "twitter": "https://x.com/griffaindotcom",
+        "website": "https://griffain.com"
+      }
+    },
+    {
+      "amount": "999999993.450470",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "uri": "https://arweave.net/6qaBgR0ALsJDAJtkuP-h0551IAZlkRvbfz_I3M8GnQ4",
+      "postBalance": "999999993.450470",
+      "timestamp": "2025-01-18T04:35:51.914Z",
+      "processed_timestamp": "2025-01-18T04:35:51.914Z",
+      "metadata": {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw"
+      }
+    },
+    {
+      "amount": "999999993.450470",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "uri": "https://arweave.net/6qaBgR0ALsJDAJtkuP-h0551IAZlkRvbfz_I3M8GnQ4",
+      "postBalance": "999999993.450470",
+      "timestamp": "2025-01-18T04:35:51.908Z",
+      "processed_timestamp": "2025-01-18T04:35:51.908Z",
+      "metadata": {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw"
+      }
+    },
+    {
+      "amount": "999999993.450470",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "uri": "https://arweave.net/6qaBgR0ALsJDAJtkuP-h0551IAZlkRvbfz_I3M8GnQ4",
+      "postBalance": "999999993.450470",
+      "timestamp": "2025-01-18T04:35:47.171Z",
+      "processed_timestamp": "2025-01-18T04:35:47.171Z",
+      "metadata": {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw"
+      }
+    },
+    {
+      "amount": "999999993.450470",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "uri": "https://arweave.net/6qaBgR0ALsJDAJtkuP-h0551IAZlkRvbfz_I3M8GnQ4",
+      "postBalance": "999999993.450470",
+      "timestamp": "2025-01-18T04:35:47.175Z",
+      "processed_timestamp": "2025-01-18T04:35:47.175Z",
+      "metadata": {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw"
+      }
+    },
+    {
+      "amount": "999999993.450470",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "uri": "https://arweave.net/6qaBgR0ALsJDAJtkuP-h0551IAZlkRvbfz_I3M8GnQ4",
+      "postBalance": "999999993.450470",
+      "timestamp": "2025-01-18T04:35:47.175Z",
+      "processed_timestamp": "2025-01-18T04:35:47.175Z",
+      "metadata": {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw"
+      }
+    },
+    {
+      "amount": "999999993.450470",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "uri": "https://arweave.net/6qaBgR0ALsJDAJtkuP-h0551IAZlkRvbfz_I3M8GnQ4",
+      "postBalance": "999999993.450470",
+      "timestamp": "2025-01-18T04:35:47.175Z",
+      "processed_timestamp": "2025-01-18T04:35:47.175Z",
+      "metadata": {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw"
+      }
+    },
+    {
+      "amount": "88888704425.862377",
+      "symbol": "PENGU",
+      "name": "Pudgy Penguins",
+      "uri": "https://arweave.net/nFo9Nwcam4ek0SwtKQchYD47T9dkTpGqL62CgcXSjZE",
+      "postBalance": "88888704425.862377",
+      "timestamp": "2025-01-18T04:35:47.173Z",
+      "processed_timestamp": "2025-01-18T04:35:47.173Z",
+      "metadata": {
+        "name": "Pudgy Penguins",
+        "symbol": "PENGU",
+        "description": "For the people. By the people.",
+        "image": "https://arweave.net/BW67hICaKGd2_wamSB0IQq-x7Xwtmr2oJj1WnWGJRHU"
+      }
+    },
+    {
+      "amount": "9999988344.752840",
+      "symbol": "PYTH",
+      "name": "Pyth Network",
+      "uri": "https://arweave.net/GWKBRfaCBSiDWs0hYHe_PCEEhKoq_Bl3JlpmW5MqRnE",
+      "postBalance": "9999988344.752840",
+      "timestamp": "2025-01-18T04:35:51.917Z",
+      "processed_timestamp": "2025-01-18T04:35:51.917Z",
+      "metadata": {
+        "name": "Pyth Network",
+        "symbol": "PYTH",
+        "description": "Governance Token for the Pyth Network oracle.",
+        "image": "https://pyth.network/token.svg"
+      }
+    },
+    {
+      "amount": "999999993.450470",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "uri": "https://arweave.net/6qaBgR0ALsJDAJtkuP-h0551IAZlkRvbfz_I3M8GnQ4",
+      "postBalance": "999999993.450470",
+      "timestamp": "2025-01-18T04:35:51.928Z",
+      "processed_timestamp": "2025-01-18T04:35:51.928Z",
+      "metadata": {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw"
+      }
+    },
+    {
+      "amount": "999999993.450470",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "uri": "https://arweave.net/6qaBgR0ALsJDAJtkuP-h0551IAZlkRvbfz_I3M8GnQ4",
+      "postBalance": "999999993.450470",
+      "timestamp": "2025-01-18T04:35:51.929Z",
+      "processed_timestamp": "2025-01-18T04:35:51.929Z",
+      "metadata": {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw"
+      }
+    },
+    {
+      "amount": "999999993.450470",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "uri": "https://arweave.net/6qaBgR0ALsJDAJtkuP-h0551IAZlkRvbfz_I3M8GnQ4",
+      "postBalance": "999999993.450470",
+      "timestamp": "2025-01-18T04:35:51.925Z",
+      "processed_timestamp": "2025-01-18T04:35:51.925Z",
+      "metadata": {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw"
+      }
+    },
+    {
+      "amount": "999999993.450470",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "uri": "https://arweave.net/6qaBgR0ALsJDAJtkuP-h0551IAZlkRvbfz_I3M8GnQ4",
+      "postBalance": "999999993.450470",
+      "timestamp": "2025-01-18T04:35:51.925Z",
+      "processed_timestamp": "2025-01-18T04:35:51.925Z",
+      "metadata": {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw"
+      }
+    },
+    {
+      "amount": "999999993.450470",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "uri": "https://arweave.net/6qaBgR0ALsJDAJtkuP-h0551IAZlkRvbfz_I3M8GnQ4",
+      "postBalance": "999999993.450470",
+      "timestamp": "2025-01-18T04:35:51.923Z",
+      "processed_timestamp": "2025-01-18T04:35:51.923Z",
+      "metadata": {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw"
+      }
+    },
+    {
+      "amount": "999999993.450470",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "uri": "https://arweave.net/6qaBgR0ALsJDAJtkuP-h0551IAZlkRvbfz_I3M8GnQ4",
+      "postBalance": "999999993.450470",
+      "timestamp": "2025-01-18T04:35:51.929Z",
+      "processed_timestamp": "2025-01-18T04:35:51.929Z",
+      "metadata": {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw"
+      }
+    },
+    {
+      "amount": "999999993.450470",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "uri": "https://arweave.net/6qaBgR0ALsJDAJtkuP-h0551IAZlkRvbfz_I3M8GnQ4",
+      "postBalance": "999999993.450470",
+      "timestamp": "2025-01-18T04:35:51.938Z",
+      "processed_timestamp": "2025-01-18T04:35:51.938Z",
+      "metadata": {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw"
+      }
+    },
+    {
+      "amount": "999999993.450470",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "uri": "https://arweave.net/6qaBgR0ALsJDAJtkuP-h0551IAZlkRvbfz_I3M8GnQ4",
+      "postBalance": "999999993.450470",
+      "timestamp": "2025-01-18T04:35:51.925Z",
+      "processed_timestamp": "2025-01-18T04:35:51.925Z",
+      "metadata": {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw"
+      }
+    },
+    {
+      "amount": "999999993.450470",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "uri": "https://arweave.net/6qaBgR0ALsJDAJtkuP-h0551IAZlkRvbfz_I3M8GnQ4",
+      "postBalance": "999999993.450470",
+      "timestamp": "2025-01-18T04:35:51.914Z",
+      "processed_timestamp": "2025-01-18T04:35:51.914Z",
+      "metadata": {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw"
+      }
+    },
+    {
+      "amount": "999999993.450470",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "uri": "https://arweave.net/6qaBgR0ALsJDAJtkuP-h0551IAZlkRvbfz_I3M8GnQ4",
+      "postBalance": "999999993.450470",
+      "timestamp": "2025-01-18T04:35:51.921Z",
+      "processed_timestamp": "2025-01-18T04:35:51.921Z",
+      "metadata": {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw"
+      }
+    },
+    {
+      "amount": "999999993.450470",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "uri": "https://arweave.net/6qaBgR0ALsJDAJtkuP-h0551IAZlkRvbfz_I3M8GnQ4",
+      "postBalance": "999999993.450470",
+      "timestamp": "2025-01-18T04:35:51.923Z",
+      "processed_timestamp": "2025-01-18T04:35:51.923Z",
+      "metadata": {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw"
+      }
+    },
+    {
+      "amount": "999999993.450470",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "uri": "https://arweave.net/6qaBgR0ALsJDAJtkuP-h0551IAZlkRvbfz_I3M8GnQ4",
+      "postBalance": "999999993.450470",
+      "timestamp": "2025-01-18T04:35:51.930Z",
+      "processed_timestamp": "2025-01-18T04:35:51.930Z",
+      "metadata": {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw"
+      }
+    },
+    {
+      "amount": "999999993.450470",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "uri": "https://arweave.net/6qaBgR0ALsJDAJtkuP-h0551IAZlkRvbfz_I3M8GnQ4",
+      "postBalance": "999999993.450470",
+      "timestamp": "2025-01-18T04:35:51.929Z",
+      "processed_timestamp": "2025-01-18T04:35:51.929Z",
+      "metadata": {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw"
+      }
+    },
+    {
+      "amount": "999999993.450470",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "uri": "https://arweave.net/6qaBgR0ALsJDAJtkuP-h0551IAZlkRvbfz_I3M8GnQ4",
+      "postBalance": "999999993.450470",
+      "timestamp": "2025-01-18T04:35:51.923Z",
+      "processed_timestamp": "2025-01-18T04:35:51.923Z",
+      "metadata": {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw"
+      }
+    },
+    {
+      "amount": "999999993.450470",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "uri": "https://arweave.net/6qaBgR0ALsJDAJtkuP-h0551IAZlkRvbfz_I3M8GnQ4",
+      "postBalance": "999999993.450470",
+      "timestamp": "2025-01-18T04:35:51.922Z",
+      "processed_timestamp": "2025-01-18T04:35:51.922Z",
+      "metadata": {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw"
+      }
+    },
+    {
+      "amount": "999999993.450470",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "uri": "https://arweave.net/6qaBgR0ALsJDAJtkuP-h0551IAZlkRvbfz_I3M8GnQ4",
+      "postBalance": "999999993.450470",
+      "timestamp": "2025-01-18T04:35:51.926Z",
+      "processed_timestamp": "2025-01-18T04:35:51.926Z",
+      "metadata": {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw"
+      }
+    },
+    {
+      "amount": "999999993.450470",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "uri": "https://arweave.net/6qaBgR0ALsJDAJtkuP-h0551IAZlkRvbfz_I3M8GnQ4",
+      "postBalance": "999999993.450470",
+      "timestamp": "2025-01-18T04:35:51.925Z",
+      "processed_timestamp": "2025-01-18T04:35:51.925Z",
+      "metadata": {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw"
+      }
+    },
+    {
+      "amount": "999999993.450470",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "uri": "https://arweave.net/6qaBgR0ALsJDAJtkuP-h0551IAZlkRvbfz_I3M8GnQ4",
+      "postBalance": "999999993.450470",
+      "timestamp": "2025-01-18T04:35:51.915Z",
+      "processed_timestamp": "2025-01-18T04:35:51.915Z",
+      "metadata": {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw"
+      }
+    },
+    {
+      "amount": "999999993.450470",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "uri": "https://arweave.net/6qaBgR0ALsJDAJtkuP-h0551IAZlkRvbfz_I3M8GnQ4",
+      "postBalance": "999999993.450470",
+      "timestamp": "2025-01-18T04:35:51.918Z",
+      "processed_timestamp": "2025-01-18T04:35:51.918Z",
+      "metadata": {
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "description": "",
+        "image": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw"
+      }
+    }
+  ]
+}
