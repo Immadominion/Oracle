@@ -10,6 +10,8 @@ import 'package:oracle/presentation/views/terminal/widgets/web_socket_tests.dart
 import 'package:oracle/presentation/views/wallet/wallet.dart' as oracle_wallet;
 import 'package:reown_appkit/reown_appkit.dart';
 
+import 'terminal/terminal.dart';
+
 class DashBoard extends HookConsumerWidget {
   final ReownAppKitModal appKitModal;
   const DashBoard(this.appKitModal, {super.key});
@@ -28,8 +30,7 @@ class DashBoard extends HookConsumerWidget {
 
     final List<Widget> tabs = [
       const Home(),
-      // const Terminal(),
-      WebSocketTest(), // const MemecoinFeed(),
+      const Terminal(), // WebSocketTest(),
       const Positions(),
       oracle_wallet.Wallet(
         appKitModal: appKitModal,

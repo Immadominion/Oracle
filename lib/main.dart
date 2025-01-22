@@ -88,43 +88,49 @@ class _OracleState extends ConsumerState<Oracle> {
             darkTheme: EnvThemeManager.darkTheme,
             theme: EnvThemeManager.lightTheme,
             themeMode: isDarkMode ? ThemeMode.dark : ThemeMode.light,
-            // home: FutureBuilder(
-            //   future: initializeAppKitModal(),
-            //   builder: (context, snapshot) {
-            //     if (snapshot.connectionState == ConnectionState.waiting) {
-            //       return const Scaffold(
-            //         body: Center(child: CircularProgressIndicator()),
-            //       );
-            //     }
-            //     if (snapshot.hasError) {
-            //       return Scaffold(
-            //         body: Center(
-            //           child: Text(
-            //             'Error initializing appKitModal: ${snapshot.error}',
-            //             style: TextStyle(color: Colors.red, fontSize: 20.sp),
-            //           ),
-            //         ),
-            //       );
-            //     }
-            //     if (snapshot.hasData) {
-            //       final appKitModal = snapshot.data!;
-            //       return Stack(
-            //         children: [
-            //           OracleSplash(appKitModal: appKitModal),
-            //           AppKitModalConnectButton(
-            //             appKit: appKitModal,
-            //             custom: const SizedBox.shrink(),
-            //           ),
-            //         ],
-            //       );
-            //     }
-            //     return const Scaffold(
-            //       body: Center(
-            //           child: Text('Unexpected state: No data available')),
-            //     );
-            //   },
-            // ),
-            home: DashBoard(appKitModal),
+            home: FutureBuilder(
+              future: initializeAppKitModal(),
+              builder: (context, snapshot) {
+                if (snapshot.connectionState == ConnectionState.waiting) {
+                  return Scaffold(
+                    body: Center(
+                      child: DashBoard(appKitModal),
+                      // child: CircularProgressIndicator(),
+                    ),
+                  );
+                }
+                if (snapshot.hasError) {
+                  return DashBoard(appKitModal);
+                  // return Scaffold(
+                  //   body: Center(
+                  //     child: Text(
+                  //       'Error initializing appKitModal: ${snapshot.error}',
+                  //       style: TextStyle(color: Colors.red, fontSize: 20.sp),
+                  //     ),
+                  //   ),
+                  // );
+                }
+                if (snapshot.hasData) {
+                  final appKitModal = snapshot.data!;
+                  return Stack(
+                    children: [
+                      // OracleSplash(appKitModal: appKitModal),
+                      DashBoard(appKitModal),
+                      AppKitModalConnectButton(
+                        appKit: appKitModal,
+                        custom: const SizedBox.shrink(),
+                      ),
+                    ],
+                  );
+                }
+                return Scaffold(
+                  body: Center(
+                    child: DashBoard(appKitModal),
+                    // child: Text('Unexpected state: No data available'),
+                  ),
+                );
+              },
+            ),
           ),
         );
       },

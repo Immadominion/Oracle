@@ -35,8 +35,7 @@ dependencies:
     git:
       url: /Users/immadominion/SlimyCard-Animated-Flutter-Package
   reown_appkit: ^1.2.0-beta01
-  flutter_hooks:
-    ^0.20.5
+  flutter_hooks: ^0.20.5
   mobile_scanner: ^6.0.2
   permission_handler: ^11.3.1
   qr_flutter: ^4.1.0
@@ -46,6 +45,10 @@ dependencies:
   logger: ^2.5.0
   connectivity_plus: ^6.1.2
   http: ^1.2.2
+  fl_chart: ^0.65.0
+  syncfusion_flutter_charts: ^28.1.39
+  syncfusion_flutter_core:
+    ^28.1.39
 
     # ref: main
 
