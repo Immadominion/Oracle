@@ -4,7 +4,6 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 
 import '../home.dart';
-import 'suggestion_card_stack.dart';
 
 class SkipAndApe extends ConsumerWidget {
   const SkipAndApe({super.key});
@@ -16,7 +15,7 @@ class SkipAndApe extends ConsumerWidget {
       children: [
         Expanded(
           child: _AnimatedButton(
-            onPressed: () {
+            onPressed: () { 
               debugPrint("Skip pressed");
               ref.read(swipeProvider.notifier).state = SwipeDirection.left;
             },

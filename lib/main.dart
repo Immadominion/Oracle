@@ -8,7 +8,6 @@ import 'package:oracle/utils/locator.dart';
 import 'package:reown_appkit/reown_appkit.dart';
 
 import 'data/controllers/theme_notifier.dart';
-import 'presentation/views/dashboard.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -28,12 +27,17 @@ Future<ReownAppKitModal> initializeAppKitModal() async {
   appKitModal = ReownAppKitModal(
     context: navigatorKey.currentContext!,
     projectId: '2009f3949892128ca51c1d44fd59e939',
-    logLevel: LogLevel.nothing,
+    logLevel: LogLevel.all,
     metadata: const PairingMetadata(
       name: 'Oracle AI',
       description: 'AI Memecoin trading padre',
-      url: 'https://certifyme.live/',
+      url: 'https://oracle.fun/',
       icons: ['assets/images/oracle.png'],
+      redirect: Redirect(
+        native: 'com.oracle.fun://',
+        universal:
+            'https://cloud.reown.com/app/51a931f0-8541-423a-b1f3-f4cdcc860b44/project/be38ed26-abb9-4432-bf17-239061a24399',
+      ),
     ),
     optionalNamespaces: {
       'solana': RequiredNamespace.fromJson({
@@ -92,30 +96,27 @@ class _OracleState extends ConsumerState<Oracle> {
               future: initializeAppKitModal(),
               builder: (context, snapshot) {
                 if (snapshot.connectionState == ConnectionState.waiting) {
-                  return Scaffold(
+                  return const Scaffold(
                     body: Center(
-                      child: DashBoard(appKitModal),
-                      // child: CircularProgressIndicator(),
+                      child: CircularProgressIndicator(),
                     ),
                   );
                 }
                 if (snapshot.hasError) {
-                  return DashBoard(appKitModal);
-                  // return Scaffold(
-                  //   body: Center(
-                  //     child: Text(
-                  //       'Error initializing appKitModal: ${snapshot.error}',
-                  //       style: TextStyle(color: Colors.red, fontSize: 20.sp),
-                  //     ),
-                  //   ),
-                  // );
+                  return Scaffold(
+                    body: Center(
+                      child: Text(
+                        'Error initializing appKitModal: ${snapshot.error}',
+                        style: TextStyle(color: Colors.red, fontSize: 20.sp),
+                      ),
+                    ),
+                  );
                 }
                 if (snapshot.hasData) {
                   final appKitModal = snapshot.data!;
                   return Stack(
                     children: [
-                      // OracleSplash(appKitModal: appKitModal),
-                      DashBoard(appKitModal),
+                      OracleSplash(appKitModal: appKitModal),
                       AppKitModalConnectButton(
                         appKit: appKitModal,
                         custom: const SizedBox.shrink(),
@@ -123,10 +124,9 @@ class _OracleState extends ConsumerState<Oracle> {
                     ],
                   );
                 }
-                return Scaffold(
+                return const Scaffold(
                   body: Center(
-                    child: DashBoard(appKitModal),
-                    // child: Text('Unexpected state: No data available'),
+                    child: Text('Unexpected state: No data available'),
                   ),
                 );
               },

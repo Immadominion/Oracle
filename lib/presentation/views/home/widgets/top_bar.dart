@@ -4,6 +4,8 @@ import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:oracle/core/constants/constants.dart';
 import 'package:oracle/core/extensions/widget_extension.dart';
 
+import 'choose_oracle_buddy/choose_oracle_bottom_modal.dart';
+
 class HomeAppBar extends StatefulWidget implements PreferredSizeWidget {
   @override
   Size get preferredSize => Size.fromHeight(80.h);
@@ -21,38 +23,56 @@ class HomeAppBarState extends State<HomeAppBar> {
     return Row(
       mainAxisAlignment: MainAxisAlignment.spaceBetween,
       children: [
-        Row(
-          children: [
-            CircleAvatar(
-              backgroundImage:
-                  const AssetImage('assets/images/oracle_mum_buddy.jpg'),
-              radius: 26.r,
-            ),
-            SizedBox(width: 8.w),
-            RichText(
-              text: TextSpan(children: [
-                TextSpan(
-                  text: 'Oracle',
-                  style: TextStyle(
-                    fontWeight: FontWeight.w500,
-                    fontFamily: 'Int',
-                    fontSize: 16.sp,
-                    color:
-                        Theme.of(context).colorScheme.onPrimary.withOpacity(.7),
-                  ),
+        // When this row is pressed, show the choose oracle modal
+        GestureDetector(
+          onTap: () {
+            showModalBottomSheet(
+              shape: RoundedRectangleBorder(
+                borderRadius: BorderRadius.only(
+                  topLeft: Radius.circular(20.r),
+                  topRight: Radius.circular(20.r),
                 ),
-                TextSpan(
-                  text: '\nMommy',
-                  style: TextStyle(
-                    fontWeight: FontWeight.bold,
-                    fontFamily: 'Int',
-                    fontSize: 18.sp,
-                    color: Theme.of(context).colorScheme.onPrimary,
+              ),
+              isScrollControlled: true,
+              context: context,
+              builder: (context) => const ChooseOracleModal(),
+            );
+          },
+          child: Row(
+            children: [
+              CircleAvatar(
+                backgroundImage:
+                    const AssetImage('assets/images/oracle_card/mommy.jpg'),
+                radius: 26.r,
+              ),
+              SizedBox(width: 8.w),
+              RichText(
+                text: TextSpan(children: [
+                  TextSpan(
+                    text: 'Oracle',
+                    style: TextStyle(
+                      fontWeight: FontWeight.w500,
+                      fontFamily: 'Int',
+                      fontSize: 16.sp,
+                      color: Theme.of(context)
+                          .colorScheme
+                          .onPrimary
+                          .withOpacity(.7),
+                    ),
                   ),
-                ),
-              ]),
-            )
-          ],
+                  TextSpan(
+                    text: '\nMommy',
+                    style: TextStyle(
+                      fontWeight: FontWeight.bold,
+                      fontFamily: 'Int',
+                      fontSize: 18.sp,
+                      color: Theme.of(context).colorScheme.onPrimary,
+                    ),
+                  ),
+                ]),
+              )
+            ],
+          ),
         ),
         Container(
           decoration: BoxDecoration(

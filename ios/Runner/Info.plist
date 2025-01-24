@@ -57,9 +57,7 @@
   		<string>phantom</string>
   		<string>solflare</string>
   		<string>backpack</string>
-		<!-- Ton Wallets -->
-  		<string>tonkeeper</string>
-  		<string>mytonwallet</string>
+  		<string>trust</string>
 	</array>
 </dict>
 </plist>

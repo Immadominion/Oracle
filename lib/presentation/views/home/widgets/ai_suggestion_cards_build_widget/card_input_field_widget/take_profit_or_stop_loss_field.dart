@@ -26,7 +26,7 @@ class TakeProfitStopLossField extends StatelessWidget {
           topRight: Radius.circular(8.r),
           bottomRight: Radius.circular(8.r),
         ),
-        color: Colors.grey[900],
+        color: Theme.of(context).primaryColor.withAlpha(200),
       ),
       child: Row(
         mainAxisAlignment: MainAxisAlignment.spaceBetween,

@@ -20,6 +20,7 @@ class SuggestionCardStackState extends ConsumerState<SuggestionCardStack>
   int _currentIndex = 0;
   bool _isDragging = false;
 
+
   // Animation controller for programmatic swipes
   late AnimationController _swipeController;
   late Animation<Offset> _swipeAnimation;

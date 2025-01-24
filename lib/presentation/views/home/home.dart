@@ -57,9 +57,8 @@ class _HomeState extends ConsumerState<Home>
               final bottomPadding = 16.h;
               final horizontalPadding = 20.w;
               final skipAndApeHeight = 45.h;
-              final cardStackHeight = constraints.maxHeight -
-                  skipAndApeHeight -
-                  (bottomPadding * 2);
+              final cardStackHeight =
+                  constraints.maxHeight - skipAndApeHeight - bottomPadding;
 
               return Column(
                 children: [
@@ -68,7 +67,6 @@ class _HomeState extends ConsumerState<Home>
                     height: cardStackHeight,
                     child: const SuggestionCardStack(),
                   ),
-                  // const Spacer(),
                   AnimatedSlide(
                     duration: const Duration(milliseconds: 300),
                     curve: Curves.easeOut,
@@ -77,8 +75,8 @@ class _HomeState extends ConsumerState<Home>
                       EdgeInsets.only(
                         left: horizontalPadding,
                         right: horizontalPadding,
-                        top: 10.h,
-                        bottom: 5.h,
+                        top: 5.h,
+                        bottom: 2.h,
                       ),
                     ),
                   ),

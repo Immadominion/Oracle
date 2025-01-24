@@ -18,7 +18,7 @@ class Wallet extends StatefulWidget {
 final List<String> images = <String>[
   "assets/images/composure.jpeg",
   "assets/images/oracle-ai.jpg",
-  "assets/images/oracle_mum_buddy.jpg",
+  "assets/images/oracle_card/oracle_mum_buddy.jpg",
 ];
 
 final List<String> name = <String>[
@@ -41,9 +41,9 @@ final List<String> ticker = <String>[
 class _WalletState extends State<Wallet> with WidgetsBindingObserver {
   @override
   Widget build(BuildContext context) {
-    debugPrint(widget.appKitModal.balanceNotifier.value); //balance
-    debugPrint(widget.appKitModal.session?.email); // email
-    debugPrint(widget.appKitModal.session?.getAddress('')); // address
+    debugPrint(widget.appKitModal.balanceNotifier.value);
+    debugPrint(widget.appKitModal.session?.email);
+    debugPrint(widget.appKitModal.session?.getAddress(''));
 
     return SafeArea(
         child: Scaffold(

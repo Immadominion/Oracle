@@ -27,7 +27,7 @@ class DepositWithdrawWidget extends StatelessWidget {
                 ),
                 context: context,
                 isScrollControlled: true,
-                builder: (BuildContext context) {
+                builder: (context) {
                   return DepositBottomSheet(
                     appKitModal: appKit,
                   );

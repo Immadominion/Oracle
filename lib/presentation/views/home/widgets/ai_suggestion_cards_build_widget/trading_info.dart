@@ -1,51 +1,37 @@
+import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 
-class TradingInfo extends StatelessWidget {
+class BuySettings extends StatelessWidget {
+  final BuildContext context;
   final double currentPrice;
   final double investmentAmount;
   final double takeProfitPercentage;
   final double stopLossPercentage;
 
-  const TradingInfo({
+  const BuySettings({
     super.key,
     required this.currentPrice,
     required this.investmentAmount,
     required this.takeProfitPercentage,
     required this.stopLossPercentage,
+    required this.context,
   });
 
   @override
   Widget build(BuildContext context) {
     final tpPrice = currentPrice * (1 + takeProfitPercentage);
     final slPrice = currentPrice * (1 - stopLossPercentage);
-    final potentialProfit = (tpPrice - currentPrice) * investmentAmount / currentPrice;
-    final potentialLoss = (currentPrice - slPrice) * investmentAmount / currentPrice;
+    final potentialProfit =
+        (tpPrice - currentPrice) * investmentAmount / currentPrice;
+    final potentialLoss =
+        (currentPrice - slPrice) * investmentAmount / currentPrice;
 
-    return Container(
-      margin: EdgeInsets.only(top: 8.h),
-      padding: EdgeInsets.all(12.w),
-      decoration: BoxDecoration(
-        color: Colors.grey[100],
-        borderRadius: BorderRadius.circular(8.r),
-      ),
-      child: Column(
-        children: [
-          _buildTradingInfoRow(
-            'Take Profit Target',
-            '\$${tpPrice.toStringAsFixed(4)}',
-            '+\$${potentialProfit.toStringAsFixed(2)}',
-            Colors.green,
-          ),
-          Divider(height: 8.h),
-          _buildTradingInfoRow(
-            'Stop Loss Target',
-            '\$${slPrice.toStringAsFixed(4)}',
-            '-\$${potentialLoss.toStringAsFixed(2)}',
-            Colors.red,
-          ),
-        ],
-      ),
+    return _buildTradingInfoRow(
+      'Buy Settings',
+      '\$${tpPrice.toStringAsFixed(4)}',
+      '+\$${potentialProfit.toStringAsFixed(2)}',
+      Colors.green,
     );
   }
 
@@ -55,42 +41,90 @@ class TradingInfo extends StatelessWidget {
     String profit,
     Color color,
   ) {
-    return Row(
-      mainAxisAlignment: MainAxisAlignment.spaceBetween,
-      children: [
-        Expanded(
-          flex: 2,
-          child: Text(
-            label,
-            style: TextStyle(
-              fontSize: 12.sp,
-              color: Colors.grey[600],
+    return Container(
+      padding: EdgeInsets.symmetric(
+        horizontal: 12.w,
+        vertical: 3.h,
+      ),
+      decoration: BoxDecoration(
+        border: Border.all(
+          color: Theme.of(context).colorScheme.scrim.withAlpha(
+                100,
+              ),
+          width: 1.5.w,
+        ),
+        borderRadius: BorderRadius.circular(
+          8.r,
+        ),
+      ),
+      child: Row(
+        mainAxisAlignment: MainAxisAlignment.spaceBetween,
+        children: [
+          Row(
+            children: [
+              Icon(
+                CupertinoIcons.slider_horizontal_3,
+                size: 16.sp,
+                color: Theme.of(context).colorScheme.onSurface.withAlpha(200),
+              ),
+              SizedBox(
+                width: 3.sp,
+              ),
+              Text(
+                label,
+                style: TextStyle(
+                  fontSize: 10.sp,
+                  color: Theme.of(context).colorScheme.onSurface.withAlpha(200),
+                ),
+              ),
+            ],
+          ),
+          Container(
+            padding: EdgeInsets.all(4.sp),
+            decoration: BoxDecoration(
+              color: Theme.of(context).colorScheme.scrim.withAlpha(100),
+              borderRadius: BorderRadius.circular(4.r),
+            ),
+            child: Row(
+              children: [
+                Icon(
+                  Icons.shield_outlined,
+                  size: 16.sp,
+                ),
+                Text(
+                  'Mev: OFF',
+                  style: TextStyle(
+                    fontSize: 10.sp,
+                    fontWeight: FontWeight.bold,
+                    color:
+                        Theme.of(context).colorScheme.onSurface.withAlpha(200),
+                  ),
+                ),
+              ],
             ),
           ),
-        ),
-        Expanded(
-          flex: 1,
-          child: Text(
-            price,
-            style: TextStyle(
-              fontSize: 12.sp,
-              fontWeight: FontWeight.bold,
-            ),
+          Row(
+            children: [
+              Icon(
+                CupertinoIcons.hare,
+                size: 16.sp,
+              ),
+              SizedBox(
+                width: 3.sp,
+              ),
+              Text(
+                '20%',
+                style: TextStyle(
+                  fontSize: 12.sp,
+                  fontWeight: FontWeight.bold,
+                  color: color,
+                ),
+                textAlign: TextAlign.right,
+              ),
+            ],
           ),
-        ),
-        Expanded(
-          flex: 1,
-          child: Text(
-            profit,
-            style: TextStyle(
-              fontSize: 12.sp,
-              fontWeight: FontWeight.bold,
-              color: color,
-            ),
-            textAlign: TextAlign.right,
-          ),
-        ),
-      ],
+        ],
+      ),
     );
   }
 }

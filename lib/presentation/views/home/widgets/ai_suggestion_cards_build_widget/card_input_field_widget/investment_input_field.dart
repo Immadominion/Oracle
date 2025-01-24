@@ -17,7 +17,7 @@ class InvestmentInputField extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return SizedBox(
-      height: 31.5.h,
+      height: 30.h,
       child: Container(
         padding: EdgeInsets.symmetric(horizontal: 8.w, vertical: 4.h),
         decoration: BoxDecoration(
@@ -25,7 +25,7 @@ class InvestmentInputField extends StatelessWidget {
             topLeft: Radius.circular(8.r),
             bottomLeft: Radius.circular(8.r),
           ),
-          color: Colors.grey[900],
+          color: Theme.of(context).primaryColor.withAlpha(200),
         ),
         child: Row(
           children: [
@@ -67,5 +67,3 @@ class InvestmentInputField extends StatelessWidget {
     );
   }
 }
-
-
