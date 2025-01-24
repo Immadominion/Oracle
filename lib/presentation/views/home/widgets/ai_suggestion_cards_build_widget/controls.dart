@@ -56,7 +56,7 @@ class Controls extends StatelessWidget {
               ],
             ),
 
-            SizedBox(height: 4.h),
+            SizedBox(height: 2.h),
 
             //Row that shows the estimated coin that would be gotten when bought
             Row(

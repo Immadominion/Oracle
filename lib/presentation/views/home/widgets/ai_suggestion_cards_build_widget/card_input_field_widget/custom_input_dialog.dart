@@ -1,3 +1,5 @@
+// ignore_for_file: deprecated_member_use
+
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
@@ -100,7 +102,7 @@ class CustomInputDialogState extends State<CustomInputDialog>
   Widget build(BuildContext context) {
     // Calculate the number of columns based on the screen width
     final screenWidth = MediaQuery.of(context).size.width;
-    final desiredColumnWidth = 80.0; // Adjust this value as needed
+    const desiredColumnWidth = 80.0;
     final columnsCount = (screenWidth / desiredColumnWidth).floor().clamp(2, 3);
 
     return ScaleTransition(

@@ -3,14 +3,15 @@ import 'package:flutter_screenutil/flutter_screenutil.dart';
 
 import 'custom_input_dialog.dart';
 
-class DropdownField extends StatelessWidget {
+class SetTakeProfitStopLossDialog extends StatelessWidget {
   final String label;
   final TextEditingController controller;
   final Function(String) onChanged;
   final List<String> percentageTags;
   final Color color;
 
-  const DropdownField({
+  const SetTakeProfitStopLossDialog({
+    super.key,
     required this.label,
     required this.controller,
     required this.onChanged,

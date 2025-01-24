@@ -131,7 +131,6 @@ class _SuggestionCardContentState extends State<SuggestionCardContent> {
             ),
             SizedBox(height: 4.h),
             BuySettings(
-              context: context,
               currentPrice: widget.currentPrice,
               investmentAmount: investmentAmount,
               takeProfitPercentage: takeProfitPercentage,
