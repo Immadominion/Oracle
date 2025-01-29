@@ -78,7 +78,7 @@ class ChooseOracleModalState extends State<ChooseOracleModal> {
                 itemCount: 5,
                 itemBuilder: (context, index) {
                   if (index == 4) {
-                    return buildCustomOracleCard(ref);
+                    return const CustomOracleSetupPage();
                   }
 
                   final oracle = oracles[index];

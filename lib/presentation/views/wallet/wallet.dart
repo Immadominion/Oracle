@@ -41,9 +41,10 @@ final List<String> ticker = <String>[
 class _WalletState extends State<Wallet> with WidgetsBindingObserver {
   @override
   Widget build(BuildContext context) {
-    debugPrint(widget.appKitModal.balanceNotifier.value);
-    debugPrint(widget.appKitModal.session?.email);
-    debugPrint(widget.appKitModal.session?.getAddress(''));
+    debugPrint("Sol balance: ${widget.appKitModal.balanceNotifier.value}");
+    debugPrint("Email address: ${widget.appKitModal.session?.email}");
+    debugPrint(
+        "User wallet address: ${widget.appKitModal.session?.getAddress('solana')}");
 
     return SafeArea(
         child: Scaffold(

@@ -47,8 +47,10 @@ dependencies:
   http: ^1.2.2
   fl_chart: ^0.65.0
   syncfusion_flutter_charts: ^28.1.39
-  syncfusion_flutter_core:
-    ^28.1.39
+  syncfusion_flutter_core: ^28.1.39
+  solana:
+    ^0.31.2
+  convert: ^3.1.2
 
     # ref: main
 

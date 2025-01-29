@@ -1,7 +1,10 @@
+import 'dart:async';
+
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
+import 'package:oracle/presentation/views/wallet/swap.dart';
 
 import '../home.dart';
 
@@ -15,7 +18,7 @@ class SkipAndApe extends ConsumerWidget {
       children: [
         Expanded(
           child: _AnimatedButton(
-            onPressed: () { 
+            onPressed: () {
               debugPrint("Skip pressed");
               ref.read(swipeProvider.notifier).state = SwipeDirection.left;
             },
@@ -33,6 +36,17 @@ class SkipAndApe extends ConsumerWidget {
             onPressed: () {
               debugPrint("Ape pressed");
               ref.read(swipeProvider.notifier).state = SwipeDirection.right;
+              Timer(
+                const Duration(milliseconds: 300),
+                () {
+                  Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                      builder: (context) => const JupiterSwapScreen(),
+                    ),
+                  );
+                },
+              );
             },
             backgroundColor: Theme.of(context).colorScheme.primary,
             icon: CupertinoIcons.checkmark_circle,

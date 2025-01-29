@@ -1,20 +1,19 @@
 import 'dart:async';
 import 'package:flutter/material.dart';
-import 'package:oracle/main.dart';
+import 'package:hooks_riverpod/hooks_riverpod.dart';
+import 'package:oracle/data/controllers/wallet_controller.dart';
 import 'package:oracle/presentation/views/auth/login.dart';
 import 'package:oracle/presentation/views/dashboard.dart';
 import 'package:page_transition/page_transition.dart';
-import 'package:reown_appkit/reown_appkit.dart';
 
-class OracleSplash extends StatefulWidget {
-  final ReownAppKitModal appKitModal;
-  const OracleSplash({super.key, required this.appKitModal});
+class OracleSplash extends ConsumerStatefulWidget {
+  const OracleSplash({super.key});
 
   @override
-  OracleSplashState createState() => OracleSplashState();
+  ConsumerState<OracleSplash> createState() => _OracleSplashState();
 }
 
-class OracleSplashState extends State<OracleSplash> {
+class _OracleSplashState extends ConsumerState<OracleSplash> {
   @override
   void initState() {
     super.initState();
@@ -25,13 +24,21 @@ class OracleSplashState extends State<OracleSplash> {
 
   /// Navigates to the appropriate screen based on wallet connection
   void _navigateBasedOnConnection() {
+    final walletController = ref.read(walletControllerProvider);
+    final appKitModal = walletController.appKitModal;
+
+    if (appKitModal == null) {
+      // Handle case where appKitModal is not initialized
+      return;
+    }
+
     // Check if the appKitModal is connected
-    if (widget.appKitModal.isConnected) {
+    if (appKitModal.isConnected) {
       // Navigate to Dashboard if connected
       Navigator.of(context).pushReplacement(
         PageTransition(
           type: PageTransitionType.bottomToTop,
-          child: DashBoard(appKitModal),
+          child: const DashBoard(),
         ),
       );
     } else {
@@ -39,7 +46,7 @@ class OracleSplashState extends State<OracleSplash> {
       Navigator.of(context).pushReplacement(
         PageTransition(
           type: PageTransitionType.bottomToTop,
-          child: LoginPage(appKitModal: widget.appKitModal),
+          child: const LoginPage(),
         ),
       );
     }

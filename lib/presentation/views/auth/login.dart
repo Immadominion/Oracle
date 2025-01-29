@@ -1,32 +1,43 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
+import 'package:hooks_riverpod/hooks_riverpod.dart';
 import 'package:oracle/core/extensions/widget_extension.dart';
 import 'package:oracle/presentation/views/dashboard.dart';
 import 'package:reown_appkit/reown_appkit.dart';
 
-class LoginPage extends StatefulWidget {
-  final ReownAppKitModal appKitModal;
-  const LoginPage({super.key, required this.appKitModal});
+import '../../../data/controllers/wallet_controller.dart';
+
+class LoginPage extends ConsumerStatefulWidget {
+  const LoginPage({super.key});
 
   @override
-  State<LoginPage> createState() => _LoginPageState();
+  ConsumerState<LoginPage> createState() => _LoginPageState();
 }
 
-class _LoginPageState extends State<LoginPage> {
+class _LoginPageState extends ConsumerState<LoginPage> {
+  ReownAppKitModal? appKitModal;
   bool _isConnected = false;
 
   @override
   void initState() {
     super.initState();
 
-    // Delay listener registration until the widget is fully built
     WidgetsBinding.instance.addPostFrameCallback((_) {
-      widget.appKitModal.addListener(_checkConnectionStatus);
+      setState(() {
+        appKitModal = ref.read(walletControllerProvider).appKitModal!;
+      });
+
+      if (appKitModal != null) {
+        appKitModal!.addListener(_checkConnectionStatus);
+      }
     });
+
+    // Delay listener registration until the widget is fully built
+    appKitModal?.addListener(_checkConnectionStatus);
   }
 
   void _checkConnectionStatus() {
-    if (widget.appKitModal.isConnected && !_isConnected) {
+    if (appKitModal?.isConnected == true && !_isConnected) {
       setState(() {
         _isConnected = true;
       });
@@ -35,8 +46,7 @@ class _LoginPageState extends State<LoginPage> {
       if (mounted) {
         Navigator.pushReplacement(
           context,
-          MaterialPageRoute(
-              builder: (context) => DashBoard(widget.appKitModal)),
+          MaterialPageRoute(builder: (context) => const DashBoard()),
         );
       }
     }
@@ -45,7 +55,7 @@ class _LoginPageState extends State<LoginPage> {
   @override
   void dispose() {
     // Clean up the listener to prevent memory leaks
-    widget.appKitModal.removeListener(_checkConnectionStatus);
+    appKitModal?.removeListener(_checkConnectionStatus);
     super.dispose();
   }
 
@@ -83,13 +93,13 @@ class _LoginPageState extends State<LoginPage> {
               const SizedBox(height: 40),
               AppKitModalNetworkSelectButton(
                 context: context,
-                appKit: widget.appKitModal,
+                appKit: appKitModal!,
               ),
               const SizedBox(height: 40),
               Center(
                 child: AppKitModalConnectButton(
                   context: context,
-                  appKit: widget.appKitModal,
+                  appKit: appKitModal!,
                 ),
               ),
             ],

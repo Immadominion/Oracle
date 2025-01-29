@@ -10,11 +10,11 @@ import 'package:oracle/presentation/views/terminal/widgets/web_socket_tests.dart
 import 'package:oracle/presentation/views/wallet/wallet.dart' as oracle_wallet;
 import 'package:reown_appkit/reown_appkit.dart';
 
+import '../../data/controllers/wallet_controller.dart';
 import 'terminal/terminal.dart';
 
 class DashBoard extends HookConsumerWidget {
-  final ReownAppKitModal appKitModal;
-  const DashBoard(this.appKitModal, {super.key});
+  const DashBoard({super.key});
 
   @override
   Widget build(BuildContext context, WidgetRef ref) {
@@ -27,6 +27,8 @@ class DashBoard extends HookConsumerWidget {
     debugPrint('Consumer Home rebuilt: ${DateTime.now()}');
     final selectedPageIndex = ref.watch(dashBoardControllerProvider).myPage;
     Size size = MediaQuery.of(context).size;
+
+    final appKitModal = ref.watch(walletControllerProvider).appKitModal!;
 
     final List<Widget> tabs = [
       const Home(),
