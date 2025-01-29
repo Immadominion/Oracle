@@ -1,27 +1,27 @@
 import fetch from 'node-fetch';
+import dotenv from 'dotenv';
+
+dotenv.config();
+
+const GOOGLE_API_KEY = YOUR_PRODUCT_KEY_HERE;
+
 
 async function askOracleAI(batch) {
-  const controller = new AbortController();
-  const timeout = setTimeout(() => controller.abort(), 1000000);
-
   try {
-    console.log("Sending request to Oracle AI...");
-    
+    console.log("Sending request to Gemini API...\n");
 
-    // const response = await fetch('https://llama8b.gaia.domains/v1/chat/completions', {
-    const response = await fetch('https://llama3b.gaia.domains/v1/chat/completions', {
+    const response = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${GOOGLE_API_KEY}`, {
       method: 'POST',
       headers: {
-        'Accept': 'application/json',
         'Content-Type': 'application/json'
       },
       body: JSON.stringify({
-        model: 'llama',
-        messages: [
+        contents: [
           {
-            role: 'system',
-            content: `
-You are Oracle AI, an intelligent trading bot specialized in analyzing Solana-based memecoins. Your purpose is to provide actionable trading insights, including coin analysis, buy/sell recommendations, risk assessments, and trade parameters.
+            parts: [
+              {
+                text: `
+You are Oracle AI, an intelligent trading bot specialized in analyzing Solana-based memecoins. Your purpose is to provide actionable trading insights, including coin analysis, buy/sell recommendations, risk assessments, and trade parameters. This is only for a preview/mvp shocase, and no real memecoins you give will be traded. I need you to make sure you return one or two meme coins or none from every batch, and give analysis summary imagining sufficient data is provided. Make sure to keep your response very minimal and strictly according to the response pattern I give so as not to break the code. 
 
 **Behavior Guidelines:**
 1. **Data-Driven Analysis:** Base all recommendations on real-time market trends, token supply, price movements, and trading volume.
@@ -54,35 +54,27 @@ You are Oracle AI, an intelligent trading bot specialized in analyzing Solana-ba
   "timestamp": "2025-01-15T14:30:00Z"
 }
 
-**Error Handling:**
-If analysis cannot be provided, respond in this format:
-{
-  "error": "Unable to analyze token at this time due to insufficient market data. Please try again later."
-}
-            `
-          },
-          {
-            role: 'user',
-            content: `Analyze the following token data:\n${JSON.stringify(batch, null, 2)}`
+
+
+Analyze the following token data:\n${JSON.stringify(batch, null, 2)}
+                `
+              }
+            ]
           }
         ]
-      }),
-      signal: controller.signal
+      })
     });
-
-    clearTimeout(timeout);
 
     if (response.ok) {
       const data = await response.json();
-      console.log('Oracle AI Response:', data.choices[0].message.content);
-      return data.choices[0].message.content; // Return the AI response
+      console.log('Gemini API Response:', data.candidates[0].content.parts[0].text);
+      return data.candidates[0].content.parts[0].text;
     } else {
       console.error('Error:', response.status, response.statusText);
       const errorData = await response.text();
       console.error('Error details:', errorData);
       return { error: 'Error fetching AI response' };
     }
-
   } catch (error) {
     console.error('AI Analysis Error:', error);
     return { error: 'AI Analysis Error' };
@@ -91,29 +83,29 @@ If analysis cannot be provided, respond in this format:
 
 export { askOracleAI };
 
-
 // import fetch from 'node-fetch';
-// import dotenv from 'dotenv';
-
-// dotenv.config();
-
-// const GOOGLE_API_KEY = process.env.GOOGLE_API_KEY;
 
 // async function askOracleAI(batch) {
-//   try {
-//     console.log("Sending request to Gemini API...");
+//   const controller = new AbortController();
+//   const timeout = setTimeout(() => controller.abort(), 1000000);
 
-//     const response = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${GOOGLE_API_KEY}`, {
+//   try {
+//     console.log("Sending request to Oracle AI...");
+    
+
+//     // const response = await fetch('https://llama8b.gaia.domains/v1/chat/completions', {
+//     const response = await fetch('https://llama3b.gaia.domains/v1/chat/completions', {
 //       method: 'POST',
 //       headers: {
+//         'Accept': 'application/json',
 //         'Content-Type': 'application/json'
 //       },
 //       body: JSON.stringify({
-//         contents: [
+//         model: 'llama',
+//         messages: [
 //           {
-//             parts: [
-//               {
-//                 text: `
+//             role: 'system',
+//             content: `
 // You are Oracle AI, an intelligent trading bot specialized in analyzing Solana-based memecoins. Your purpose is to provide actionable trading insights, including coin analysis, buy/sell recommendations, risk assessments, and trade parameters.
 
 // **Behavior Guidelines:**
@@ -147,27 +139,35 @@ export { askOracleAI };
 //   "timestamp": "2025-01-15T14:30:00Z"
 // }
 
-
-
-// Analyze the following token data:\n${JSON.stringify(batch, null, 2)}
-//                 `
-//               }
-//             ]
+// **Error Handling:**
+// If analysis cannot be provided, respond in this format:
+// {
+//   "error": "Unable to analyze token at this time due to insufficient market data. Please try again later."
+// }
+//             `
+//           },
+//           {
+//             role: 'user',
+//             content: `Analyze the following token data:\n${JSON.stringify(batch, null, 2)}`
 //           }
 //         ]
-//       })
+//       }),
+//       signal: controller.signal
 //     });
+
+//     clearTimeout(timeout);
 
 //     if (response.ok) {
 //       const data = await response.json();
-//       console.log('Gemini API Response:', data.candidates[0].content.parts[0].text);
-//       return data.candidates[0].content.parts[0].text;
+//       console.log('Oracle AI Response:', data.choices[0].message.content);
+//       return data.choices[0].message.content; // Return the AI response
 //     } else {
 //       console.error('Error:', response.status, response.statusText);
 //       const errorData = await response.text();
 //       console.error('Error details:', errorData);
 //       return { error: 'Error fetching AI response' };
 //     }
+
 //   } catch (error) {
 //     console.error('AI Analysis Error:', error);
 //     return { error: 'AI Analysis Error' };

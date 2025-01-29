@@ -1,0 +1,4 @@
+{
+  "timestamp": "2025-01-29T13-22-31-334Z",
+  "analysis": "```json\n{\n  \"coin\": {\n    \"name\": \"Moby AI\",\n    \"symbol\": \"MOBY\",\n    \"mint_address\": \"MintAddressHere\",\n    \"launch_age\": \"Data unavailable\",\n    \"current_price\": 0.00000001,\n    \"market_cap\": \"Data unavailable\",\n    \"liquidity\": \"Data unavailable\",\n    \"volume_24h\": \"Data unavailable\",\n    \"trend\": \"uptrend\"\n  },\n  \"recommendation\": {\n    \"action\": \"BUY\",\n    \"confidence_score\": 75,\n    \"take_profit\": 0.000000015,\n    \"stop_loss\": 0.000000005,\n    \"risk_level\": \"Medium\"\n  },\n  \"analysis_summary\": \"Based on limited available data, MOBY shows potential for short-term gains.  Further analysis is needed to confirm.\",\n  \"timestamp\": \"2025-01-29T14:30:00Z\"\n}\n```\n"
+}

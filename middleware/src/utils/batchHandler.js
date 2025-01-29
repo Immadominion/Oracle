@@ -9,7 +9,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
 class BatchManager extends EventEmitter {
-  constructor(batchSize = 150) {
+  constructor(batchSize = 100) {
     super();
     this.BATCH_SIZE = batchSize;
     this.currentBatch = [];
@@ -64,7 +64,7 @@ class BatchManager extends EventEmitter {
     try {
       const timestamp = new Date().toISOString().replace(/[:.]/g, '-');
       const aiResponseFilePath = path.join(this.aiResponseDir, `ai_response_${timestamp}.json`);
-      const aiResponseData = { timestamp, analysis: response, originalBatch };
+      const aiResponseData = { timestamp, analysis: response };
       await this.writeJsonFile(aiResponseFilePath, aiResponseData);
       this.emit('aiResponseStored', response);
     } catch (error) {

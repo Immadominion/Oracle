@@ -430,8 +430,7 @@ class _JupiterSwapScreenState extends ConsumerState<JupiterSwapScreen> {
   Future<void> _waitForConfirmationHelius(String signature,
       {int maxRetries = 60, int retryDelaySeconds = 5}) async {
     final client = http.Client();
-    final apiKey =
-        'd0aa186c-2365-4d7b-9f45-b330bef3bf8a'; // Replace with your actual Helius API key
+    final apiKey = 'PLEASE-DO-NOT-USE-MY-API-KEY';
 
     try {
       for (int i = 0; i < maxRetries; i++) {

@@ -6,7 +6,8 @@ import { askOracleAI } from '../src/services/llm.service.js';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const sampleBatchFilePath = path.join(__dirname, '../logs/batches/batch_2025-01-18T04-35-46-534Z.json');
+// const sampleBatchFilePath = path.join(__dirname, '../logs/batches/batch_2025-01-18T04-35-46-534Z.json');
+const sampleBatchFilePath = path.join(__dirname, '../logs/batches/batch_2025-01-29T13-22-14-442Z.json');
 
 async function testAskOracleAI() {
   try {
